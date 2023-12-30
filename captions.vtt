@@ -1,0 +1,3504 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.919 --> 00:00:05.030 align:start position:0%
+ 
+okay<00:00:01.439><c> this</c><00:00:01.800><c> is</c><00:00:02.200><c> the</c><00:00:02.639><c> last</c><00:00:03.280><c> topic</c><00:00:04.120><c> for</c><00:00:04.400><c> safe</c>
+
+00:00:05.030 --> 00:00:05.040 align:start position:0%
+okay this is the last topic for safe
+ 
+
+00:00:05.040 --> 00:00:08.310 align:start position:0%
+okay this is the last topic for safe
+stage<00:00:05.400><c> 2</c><00:00:05.919><c> methods</c><00:00:06.919><c> it's</c><00:00:07.160><c> called</c><00:00:07.439><c> sampling</c><00:00:08.080><c> and</c>
+
+00:00:08.310 --> 00:00:08.320 align:start position:0%
+stage 2 methods it's called sampling and
+ 
+
+00:00:08.320 --> 00:00:09.430 align:start position:0%
+stage 2 methods it's called sampling and
+confidence
+
+00:00:09.430 --> 00:00:09.440 align:start position:0%
+confidence
+ 
+
+00:00:09.440 --> 00:00:12.470 align:start position:0%
+confidence
+intervals<00:00:10.440><c> and</c><00:00:11.000><c> as</c><00:00:11.160><c> we</c><00:00:11.360><c> do</c><00:00:11.719><c> more</c><00:00:11.880><c> and</c><00:00:12.080><c> more</c><00:00:12.280><c> of</c>
+
+00:00:12.470 --> 00:00:12.480 align:start position:0%
+intervals and as we do more and more of
+ 
+
+00:00:12.480 --> 00:00:14.749 align:start position:0%
+intervals and as we do more and more of
+this<00:00:12.719><c> topic</c><00:00:13.679><c> you'll</c><00:00:13.920><c> see</c><00:00:14.200><c> that</c><00:00:14.480><c> it's</c>
+
+00:00:14.749 --> 00:00:14.759 align:start position:0%
+this topic you'll see that it's
+ 
+
+00:00:14.759 --> 00:00:17.230 align:start position:0%
+this topic you'll see that it's
+basically<00:00:15.280><c> a</c><00:00:15.440><c> combination</c><00:00:16.320><c> of</c><00:00:16.560><c> the</c><00:00:16.760><c> last</c><00:00:17.000><c> two</c>
+
+00:00:17.230 --> 00:00:17.240 align:start position:0%
+basically a combination of the last two
+ 
+
+00:00:17.240 --> 00:00:20.509 align:start position:0%
+basically a combination of the last two
+topics<00:00:17.600><c> we</c><00:00:17.880><c> did</c><00:00:18.880><c> which</c><00:00:19.119><c> are</c><00:00:19.600><c> discrete</c><00:00:20.039><c> random</c>
+
+00:00:20.509 --> 00:00:20.519 align:start position:0%
+topics we did which are discrete random
+ 
+
+00:00:20.519 --> 00:00:23.109 align:start position:0%
+topics we did which are discrete random
+variables<00:00:21.519><c> and</c><00:00:21.880><c> continuous</c><00:00:22.519><c> random</c>
+
+00:00:23.109 --> 00:00:23.119 align:start position:0%
+variables and continuous random
+ 
+
+00:00:23.119 --> 00:00:25.910 align:start position:0%
+variables and continuous random
+variables<00:00:24.119><c> we</c><00:00:24.240><c> can</c><00:00:24.519><c> divide</c><00:00:24.960><c> this</c><00:00:25.199><c> topic</c><00:00:25.599><c> up</c>
+
+00:00:25.910 --> 00:00:25.920 align:start position:0%
+variables we can divide this topic up
+ 
+
+00:00:25.920 --> 00:00:28.790 align:start position:0%
+variables we can divide this topic up
+into<00:00:26.240><c> two</c><00:00:26.599><c> parts</c><00:00:27.519><c> which</c><00:00:27.920><c> I</c><00:00:28.039><c> want</c><00:00:28.199><c> you</c><00:00:28.320><c> to</c><00:00:28.560><c> keep</c>
+
+00:00:28.790 --> 00:00:28.800 align:start position:0%
+into two parts which I want you to keep
+ 
+
+00:00:28.800 --> 00:00:31.389 align:start position:0%
+into two parts which I want you to keep
+in<00:00:28.960><c> mind</c><00:00:29.519><c> as</c><00:00:29.679><c> we</c><00:00:30.039><c> go</c><00:00:30.199><c> through</c><00:00:30.439><c> this</c><00:00:30.599><c> series</c><00:00:30.920><c> of</c>
+
+00:00:31.389 --> 00:00:31.399 align:start position:0%
+in mind as we go through this series of
+ 
+
+00:00:31.399 --> 00:00:33.990 align:start position:0%
+in mind as we go through this series of
+videos<00:00:32.399><c> the</c><00:00:32.559><c> first</c><00:00:32.880><c> part</c><00:00:33.120><c> is</c><00:00:33.280><c> called</c><00:00:33.559><c> sample</c>
+
+00:00:33.990 --> 00:00:34.000 align:start position:0%
+videos the first part is called sample
+ 
+
+00:00:34.000 --> 00:00:36.549 align:start position:0%
+videos the first part is called sample
+means<00:00:35.000><c> and</c><00:00:35.200><c> the</c><00:00:35.360><c> second</c><00:00:35.680><c> part</c><00:00:35.960><c> is</c><00:00:36.160><c> called</c>
+
+00:00:36.549 --> 00:00:36.559 align:start position:0%
+means and the second part is called
+ 
+
+00:00:36.559 --> 00:00:39.549 align:start position:0%
+means and the second part is called
+sample<00:00:37.399><c> proportions</c><00:00:38.399><c> in</c><00:00:38.600><c> this</c><00:00:38.879><c> video</c><00:00:39.360><c> we're</c>
+
+00:00:39.549 --> 00:00:39.559 align:start position:0%
+sample proportions in this video we're
+ 
+
+00:00:39.559 --> 00:00:41.750 align:start position:0%
+sample proportions in this video we're
+going<00:00:39.640><c> to</c><00:00:39.840><c> go</c><00:00:40.079><c> through</c><00:00:40.480><c> an</c><00:00:40.760><c> introduction</c><00:00:41.399><c> to</c>
+
+00:00:41.750 --> 00:00:41.760 align:start position:0%
+going to go through an introduction to
+ 
+
+00:00:41.760 --> 00:00:45.430 align:start position:0%
+going to go through an introduction to
+sampling<00:00:42.640><c> and</c><00:00:43.000><c> specifically</c><00:00:43.719><c> sample</c><00:00:44.440><c> means</c>
+
+00:00:45.430 --> 00:00:45.440 align:start position:0%
+sampling and specifically sample means
+ 
+
+00:00:45.440 --> 00:00:48.590 align:start position:0%
+sampling and specifically sample means
+so<00:00:45.719><c> first</c><00:00:46.360><c> let's</c><00:00:46.719><c> talk</c><00:00:46.960><c> about</c><00:00:47.440><c> what</c><00:00:47.800><c> sampling</c>
+
+00:00:48.590 --> 00:00:48.600 align:start position:0%
+so first let's talk about what sampling
+ 
+
+00:00:48.600 --> 00:00:51.470 align:start position:0%
+so first let's talk about what sampling
+actually<00:00:49.079><c> is</c><00:00:50.039><c> let's</c><00:00:50.320><c> say</c><00:00:50.559><c> that</c><00:00:50.680><c> we</c><00:00:50.840><c> wanted</c><00:00:51.160><c> to</c>
+
+00:00:51.470 --> 00:00:51.480 align:start position:0%
+actually is let's say that we wanted to
+ 
+
+00:00:51.480 --> 00:00:54.709 align:start position:0%
+actually is let's say that we wanted to
+find<00:00:52.079><c> the</c><00:00:52.440><c> average</c><00:00:52.960><c> height</c><00:00:53.559><c> of</c><00:00:54.000><c> every</c><00:00:54.359><c> human</c>
+
+00:00:54.709 --> 00:00:54.719 align:start position:0%
+find the average height of every human
+ 
+
+00:00:54.719 --> 00:00:57.110 align:start position:0%
+find the average height of every human
+being<00:00:55.160><c> in</c><00:00:55.280><c> the</c><00:00:55.440><c> world</c><00:00:56.239><c> practically</c><00:00:56.960><c> this</c>
+
+00:00:57.110 --> 00:00:57.120 align:start position:0%
+being in the world practically this
+ 
+
+00:00:57.120 --> 00:00:59.470 align:start position:0%
+being in the world practically this
+would<00:00:57.320><c> be</c><00:00:57.600><c> impossible</c><00:00:58.440><c> because</c><00:00:58.879><c> we'd</c><00:00:59.120><c> have</c><00:00:59.239><c> to</c>
+
+00:00:59.470 --> 00:00:59.480 align:start position:0%
+would be impossible because we'd have to
+ 
+
+00:00:59.480 --> 00:01:03.069 align:start position:0%
+would be impossible because we'd have to
+measure<00:01:00.199><c> every</c><00:01:00.399><c> single</c><00:01:00.760><c> person</c><00:01:01.480><c> right</c><00:01:02.480><c> so</c>
+
+00:01:03.069 --> 00:01:03.079 align:start position:0%
+measure every single person right so
+ 
+
+00:01:03.079 --> 00:01:06.070 align:start position:0%
+measure every single person right so
+instead<00:01:03.600><c> what</c><00:01:03.719><c> we</c><00:01:03.840><c> can</c><00:01:04.080><c> do</c><00:01:04.879><c> is</c><00:01:05.280><c> we</c><00:01:05.400><c> can</c><00:01:05.600><c> take</c><00:01:05.799><c> a</c>
+
+00:01:06.070 --> 00:01:06.080 align:start position:0%
+instead what we can do is we can take a
+ 
+
+00:01:06.080 --> 00:01:08.789 align:start position:0%
+instead what we can do is we can take a
+smaller<00:01:06.680><c> sample</c><00:01:07.240><c> of</c><00:01:07.400><c> the</c><00:01:07.560><c> world</c><00:01:07.960><c> population</c>
+
+00:01:08.789 --> 00:01:08.799 align:start position:0%
+smaller sample of the world population
+ 
+
+00:01:08.799 --> 00:01:11.789 align:start position:0%
+smaller sample of the world population
+let's<00:01:09.040><c> say</c><00:01:09.360><c> of</c><00:01:09.799><c> 100</c><00:01:10.159><c> people</c><00:01:10.880><c> and</c><00:01:11.280><c> we</c><00:01:11.439><c> could</c>
+
+00:01:11.789 --> 00:01:11.799 align:start position:0%
+let's say of 100 people and we could
+ 
+
+00:01:11.799 --> 00:01:14.870 align:start position:0%
+let's say of 100 people and we could
+average<00:01:12.280><c> the</c><00:01:12.479><c> height</c><00:01:12.759><c> of</c><00:01:13.000><c> this</c><00:01:13.320><c> sample</c><00:01:13.680><c> of</c><00:01:13.960><c> 100</c>
+
+00:01:14.870 --> 00:01:14.880 align:start position:0%
+average the height of this sample of 100
+ 
+
+00:01:14.880 --> 00:01:18.350 align:start position:0%
+average the height of this sample of 100
+and<00:01:15.400><c> use</c><00:01:15.799><c> that</c><00:01:16.119><c> sample</c><00:01:16.600><c> mean</c><00:01:17.200><c> to</c><00:01:17.479><c> average</c><00:01:18.040><c> the</c>
+
+00:01:18.350 --> 00:01:18.360 align:start position:0%
+and use that sample mean to average the
+ 
+
+00:01:18.360 --> 00:01:22.390 align:start position:0%
+and use that sample mean to average the
+true<00:01:18.840><c> population</c><00:01:19.759><c> mean</c><00:01:20.680><c> height</c><00:01:21.680><c> so</c><00:01:22.159><c> that's</c>
+
+00:01:22.390 --> 00:01:22.400 align:start position:0%
+true population mean height so that's
+ 
+
+00:01:22.400 --> 00:01:25.230 align:start position:0%
+true population mean height so that's
+what<00:01:22.640><c> sampling</c><00:01:23.320><c> is</c><00:01:23.479><c> used</c><00:01:23.880><c> for</c><00:01:24.600><c> we</c><00:01:24.840><c> take</c><00:01:25.000><c> a</c>
+
+00:01:25.230 --> 00:01:25.240 align:start position:0%
+what sampling is used for we take a
+ 
+
+00:01:25.240 --> 00:01:27.469 align:start position:0%
+what sampling is used for we take a
+sample<00:01:26.000><c> which</c><00:01:26.159><c> is</c><00:01:26.439><c> meant</c><00:01:26.720><c> to</c><00:01:26.920><c> be</c>
+
+00:01:27.469 --> 00:01:27.479 align:start position:0%
+sample which is meant to be
+ 
+
+00:01:27.479 --> 00:01:30.590 align:start position:0%
+sample which is meant to be
+representative<00:01:28.479><c> of</c><00:01:28.720><c> the</c><00:01:28.880><c> whole</c><00:01:29.240><c> population</c>
+
+00:01:30.590 --> 00:01:30.600 align:start position:0%
+representative of the whole population
+ 
+
+00:01:30.600 --> 00:01:33.789 align:start position:0%
+representative of the whole population
+when<00:01:30.840><c> we</c><00:01:31.079><c> take</c><00:01:31.320><c> a</c><00:01:31.560><c> sample</c><00:01:32.159><c> of</c><00:01:32.439><c> a</c><00:01:32.799><c> population</c>
+
+00:01:33.789 --> 00:01:33.799 align:start position:0%
+when we take a sample of a population
+ 
+
+00:01:33.799 --> 00:01:36.230 align:start position:0%
+when we take a sample of a population
+there<00:01:33.960><c> are</c><00:01:34.200><c> two</c><00:01:34.560><c> types</c><00:01:35.079><c> of</c><00:01:35.360><c> variables</c><00:01:36.000><c> that</c><00:01:36.119><c> we</c>
+
+00:01:36.230 --> 00:01:36.240 align:start position:0%
+there are two types of variables that we
+ 
+
+00:01:36.240 --> 00:01:36.990 align:start position:0%
+there are two types of variables that we
+can
+
+00:01:36.990 --> 00:01:37.000 align:start position:0%
+can
+ 
+
+00:01:37.000 --> 00:01:40.270 align:start position:0%
+can
+analyze<00:01:38.000><c> sample</c><00:01:38.399><c> means</c><00:01:39.159><c> and</c><00:01:39.560><c> Sample</c>
+
+00:01:40.270 --> 00:01:40.280 align:start position:0%
+analyze sample means and Sample
+ 
+
+00:01:40.280 --> 00:01:43.990 align:start position:0%
+analyze sample means and Sample
+proportions<00:01:41.280><c> a</c><00:01:41.439><c> sample</c><00:01:41.840><c> mean</c><00:01:42.600><c> is</c><00:01:43.159><c> the</c><00:01:43.439><c> average</c>
+
+00:01:43.990 --> 00:01:44.000 align:start position:0%
+proportions a sample mean is the average
+ 
+
+00:01:44.000 --> 00:01:47.109 align:start position:0%
+proportions a sample mean is the average
+data<00:01:44.399><c> value</c><00:01:44.960><c> of</c><00:01:45.240><c> a</c><00:01:45.520><c> population</c><00:01:46.520><c> so</c><00:01:46.880><c> for</c>
+
+00:01:47.109 --> 00:01:47.119 align:start position:0%
+data value of a population so for
+ 
+
+00:01:47.119 --> 00:01:49.990 align:start position:0%
+data value of a population so for
+example<00:01:47.799><c> the</c><00:01:48.200><c> average</c><00:01:48.799><c> height</c><00:01:49.439><c> or</c><00:01:49.759><c> the</c>
+
+00:01:49.990 --> 00:01:50.000 align:start position:0%
+example the average height or the
+ 
+
+00:01:50.000 --> 00:01:53.789 align:start position:0%
+example the average height or the
+average<00:01:50.600><c> duration</c><00:01:51.320><c> of</c><00:01:51.520><c> a</c><00:01:51.759><c> song</c><00:01:52.759><c> a</c><00:01:53.079><c> sample</c>
+
+00:01:53.789 --> 00:01:53.799 align:start position:0%
+average duration of a song a sample
+ 
+
+00:01:53.799 --> 00:01:57.230 align:start position:0%
+average duration of a song a sample
+proportion<00:01:54.799><c> is</c><00:01:55.439><c> the</c><00:01:55.920><c> percentage</c><00:01:56.560><c> of</c><00:01:56.880><c> data</c>
+
+00:01:57.230 --> 00:01:57.240 align:start position:0%
+proportion is the percentage of data
+ 
+
+00:01:57.240 --> 00:02:00.069 align:start position:0%
+proportion is the percentage of data
+values<00:01:57.880><c> which</c><00:01:58.119><c> fall</c><00:01:58.719><c> into</c><00:01:59.159><c> a</c><00:01:59.360><c> particular</c>
+
+00:02:00.069 --> 00:02:00.079 align:start position:0%
+values which fall into a particular
+ 
+
+00:02:00.079 --> 00:02:03.510 align:start position:0%
+values which fall into a particular
+category<00:02:01.079><c> so</c><00:02:01.320><c> for</c><00:02:01.560><c> example</c><00:02:02.399><c> the</c><00:02:02.920><c> percentage</c>
+
+00:02:03.510 --> 00:02:03.520 align:start position:0%
+category so for example the percentage
+ 
+
+00:02:03.520 --> 00:02:07.310 align:start position:0%
+category so for example the percentage
+of<00:02:03.799><c> people</c><00:02:04.600><c> who</c><00:02:04.840><c> are</c><00:02:05.119><c> above</c><00:02:05.439><c> 6t</c><00:02:06.000><c> tall</c><00:02:06.759><c> or</c><00:02:07.159><c> the</c>
+
+00:02:07.310 --> 00:02:07.320 align:start position:0%
+of people who are above 6t tall or the
+ 
+
+00:02:07.320 --> 00:02:09.869 align:start position:0%
+of people who are above 6t tall or the
+percentage<00:02:07.920><c> of</c><00:02:08.119><c> songs</c><00:02:08.759><c> which</c><00:02:08.879><c> are</c><00:02:09.080><c> between</c><00:02:09.520><c> 2</c>
+
+00:02:09.869 --> 00:02:09.879 align:start position:0%
+percentage of songs which are between 2
+ 
+
+00:02:09.879 --> 00:02:13.190 align:start position:0%
+percentage of songs which are between 2
+and<00:02:10.080><c> 3</c><00:02:10.399><c> minutes</c><00:02:10.840><c> long</c><00:02:11.760><c> so</c><00:02:12.160><c> because</c><00:02:12.440><c> of</c><00:02:12.720><c> this</c>
+
+00:02:13.190 --> 00:02:13.200 align:start position:0%
+and 3 minutes long so because of this
+ 
+
+00:02:13.200 --> 00:02:15.589 align:start position:0%
+and 3 minutes long so because of this
+notice<00:02:13.599><c> that</c><00:02:13.840><c> sample</c><00:02:14.400><c> proportions</c><00:02:15.239><c> always</c>
+
+00:02:15.589 --> 00:02:15.599 align:start position:0%
+notice that sample proportions always
+ 
+
+00:02:15.599 --> 00:02:19.390 align:start position:0%
+notice that sample proportions always
+have<00:02:15.800><c> to</c><00:02:16.000><c> take</c><00:02:16.200><c> a</c><00:02:16.440><c> value</c><00:02:17.000><c> between</c><00:02:17.720><c> 0</c><00:02:18.239><c> and</c><00:02:18.480><c> 1</c>
+
+00:02:19.390 --> 00:02:19.400 align:start position:0%
+have to take a value between 0 and 1
+ 
+
+00:02:19.400 --> 00:02:21.990 align:start position:0%
+have to take a value between 0 and 1
+where<00:02:19.800><c> zero</c><00:02:20.200><c> means</c><00:02:20.720><c> none</c><00:02:20.920><c> of</c><00:02:21.120><c> the</c><00:02:21.400><c> population</c>
+
+00:02:21.990 --> 00:02:22.000 align:start position:0%
+where zero means none of the population
+ 
+
+00:02:22.000 --> 00:02:25.110 align:start position:0%
+where zero means none of the population
+falls<00:02:22.440><c> into</c><00:02:22.680><c> that</c><00:02:22.879><c> category</c><00:02:23.680><c> and</c><00:02:24.080><c> one</c><00:02:24.519><c> means</c>
+
+00:02:25.110 --> 00:02:25.120 align:start position:0%
+falls into that category and one means
+ 
+
+00:02:25.120 --> 00:02:27.830 align:start position:0%
+falls into that category and one means
+100%<00:02:26.120><c> of</c><00:02:26.319><c> the</c><00:02:26.560><c> population</c><00:02:27.080><c> falls</c><00:02:27.440><c> into</c><00:02:27.680><c> that</c>
+
+00:02:27.830 --> 00:02:27.840 align:start position:0%
+100% of the population falls into that
+ 
+
+00:02:27.840 --> 00:02:30.589 align:start position:0%
+100% of the population falls into that
+category<00:02:28.760><c> on</c><00:02:28.920><c> the</c><00:02:29.080><c> other</c><00:02:29.319><c> hand</c><00:02:29.840><c> sample</c><00:02:30.239><c> means</c>
+
+00:02:30.589 --> 00:02:30.599 align:start position:0%
+category on the other hand sample means
+ 
+
+00:02:30.599 --> 00:02:33.350 align:start position:0%
+category on the other hand sample means
+can<00:02:30.840><c> take</c><00:02:31.160><c> any</c><00:02:31.480><c> value</c><00:02:32.360><c> because</c><00:02:32.879><c> they</c><00:02:33.080><c> just</c>
+
+00:02:33.350 --> 00:02:33.360 align:start position:0%
+can take any value because they just
+ 
+
+00:02:33.360 --> 00:02:36.270 align:start position:0%
+can take any value because they just
+represent<00:02:34.160><c> the</c><00:02:34.599><c> average</c><00:02:35.160><c> data</c><00:02:35.519><c> value</c><00:02:35.879><c> of</c><00:02:36.040><c> a</c>
+
+00:02:36.270 --> 00:02:36.280 align:start position:0%
+represent the average data value of a
+ 
+
+00:02:36.280 --> 00:02:39.350 align:start position:0%
+represent the average data value of a
+population<00:02:37.200><c> keep</c><00:02:37.440><c> this</c><00:02:37.599><c> table</c><00:02:38.000><c> in</c><00:02:38.200><c> mind</c><00:02:38.879><c> as</c><00:02:39.120><c> we</c>
+
+00:02:39.350 --> 00:02:39.360 align:start position:0%
+population keep this table in mind as we
+ 
+
+00:02:39.360 --> 00:02:42.270 align:start position:0%
+population keep this table in mind as we
+work<00:02:39.720><c> through</c><00:02:39.959><c> the</c><00:02:40.159><c> next</c><00:02:40.440><c> few</c><00:02:41.040><c> videos</c><00:02:42.040><c> the</c>
+
+00:02:42.270 --> 00:02:42.280 align:start position:0%
+work through the next few videos the
+ 
+
+00:02:42.280 --> 00:02:43.790 align:start position:0%
+work through the next few videos the
+first<00:02:42.560><c> few</c><00:02:42.840><c> will'll</c><00:02:43.000><c> be</c><00:02:43.159><c> talking</c><00:02:43.519><c> about</c>
+
+00:02:43.790 --> 00:02:43.800 align:start position:0%
+first few will'll be talking about
+ 
+
+00:02:43.800 --> 00:02:46.309 align:start position:0%
+first few will'll be talking about
+sample<00:02:44.200><c> means</c><00:02:45.040><c> and</c><00:02:45.200><c> then</c><00:02:45.400><c> we'll</c><00:02:45.560><c> go</c><00:02:45.800><c> on</c><00:02:46.000><c> to</c>
+
+00:02:46.309 --> 00:02:46.319 align:start position:0%
+sample means and then we'll go on to
+ 
+
+00:02:46.319 --> 00:02:49.229 align:start position:0%
+sample means and then we'll go on to
+sample<00:02:47.239><c> proportions</c><00:02:48.239><c> let's</c><00:02:48.640><c> talk</c><00:02:48.879><c> about</c>
+
+00:02:49.229 --> 00:02:49.239 align:start position:0%
+sample proportions let's talk about
+ 
+
+00:02:49.239 --> 00:02:52.949 align:start position:0%
+sample proportions let's talk about
+sample<00:02:49.800><c> means</c><00:02:50.440><c> first</c><00:02:51.319><c> the</c><00:02:51.480><c> sample</c><00:02:51.879><c> mean</c><00:02:52.560><c> is</c>
+
+00:02:52.949 --> 00:02:52.959 align:start position:0%
+sample means first the sample mean is
+ 
+
+00:02:52.959 --> 00:02:56.509 align:start position:0%
+sample means first the sample mean is
+just<00:02:53.360><c> the</c><00:02:53.519><c> mean</c><00:02:53.920><c> of</c><00:02:54.000><c> a</c><00:02:54.200><c> sample</c><00:02:55.040><c> right</c><00:02:55.800><c> so</c><00:02:56.280><c> to</c>
+
+00:02:56.509 --> 00:02:56.519 align:start position:0%
+just the mean of a sample right so to
+ 
+
+00:02:56.519 --> 00:02:58.710 align:start position:0%
+just the mean of a sample right so to
+talk<00:02:56.720><c> about</c><00:02:57.040><c> sample</c><00:02:57.440><c> means</c><00:02:58.159><c> we</c><00:02:58.319><c> have</c><00:02:58.440><c> to</c>
+
+00:02:58.710 --> 00:02:58.720 align:start position:0%
+talk about sample means we have to
+ 
+
+00:02:58.720 --> 00:03:01.350 align:start position:0%
+talk about sample means we have to
+Define<00:02:59.400><c> form</c><00:02:59.760><c> formulas</c><00:03:00.239><c> on</c><00:03:00.480><c> how</c><00:03:00.640><c> to</c><00:03:00.879><c> calculate</c>
+
+00:03:01.350 --> 00:03:01.360 align:start position:0%
+Define form formulas on how to calculate
+ 
+
+00:03:01.360 --> 00:03:03.470 align:start position:0%
+Define form formulas on how to calculate
+the<00:03:01.519><c> sample</c><00:03:01.879><c> mean</c><00:03:02.720><c> and</c><00:03:02.920><c> actually</c><00:03:03.280><c> these</c>
+
+00:03:03.470 --> 00:03:03.480 align:start position:0%
+the sample mean and actually these
+ 
+
+00:03:03.480 --> 00:03:05.030 align:start position:0%
+the sample mean and actually these
+formulas<00:03:03.959><c> are</c><00:03:04.159><c> things</c><00:03:04.400><c> we've</c><00:03:04.760><c> already</c>
+
+00:03:05.030 --> 00:03:05.040 align:start position:0%
+formulas are things we've already
+ 
+
+00:03:05.040 --> 00:03:06.910 align:start position:0%
+formulas are things we've already
+learned<00:03:05.440><c> about</c><00:03:05.760><c> in</c><00:03:06.000><c> statistics</c><00:03:06.480><c> in</c><00:03:06.599><c> Middle</c>
+
+00:03:06.910 --> 00:03:06.920 align:start position:0%
+learned about in statistics in Middle
+ 
+
+00:03:06.920 --> 00:03:09.550 align:start position:0%
+learned about in statistics in Middle
+School<00:03:07.599><c> let's</c><00:03:07.840><c> say</c><00:03:08.040><c> we</c><00:03:08.280><c> had</c><00:03:08.519><c> a</c><00:03:08.680><c> sample</c><00:03:09.239><c> of</c>
+
+00:03:09.550 --> 00:03:09.560 align:start position:0%
+School let's say we had a sample of
+ 
+
+00:03:09.560 --> 00:03:12.630 align:start position:0%
+School let's say we had a sample of
+three<00:03:09.879><c> people</c><00:03:10.560><c> and</c><00:03:10.760><c> their</c><00:03:10.959><c> heights</c><00:03:11.319><c> were</c><00:03:11.959><c> 160</c>
+
+00:03:12.630 --> 00:03:12.640 align:start position:0%
+three people and their heights were 160
+ 
+
+00:03:12.640 --> 00:03:16.750 align:start position:0%
+three people and their heights were 160
+170<00:03:13.640><c> and</c><00:03:13.959><c> 180</c><00:03:14.560><c> cm</c><00:03:15.560><c> well</c><00:03:16.239><c> how</c><00:03:16.400><c> would</c><00:03:16.560><c> we</c>
+
+00:03:16.750 --> 00:03:16.760 align:start position:0%
+170 and 180 cm well how would we
+ 
+
+00:03:16.760 --> 00:03:18.910 align:start position:0%
+170 and 180 cm well how would we
+calculate<00:03:17.239><c> the</c><00:03:17.400><c> mean</c><00:03:17.640><c> of</c><00:03:17.799><c> this</c><00:03:17.959><c> sample</c><00:03:18.799><c> we</c>
+
+00:03:18.910 --> 00:03:18.920 align:start position:0%
+calculate the mean of this sample we
+ 
+
+00:03:18.920 --> 00:03:20.430 align:start position:0%
+calculate the mean of this sample we
+would<00:03:19.120><c> just</c><00:03:19.400><c> add</c><00:03:19.599><c> these</c><00:03:19.760><c> three</c><00:03:20.000><c> Heights</c>
+
+00:03:20.430 --> 00:03:20.440 align:start position:0%
+would just add these three Heights
+ 
+
+00:03:20.440 --> 00:03:23.030 align:start position:0%
+would just add these three Heights
+together<00:03:21.159><c> and</c><00:03:21.519><c> divide</c><00:03:21.879><c> by</c><00:03:22.120><c> three</c><00:03:22.640><c> because</c>
+
+00:03:23.030 --> 00:03:23.040 align:start position:0%
+together and divide by three because
+ 
+
+00:03:23.040 --> 00:03:25.910 align:start position:0%
+together and divide by three because
+three<00:03:23.280><c> is</c><00:03:23.400><c> the</c><00:03:23.560><c> sample</c><00:03:24.000><c> size</c><00:03:24.680><c> right</c><00:03:25.239><c> so</c><00:03:25.760><c> when</c>
+
+00:03:25.910 --> 00:03:25.920 align:start position:0%
+three is the sample size right so when
+ 
+
+00:03:25.920 --> 00:03:28.350 align:start position:0%
+three is the sample size right so when
+we're<00:03:26.200><c> talking</c><00:03:26.560><c> about</c><00:03:26.879><c> sample</c><00:03:27.280><c> means</c><00:03:28.120><c> the</c>
+
+00:03:28.350 --> 00:03:28.360 align:start position:0%
+we're talking about sample means the
+ 
+
+00:03:28.360 --> 00:03:30.869 align:start position:0%
+we're talking about sample means the
+first<00:03:28.760><c> thing</c><00:03:29.040><c> that</c><00:03:29.159><c> we</c><00:03:29.360><c> do</c><00:03:29.959><c> is</c><00:03:30.239><c> Define</c><00:03:30.680><c> the</c>
+
+00:03:30.869 --> 00:03:30.879 align:start position:0%
+first thing that we do is Define the
+ 
+
+00:03:30.879 --> 00:03:34.750 align:start position:0%
+first thing that we do is Define the
+sample<00:03:31.519><c> sum</c><00:03:32.400><c> we</c><00:03:32.599><c> write</c><00:03:32.799><c> this</c><00:03:33.000><c> down</c><00:03:33.280><c> as</c><00:03:33.760><c> SN</c>
+
+00:03:34.750 --> 00:03:34.760 align:start position:0%
+sample sum we write this down as SN
+ 
+
+00:03:34.760 --> 00:03:38.350 align:start position:0%
+sample sum we write this down as SN
+where<00:03:35.040><c> n</c><00:03:35.560><c> is</c><00:03:35.840><c> the</c><00:03:36.000><c> sample</c><00:03:36.519><c> size</c><00:03:37.519><c> so</c><00:03:37.920><c> in</c><00:03:38.120><c> this</c>
+
+00:03:38.350 --> 00:03:38.360 align:start position:0%
+where n is the sample size so in this
+ 
+
+00:03:38.360 --> 00:03:40.830 align:start position:0%
+where n is the sample size so in this
+example<00:03:38.879><c> that</c><00:03:39.040><c> I</c><00:03:39.159><c> did</c><00:03:39.400><c> over</c><00:03:39.680><c> here</c><00:03:40.519><c> this</c><00:03:40.680><c> would</c>
+
+00:03:40.830 --> 00:03:40.840 align:start position:0%
+example that I did over here this would
+ 
+
+00:03:40.840 --> 00:03:45.710 align:start position:0%
+example that I did over here this would
+be<00:03:41.080><c> S3</c><00:03:42.000><c> adding</c><00:03:42.319><c> up</c><00:03:42.680><c> the</c><00:03:42.920><c> three</c><00:03:43.720><c> Heights</c><00:03:44.720><c> SN</c><00:03:45.400><c> is</c>
+
+00:03:45.710 --> 00:03:45.720 align:start position:0%
+be S3 adding up the three Heights SN is
+ 
+
+00:03:45.720 --> 00:03:48.710 align:start position:0%
+be S3 adding up the three Heights SN is
+the<00:03:45.920><c> sample</c><00:03:46.480><c> sum</c><00:03:47.080><c> or</c><00:03:47.360><c> just</c><00:03:47.680><c> the</c><00:03:47.879><c> sum</c><00:03:48.120><c> of</c><00:03:48.400><c> all</c><00:03:48.560><c> of</c>
+
+00:03:48.710 --> 00:03:48.720 align:start position:0%
+the sample sum or just the sum of all of
+ 
+
+00:03:48.720 --> 00:03:51.070 align:start position:0%
+the sample sum or just the sum of all of
+the<00:03:48.879><c> things</c><00:03:49.280><c> in</c><00:03:49.400><c> the</c><00:03:49.560><c> sample</c><00:03:50.319><c> so</c><00:03:50.560><c> the</c><00:03:50.680><c> formula</c>
+
+00:03:51.070 --> 00:03:51.080 align:start position:0%
+the things in the sample so the formula
+ 
+
+00:03:51.080 --> 00:03:53.270 align:start position:0%
+the things in the sample so the formula
+for<00:03:51.280><c> this</c><00:03:51.439><c> is</c><00:03:51.640><c> we</c><00:03:51.799><c> just</c><00:03:52.040><c> add</c><00:03:52.200><c> them</c><00:03:52.360><c> up</c><00:03:53.000><c> we</c><00:03:53.120><c> can</c>
+
+00:03:53.270 --> 00:03:53.280 align:start position:0%
+for this is we just add them up we can
+ 
+
+00:03:53.280 --> 00:03:57.229 align:start position:0%
+for this is we just add them up we can
+denote<00:03:53.599><c> this</c><00:03:53.920><c> with</c><00:03:54.200><c> X1</c><00:03:55.000><c> +</c><00:03:55.560><c> X2</c><00:03:56.560><c> plus</c><00:03:56.959><c> all</c><00:03:57.120><c> the</c>
+
+00:03:57.229 --> 00:03:57.239 align:start position:0%
+denote this with X1 + X2 plus all the
+ 
+
+00:03:57.239 --> 00:04:00.229 align:start position:0%
+denote this with X1 + X2 plus all the
+way<00:03:57.439><c> to</c><00:03:57.879><c> xn</c><00:03:58.879><c> again</c><00:03:59.200><c> this</c><00:03:59.319><c> just</c><00:03:59.439><c> means</c><00:03:59.680><c> means</c><00:04:00.000><c> we</c>
+
+00:04:00.229 --> 00:04:00.239 align:start position:0%
+way to xn again this just means means we
+ 
+
+00:04:00.239 --> 00:04:03.030 align:start position:0%
+way to xn again this just means means we
+add<00:04:00.439><c> the</c><00:04:00.599><c> things</c><00:04:00.879><c> in</c><00:04:01.000><c> the</c><00:04:01.159><c> sample</c><00:04:02.040><c> like</c><00:04:02.280><c> this</c>
+
+00:04:03.030 --> 00:04:03.040 align:start position:0%
+add the things in the sample like this
+ 
+
+00:04:03.040 --> 00:04:06.190 align:start position:0%
+add the things in the sample like this
+once<00:04:03.400><c> we</c><00:04:03.799><c> add</c><00:04:04.319><c> the</c><00:04:04.519><c> things</c><00:04:04.760><c> in</c><00:04:04.879><c> the</c><00:04:05.040><c> sample</c><00:04:05.480><c> up</c>
+
+00:04:06.190 --> 00:04:06.200 align:start position:0%
+once we add the things in the sample up
+ 
+
+00:04:06.200 --> 00:04:08.350 align:start position:0%
+once we add the things in the sample up
+to<00:04:06.400><c> find</c><00:04:06.599><c> the</c><00:04:06.760><c> sample</c><00:04:07.120><c> mean</c><00:04:07.840><c> we</c><00:04:08.000><c> have</c><00:04:08.120><c> to</c>
+
+00:04:08.350 --> 00:04:08.360 align:start position:0%
+to find the sample mean we have to
+ 
+
+00:04:08.360 --> 00:04:11.030 align:start position:0%
+to find the sample mean we have to
+divide<00:04:08.760><c> by</c><00:04:08.920><c> the</c><00:04:09.079><c> sample</c><00:04:09.519><c> size</c><00:04:10.239><c> so</c><00:04:10.519><c> the</c><00:04:10.640><c> sample</c>
+
+00:04:11.030 --> 00:04:11.040 align:start position:0%
+divide by the sample size so the sample
+ 
+
+00:04:11.040 --> 00:04:14.910 align:start position:0%
+divide by the sample size so the sample
+mean<00:04:11.439><c> we</c><00:04:11.640><c> write</c><00:04:11.920><c> as</c><00:04:12.159><c> xar</c><00:04:12.840><c> n</c><00:04:13.799><c> and</c><00:04:14.159><c> this</c><00:04:14.280><c> is</c><00:04:14.480><c> found</c>
+
+00:04:14.910 --> 00:04:14.920 align:start position:0%
+mean we write as xar n and this is found
+ 
+
+00:04:14.920 --> 00:04:18.150 align:start position:0%
+mean we write as xar n and this is found
+by<00:04:15.159><c> dividing</c><00:04:15.760><c> SN</c><00:04:16.639><c> by</c><00:04:16.840><c> n</c><00:04:17.440><c> hopefully</c><00:04:17.799><c> that</c><00:04:17.919><c> makes</c>
+
+00:04:18.150 --> 00:04:18.160 align:start position:0%
+by dividing SN by n hopefully that makes
+ 
+
+00:04:18.160 --> 00:04:20.509 align:start position:0%
+by dividing SN by n hopefully that makes
+sense<00:04:18.519><c> look</c><00:04:18.639><c> at</c><00:04:18.799><c> this</c><00:04:18.919><c> formula</c><00:04:19.400><c> here</c><00:04:20.120><c> we</c><00:04:20.320><c> have</c>
+
+00:04:20.509 --> 00:04:20.519 align:start position:0%
+sense look at this formula here we have
+ 
+
+00:04:20.519 --> 00:04:22.950 align:start position:0%
+sense look at this formula here we have
+the<00:04:20.680><c> sample</c><00:04:21.120><c> sum</c><00:04:21.479><c> on</c><00:04:21.720><c> top</c><00:04:22.199><c> which</c><00:04:22.400><c> is</c><00:04:22.600><c> the</c><00:04:22.759><c> sum</c>
+
+00:04:22.950 --> 00:04:22.960 align:start position:0%
+the sample sum on top which is the sum
+ 
+
+00:04:22.960 --> 00:04:25.430 align:start position:0%
+the sample sum on top which is the sum
+of<00:04:23.080><c> the</c><00:04:23.199><c> three</c><00:04:23.440><c> Heights</c><00:04:24.440><c> and</c><00:04:24.560><c> then</c><00:04:24.800><c> we</c><00:04:25.000><c> divide</c>
+
+00:04:25.430 --> 00:04:25.440 align:start position:0%
+of the three Heights and then we divide
+ 
+
+00:04:25.440 --> 00:04:27.909 align:start position:0%
+of the three Heights and then we divide
+by<00:04:25.680><c> three</c><00:04:26.280><c> because</c><00:04:26.759><c> that's</c><00:04:27.000><c> how</c><00:04:27.160><c> many</c><00:04:27.560><c> people</c>
+
+00:04:27.909 --> 00:04:27.919 align:start position:0%
+by three because that's how many people
+ 
+
+00:04:27.919 --> 00:04:30.350 align:start position:0%
+by three because that's how many people
+we<00:04:28.120><c> have</c><00:04:28.280><c> in</c><00:04:28.400><c> our</c><00:04:28.639><c> sample</c><00:04:29.360><c> so</c><00:04:29.680><c> we</c><00:04:29.800><c> could</c><00:04:30.039><c> also</c>
+
+00:04:30.350 --> 00:04:30.360 align:start position:0%
+we have in our sample so we could also
+ 
+
+00:04:30.360 --> 00:04:34.830 align:start position:0%
+we have in our sample so we could also
+write<00:04:30.639><c> this</c><00:04:30.919><c> as</c><00:04:31.240><c> X1</c><00:04:31.840><c> +</c><00:04:32.199><c> X2</c><00:04:33.039><c> all</c><00:04:33.199><c> the</c><00:04:33.320><c> way</c><00:04:33.479><c> to</c><00:04:33.840><c> xn/</c>
+
+00:04:34.830 --> 00:04:34.840 align:start position:0%
+write this as X1 + X2 all the way to xn/
+ 
+
+00:04:34.840 --> 00:04:38.909 align:start position:0%
+write this as X1 + X2 all the way to xn/
+n<00:04:35.600><c> let's</c><00:04:35.919><c> talk</c><00:04:36.120><c> about</c><00:04:36.400><c> the</c><00:04:36.639><c> properties</c><00:04:37.520><c> of</c><00:04:38.120><c> SN</c>
+
+00:04:38.909 --> 00:04:38.919 align:start position:0%
+n let's talk about the properties of SN
+ 
+
+00:04:38.919 --> 00:04:44.189 align:start position:0%
+n let's talk about the properties of SN
+and<00:04:39.520><c> xrn</c><00:04:40.520><c> SN</c><00:04:41.360><c> and</c><00:04:41.759><c> xrn</c><00:04:42.759><c> are</c><00:04:43.080><c> actually</c><00:04:43.759><c> random</c>
+
+00:04:44.189 --> 00:04:44.199 align:start position:0%
+and xrn SN and xrn are actually random
+ 
+
+00:04:44.199 --> 00:04:47.029 align:start position:0%
+and xrn SN and xrn are actually random
+variables<00:04:44.960><c> themselves</c><00:04:45.840><c> the</c><00:04:45.960><c> reason</c><00:04:46.280><c> for</c><00:04:46.560><c> this</c>
+
+00:04:47.029 --> 00:04:47.039 align:start position:0%
+variables themselves the reason for this
+ 
+
+00:04:47.039 --> 00:04:49.590 align:start position:0%
+variables themselves the reason for this
+is<00:04:47.440><c> because</c><00:04:48.120><c> we</c><00:04:48.280><c> could</c><00:04:48.520><c> take</c><00:04:49.080><c> lots</c><00:04:49.320><c> of</c>
+
+00:04:49.590 --> 00:04:49.600 align:start position:0%
+is because we could take lots of
+ 
+
+00:04:49.600 --> 00:04:52.310 align:start position:0%
+is because we could take lots of
+different<00:04:50.199><c> samples</c><00:04:51.199><c> and</c><00:04:51.400><c> every</c><00:04:51.720><c> time</c><00:04:52.199><c> we</c>
+
+00:04:52.310 --> 00:04:52.320 align:start position:0%
+different samples and every time we
+ 
+
+00:04:52.320 --> 00:04:54.189 align:start position:0%
+different samples and every time we
+would<00:04:52.560><c> have</c><00:04:52.800><c> a</c><00:04:53.000><c> slightly</c><00:04:53.360><c> different</c><00:04:53.759><c> sample</c>
+
+00:04:54.189 --> 00:04:54.199 align:start position:0%
+would have a slightly different sample
+ 
+
+00:04:54.199 --> 00:04:58.110 align:start position:0%
+would have a slightly different sample
+sum<00:04:55.080><c> and</c><00:04:55.400><c> Sample</c><00:04:55.840><c> mean</c><00:04:56.759><c> for</c><00:04:57.000><c> example</c><00:04:57.800><c> this</c><00:04:57.919><c> is</c>
+
+00:04:58.110 --> 00:04:58.120 align:start position:0%
+sum and Sample mean for example this is
+ 
+
+00:04:58.120 --> 00:05:00.310 align:start position:0%
+sum and Sample mean for example this is
+my<00:04:58.320><c> sample</c><00:04:58.680><c> of</c><00:04:59.000><c> three</c><00:04:59.280><c> people</c>
+
+00:05:00.310 --> 00:05:00.320 align:start position:0%
+my sample of three people
+ 
+
+00:05:00.320 --> 00:05:02.830 align:start position:0%
+my sample of three people
+but<00:05:00.600><c> I</c><00:05:00.720><c> could</c><00:05:01.000><c> then</c><00:05:01.320><c> go</c><00:05:01.759><c> and</c><00:05:02.120><c> Sample</c><00:05:02.639><c> a</c>
+
+00:05:02.830 --> 00:05:02.840 align:start position:0%
+but I could then go and Sample a
+ 
+
+00:05:02.840 --> 00:05:05.510 align:start position:0%
+but I could then go and Sample a
+different<00:05:03.240><c> set</c><00:05:03.479><c> of</c><00:05:03.720><c> five</c><00:05:04.039><c> people</c><00:05:04.800><c> and</c><00:05:05.160><c> measure</c>
+
+00:05:05.510 --> 00:05:05.520 align:start position:0%
+different set of five people and measure
+ 
+
+00:05:05.520 --> 00:05:10.950 align:start position:0%
+different set of five people and measure
+their<00:05:05.720><c> heights</c><00:05:06.160><c> as</c><00:05:06.759><c> 171</c><00:05:08.000><c> 172</c><00:05:09.000><c> and</c><00:05:09.759><c> 173</c><00:05:10.759><c> we</c>
+
+00:05:10.950 --> 00:05:10.960 align:start position:0%
+their heights as 171 172 and 173 we
+ 
+
+00:05:10.960 --> 00:05:13.550 align:start position:0%
+their heights as 171 172 and 173 we
+divide<00:05:11.320><c> by</c><00:05:11.479><c> three</c><00:05:11.840><c> to</c><00:05:12.000><c> find</c><00:05:12.199><c> the</c><00:05:12.320><c> sample</c><00:05:12.680><c> mean</c>
+
+00:05:13.550 --> 00:05:13.560 align:start position:0%
+divide by three to find the sample mean
+ 
+
+00:05:13.560 --> 00:05:16.710 align:start position:0%
+divide by three to find the sample mean
+so<00:05:13.919><c> we</c><00:05:14.080><c> could</c><00:05:14.280><c> see</c><00:05:14.600><c> that</c><00:05:14.960><c> these</c><00:05:15.199><c> two</c><00:05:15.840><c> represent</c>
+
+00:05:16.710 --> 00:05:16.720 align:start position:0%
+so we could see that these two represent
+ 
+
+00:05:16.720 --> 00:05:18.830 align:start position:0%
+so we could see that these two represent
+different<00:05:17.160><c> samples</c><00:05:17.880><c> from</c><00:05:18.080><c> the</c><00:05:18.280><c> same</c>
+
+00:05:18.830 --> 00:05:18.840 align:start position:0%
+different samples from the same
+ 
+
+00:05:18.840 --> 00:05:21.189 align:start position:0%
+different samples from the same
+population<00:05:19.840><c> we</c><00:05:20.039><c> just</c><00:05:20.240><c> happen</c><00:05:20.520><c> to</c><00:05:20.759><c> pick</c>
+
+00:05:21.189 --> 00:05:21.199 align:start position:0%
+population we just happen to pick
+ 
+
+00:05:21.199 --> 00:05:24.070 align:start position:0%
+population we just happen to pick
+different<00:05:21.639><c> people</c><00:05:22.639><c> they</c><00:05:22.840><c> also</c><00:05:23.199><c> have</c><00:05:23.639><c> slightly</c>
+
+00:05:24.070 --> 00:05:24.080 align:start position:0%
+different people they also have slightly
+ 
+
+00:05:24.080 --> 00:05:26.710 align:start position:0%
+different people they also have slightly
+different<00:05:24.520><c> sample</c><00:05:25.000><c> means</c><00:05:26.000><c> this</c><00:05:26.160><c> sample</c><00:05:26.440><c> mean</c>
+
+00:05:26.710 --> 00:05:26.720 align:start position:0%
+different sample means this sample mean
+ 
+
+00:05:26.720 --> 00:05:30.950 align:start position:0%
+different sample means this sample mean
+is<00:05:26.960><c> 170</c><00:05:27.960><c> whereas</c><00:05:28.400><c> this</c><00:05:28.560><c> sample</c><00:05:28.880><c> mean</c><00:05:29.080><c> is</c><00:05:29.960><c> 172</c>
+
+00:05:30.950 --> 00:05:30.960 align:start position:0%
+is 170 whereas this sample mean is 172
+ 
+
+00:05:30.960 --> 00:05:33.309 align:start position:0%
+is 170 whereas this sample mean is 172
+so<00:05:31.280><c> if</c><00:05:31.400><c> we</c><00:05:31.639><c> kept</c><00:05:31.880><c> doing</c><00:05:32.240><c> this</c><00:05:32.520><c> and</c><00:05:32.680><c> took</c><00:05:33.120><c> lots</c>
+
+00:05:33.309 --> 00:05:33.319 align:start position:0%
+so if we kept doing this and took lots
+ 
+
+00:05:33.319 --> 00:05:36.029 align:start position:0%
+so if we kept doing this and took lots
+and<00:05:33.520><c> lots</c><00:05:33.720><c> of</c><00:05:33.919><c> samples</c><00:05:34.280><c> of</c><00:05:34.479><c> three</c><00:05:34.840><c> people</c><00:05:35.840><c> each</c>
+
+00:05:36.029 --> 00:05:36.039 align:start position:0%
+and lots of samples of three people each
+ 
+
+00:05:36.039 --> 00:05:38.350 align:start position:0%
+and lots of samples of three people each
+of<00:05:36.280><c> these</c><00:05:36.639><c> samples</c><00:05:37.240><c> would</c><00:05:37.440><c> have</c><00:05:37.720><c> a</c><00:05:37.919><c> slightly</c>
+
+00:05:38.350 --> 00:05:38.360 align:start position:0%
+of these samples would have a slightly
+ 
+
+00:05:38.360 --> 00:05:41.830 align:start position:0%
+of these samples would have a slightly
+different<00:05:38.880><c> sample</c><00:05:39.319><c> mean</c><00:05:40.319><c> and</c><00:05:40.759><c> therefore</c><00:05:41.520><c> both</c>
+
+00:05:41.830 --> 00:05:41.840 align:start position:0%
+different sample mean and therefore both
+ 
+
+00:05:41.840 --> 00:05:45.270 align:start position:0%
+different sample mean and therefore both
+the<00:05:42.000><c> sample</c><00:05:42.520><c> mean</c><00:05:43.280><c> and</c><00:05:43.479><c> the</c><00:05:43.639><c> sample</c><00:05:44.080><c> sum</c><00:05:44.960><c> are</c>
+
+00:05:45.270 --> 00:05:45.280 align:start position:0%
+the sample mean and the sample sum are
+ 
+
+00:05:45.280 --> 00:05:47.990 align:start position:0%
+the sample mean and the sample sum are
+continuous<00:05:46.080><c> random</c><00:05:46.440><c> variables</c><00:05:47.400><c> meaning</c><00:05:47.800><c> that</c>
+
+00:05:47.990 --> 00:05:48.000 align:start position:0%
+continuous random variables meaning that
+ 
+
+00:05:48.000 --> 00:05:50.990 align:start position:0%
+continuous random variables meaning that
+they<00:05:48.240><c> each</c><00:05:48.759><c> have</c><00:05:49.160><c> a</c><00:05:49.520><c> mean</c><00:05:50.000><c> and</c><00:05:50.160><c> a</c><00:05:50.319><c> standard</c>
+
+00:05:50.990 --> 00:05:51.000 align:start position:0%
+they each have a mean and a standard
+ 
+
+00:05:51.000 --> 00:05:53.790 align:start position:0%
+they each have a mean and a standard
+deviation<00:05:52.000><c> which</c><00:05:52.319><c> depend</c><00:05:52.880><c> on</c><00:05:53.039><c> the</c><00:05:53.280><c> true</c>
+
+00:05:53.790 --> 00:05:53.800 align:start position:0%
+deviation which depend on the true
+ 
+
+00:05:53.800 --> 00:05:57.350 align:start position:0%
+deviation which depend on the true
+population<00:05:54.440><c> mean</c><00:05:55.400><c> so</c><00:05:55.800><c> if</c><00:05:55.960><c> we</c><00:05:56.080><c> say</c><00:05:56.400><c> that</c><00:05:56.600><c> mu</c><00:05:57.160><c> is</c>
+
+00:05:57.350 --> 00:05:57.360 align:start position:0%
+population mean so if we say that mu is
+ 
+
+00:05:57.360 --> 00:06:00.350 align:start position:0%
+population mean so if we say that mu is
+the<00:05:57.600><c> true</c><00:05:58.000><c> population</c><00:05:58.600><c> mean</c><00:05:59.280><c> and</c><00:05:59.479><c> and</c><00:05:59.800><c> sigma</c>
+
+00:06:00.350 --> 00:06:00.360 align:start position:0%
+the true population mean and and sigma
+ 
+
+00:06:00.360 --> 00:06:02.629 align:start position:0%
+the true population mean and and sigma
+is<00:06:00.560><c> the</c><00:06:00.759><c> true</c><00:06:01.160><c> population</c><00:06:01.800><c> standard</c>
+
+00:06:02.629 --> 00:06:02.639 align:start position:0%
+is the true population standard
+ 
+
+00:06:02.639 --> 00:06:05.350 align:start position:0%
+is the true population standard
+deviation<00:06:03.639><c> then</c><00:06:04.000><c> there</c><00:06:04.120><c> are</c><00:06:04.360><c> formulas</c><00:06:04.919><c> we</c><00:06:05.080><c> can</c>
+
+00:06:05.350 --> 00:06:05.360 align:start position:0%
+deviation then there are formulas we can
+ 
+
+00:06:05.360 --> 00:06:08.230 align:start position:0%
+deviation then there are formulas we can
+use<00:06:06.160><c> to</c><00:06:06.440><c> calculate</c><00:06:06.960><c> the</c><00:06:07.120><c> mean</c><00:06:07.880><c> and</c><00:06:08.080><c> the</c>
+
+00:06:08.230 --> 00:06:08.240 align:start position:0%
+use to calculate the mean and the
+ 
+
+00:06:08.240 --> 00:06:10.909 align:start position:0%
+use to calculate the mean and the
+standard<00:06:08.639><c> deviation</c><00:06:09.479><c> of</c><00:06:09.919><c> these</c><00:06:10.160><c> two</c><00:06:10.479><c> random</c>
+
+00:06:10.909 --> 00:06:10.919 align:start position:0%
+standard deviation of these two random
+ 
+
+00:06:10.919 --> 00:06:14.029 align:start position:0%
+standard deviation of these two random
+variables<00:06:11.919><c> the</c><00:06:12.080><c> mean</c><00:06:12.599><c> of</c><00:06:12.759><c> the</c><00:06:12.919><c> sample</c><00:06:13.360><c> sum</c><00:06:13.840><c> is</c>
+
+00:06:14.029 --> 00:06:14.039 align:start position:0%
+variables the mean of the sample sum is
+ 
+
+00:06:14.039 --> 00:06:18.950 align:start position:0%
+variables the mean of the sample sum is
+written<00:06:14.560><c> as</c><00:06:15.000><c> Mu</c><00:06:16.000><c> SN</c><00:06:17.000><c> and</c><00:06:17.520><c> this</c><00:06:17.759><c> is</c><00:06:18.000><c> found</c><00:06:18.520><c> by</c>
+
+00:06:18.950 --> 00:06:18.960 align:start position:0%
+written as Mu SN and this is found by
+ 
+
+00:06:18.960 --> 00:06:21.510 align:start position:0%
+written as Mu SN and this is found by
+multiplying<00:06:19.639><c> n</c><00:06:20.199><c> by</c><00:06:20.400><c> the</c><00:06:20.599><c> true</c><00:06:20.960><c> population</c>
+
+00:06:21.510 --> 00:06:21.520 align:start position:0%
+multiplying n by the true population
+ 
+
+00:06:21.520 --> 00:06:24.309 align:start position:0%
+multiplying n by the true population
+mean<00:06:22.360><c> this</c><00:06:22.479><c> should</c><00:06:22.720><c> make</c><00:06:22.960><c> sense</c><00:06:23.440><c> because</c>
+
+00:06:24.309 --> 00:06:24.319 align:start position:0%
+mean this should make sense because
+ 
+
+00:06:24.319 --> 00:06:26.430 align:start position:0%
+mean this should make sense because
+let's<00:06:24.520><c> say</c><00:06:24.720><c> that</c><00:06:24.840><c> the</c><00:06:25.039><c> true</c><00:06:25.400><c> population</c><00:06:26.000><c> mean</c>
+
+00:06:26.430 --> 00:06:26.440 align:start position:0%
+let's say that the true population mean
+ 
+
+00:06:26.440 --> 00:06:29.150 align:start position:0%
+let's say that the true population mean
+height<00:06:27.120><c> was</c><00:06:27.319><c> 170</c><00:06:27.919><c> cm</c><00:06:28.599><c> so</c><00:06:28.720><c> that</c><00:06:28.800><c> would</c><00:06:28.919><c> be</c><00:06:29.039><c> this</c>
+
+00:06:29.150 --> 00:06:29.160 align:start position:0%
+height was 170 cm so that would be this
+ 
+
+00:06:29.160 --> 00:06:32.909 align:start position:0%
+height was 170 cm so that would be this
+value<00:06:29.800><c> here</c><00:06:30.400><c> right</c><00:06:31.400><c> well</c><00:06:31.720><c> if</c><00:06:31.880><c> we</c><00:06:32.120><c> kept</c><00:06:32.479><c> taking</c>
+
+00:06:32.909 --> 00:06:32.919 align:start position:0%
+value here right well if we kept taking
+ 
+
+00:06:32.919 --> 00:06:36.350 align:start position:0%
+value here right well if we kept taking
+samples<00:06:33.520><c> of</c><00:06:33.880><c> three</c><00:06:34.280><c> people</c><00:06:35.160><c> we</c><00:06:35.319><c> would</c><00:06:35.639><c> expect</c>
+
+00:06:36.350 --> 00:06:36.360 align:start position:0%
+samples of three people we would expect
+ 
+
+00:06:36.360 --> 00:06:38.390 align:start position:0%
+samples of three people we would expect
+that<00:06:36.639><c> those</c><00:06:36.919><c> samples</c><00:06:37.440><c> would</c><00:06:37.639><c> have</c><00:06:37.759><c> a</c><00:06:37.919><c> sample</c>
+
+00:06:38.390 --> 00:06:38.400 align:start position:0%
+that those samples would have a sample
+ 
+
+00:06:38.400 --> 00:06:43.469 align:start position:0%
+that those samples would have a sample
+sum<00:06:39.080><c> which</c><00:06:39.199><c> is</c><00:06:39.400><c> approximately</c><00:06:40.240><c> 3</c><00:06:40.639><c> *</c><00:06:41.360><c> 170</c><00:06:42.360><c> n</c><00:06:42.880><c> *</c>
+
+00:06:43.469 --> 00:06:43.479 align:start position:0%
+sum which is approximately 3 * 170 n *
+ 
+
+00:06:43.479 --> 00:06:46.390 align:start position:0%
+sum which is approximately 3 * 170 n *
+mu<00:06:44.240><c> the</c><00:06:44.520><c> standard</c><00:06:44.960><c> deviation</c><00:06:45.720><c> of</c><00:06:45.840><c> the</c><00:06:45.960><c> sample</c>
+
+00:06:46.390 --> 00:06:46.400 align:start position:0%
+mu the standard deviation of the sample
+ 
+
+00:06:46.400 --> 00:06:50.589 align:start position:0%
+mu the standard deviation of the sample
+sum<00:06:47.000><c> is</c><00:06:47.160><c> written</c><00:06:47.639><c> as</c><00:06:48.080><c> Sigma</c><00:06:48.840><c> SN</c><00:06:49.840><c> and</c><00:06:50.240><c> this</c><00:06:50.360><c> is</c>
+
+00:06:50.589 --> 00:06:50.599 align:start position:0%
+sum is written as Sigma SN and this is
+ 
+
+00:06:50.599 --> 00:06:53.710 align:start position:0%
+sum is written as Sigma SN and this is
+equal<00:06:50.919><c> to</c><00:06:51.759><c> the</c><00:06:51.960><c> standard</c><00:06:52.360><c> deviation</c><00:06:53.280><c> of</c><00:06:53.560><c> the</c>
+
+00:06:53.710 --> 00:06:53.720 align:start position:0%
+equal to the standard deviation of the
+ 
+
+00:06:53.720 --> 00:06:56.150 align:start position:0%
+equal to the standard deviation of the
+population<00:06:54.440><c> multiplied</c><00:06:55.080><c> by</c><00:06:55.280><c> the</c><00:06:55.479><c> square</c><00:06:55.840><c> root</c>
+
+00:06:56.150 --> 00:06:56.160 align:start position:0%
+population multiplied by the square root
+ 
+
+00:06:56.160 --> 00:06:58.430 align:start position:0%
+population multiplied by the square root
+of<00:06:56.319><c> n</c><00:06:57.080><c> the</c><00:06:57.199><c> reason</c><00:06:57.560><c> why</c><00:06:57.720><c> there's</c><00:06:57.879><c> a</c><00:06:58.120><c> square</c>
+
+00:06:58.430 --> 00:06:58.440 align:start position:0%
+of n the reason why there's a square
+ 
+
+00:06:58.440 --> 00:07:01.510 align:start position:0%
+of n the reason why there's a square
+root<00:06:58.800><c> here</c><00:06:59.080><c> and</c><00:06:59.199><c> it's</c><00:06:59.400><c> it's</c><00:06:59.560><c> not</c><00:06:59.759><c> just</c><00:07:00.080><c> n</c><00:07:00.520><c> Sigma</c>
+
+00:07:01.510 --> 00:07:01.520 align:start position:0%
+root here and it's it's not just n Sigma
+ 
+
+00:07:01.520 --> 00:07:04.469 align:start position:0%
+root here and it's it's not just n Sigma
+is<00:07:01.879><c> because</c><00:07:02.520><c> the</c><00:07:02.800><c> variance</c><00:07:03.479><c> if</c><00:07:03.560><c> you</c><00:07:03.759><c> recall</c><00:07:04.319><c> is</c>
+
+00:07:04.469 --> 00:07:04.479 align:start position:0%
+is because the variance if you recall is
+ 
+
+00:07:04.479 --> 00:07:07.550 align:start position:0%
+is because the variance if you recall is
+the<00:07:04.680><c> square</c><00:07:05.039><c> of</c><00:07:05.160><c> the</c><00:07:05.360><c> standard</c><00:07:06.080><c> deviation</c><00:07:07.080><c> so</c>
+
+00:07:07.550 --> 00:07:07.560 align:start position:0%
+the square of the standard deviation so
+ 
+
+00:07:07.560 --> 00:07:10.469 align:start position:0%
+the square of the standard deviation so
+the<00:07:07.720><c> variance</c><00:07:08.199><c> would</c><00:07:08.400><c> be</c><00:07:08.759><c> n</c><00:07:09.080><c> *</c><00:07:09.560><c> the</c><00:07:09.720><c> variance</c>
+
+00:07:10.469 --> 00:07:10.479 align:start position:0%
+the variance would be n * the variance
+ 
+
+00:07:10.479 --> 00:07:12.710 align:start position:0%
+the variance would be n * the variance
+of<00:07:10.800><c> the</c><00:07:11.080><c> population</c><00:07:12.080><c> and</c><00:07:12.199><c> then</c><00:07:12.360><c> when</c><00:07:12.520><c> we</c>
+
+00:07:12.710 --> 00:07:12.720 align:start position:0%
+of the population and then when we
+ 
+
+00:07:12.720 --> 00:07:14.710 align:start position:0%
+of the population and then when we
+square<00:07:13.080><c> root</c><00:07:13.280><c> it</c><00:07:13.400><c> to</c><00:07:13.599><c> get</c><00:07:14.000><c> the</c><00:07:14.240><c> standard</c>
+
+00:07:14.710 --> 00:07:14.720 align:start position:0%
+square root it to get the standard
+ 
+
+00:07:14.720 --> 00:07:16.629 align:start position:0%
+square root it to get the standard
+deviation<00:07:15.720><c> that's</c><00:07:15.879><c> where</c><00:07:16.039><c> this</c><00:07:16.199><c> square</c><00:07:16.440><c> root</c>
+
+00:07:16.629 --> 00:07:16.639 align:start position:0%
+deviation that's where this square root
+ 
+
+00:07:16.639 --> 00:07:19.710 align:start position:0%
+deviation that's where this square root
+comes<00:07:16.919><c> from</c><00:07:17.759><c> okay</c><00:07:18.039><c> the</c><00:07:18.240><c> mean</c><00:07:18.960><c> of</c><00:07:19.199><c> the</c><00:07:19.360><c> sample</c>
+
+00:07:19.710 --> 00:07:19.720 align:start position:0%
+comes from okay the mean of the sample
+ 
+
+00:07:19.720 --> 00:07:24.670 align:start position:0%
+comes from okay the mean of the sample
+mean<00:07:20.599><c> is</c><00:07:21.039><c> written</c><00:07:21.560><c> as</c><00:07:22.039><c> Mu</c><00:07:23.039><c> xn</c><00:07:24.039><c> and</c><00:07:24.280><c> this</c><00:07:24.400><c> is</c>
+
+00:07:24.670 --> 00:07:24.680 align:start position:0%
+mean is written as Mu xn and this is
+ 
+
+00:07:24.680 --> 00:07:27.550 align:start position:0%
+mean is written as Mu xn and this is
+just<00:07:24.960><c> equal</c><00:07:25.280><c> to</c><00:07:25.599><c> the</c><00:07:25.879><c> population</c><00:07:26.479><c> mean</c><00:07:27.240><c> so</c><00:07:27.400><c> to</c>
+
+00:07:27.550 --> 00:07:27.560 align:start position:0%
+just equal to the population mean so to
+ 
+
+00:07:27.560 --> 00:07:29.869 align:start position:0%
+just equal to the population mean so to
+give<00:07:27.680><c> a</c><00:07:27.840><c> real</c><00:07:28.160><c> life</c><00:07:28.520><c> interpretation</c>
+
+00:07:29.869 --> 00:07:29.879 align:start position:0%
+give a real life interpretation
+ 
+
+00:07:29.879 --> 00:07:34.710 align:start position:0%
+give a real life interpretation
+if<00:07:30.080><c> the</c><00:07:30.319><c> true</c><00:07:30.800><c> average</c><00:07:31.319><c> height</c><00:07:31.919><c> was</c><00:07:32.319><c> 170</c><00:07:33.560><c> cm</c><00:07:34.560><c> if</c>
+
+00:07:34.710 --> 00:07:34.720 align:start position:0%
+if the true average height was 170 cm if
+ 
+
+00:07:34.720 --> 00:07:37.510 align:start position:0%
+if the true average height was 170 cm if
+we<00:07:34.919><c> took</c><00:07:35.440><c> lots</c><00:07:35.680><c> and</c><00:07:35.879><c> lots</c><00:07:36.080><c> of</c><00:07:36.280><c> samples</c><00:07:37.039><c> of</c>
+
+00:07:37.510 --> 00:07:37.520 align:start position:0%
+we took lots and lots of samples of
+ 
+
+00:07:37.520 --> 00:07:40.270 align:start position:0%
+we took lots and lots of samples of
+three<00:07:37.840><c> people</c><00:07:38.599><c> and</c><00:07:38.879><c> averaged</c><00:07:39.400><c> the</c><00:07:39.599><c> height</c><00:07:40.039><c> of</c>
+
+00:07:40.270 --> 00:07:40.280 align:start position:0%
+three people and averaged the height of
+ 
+
+00:07:40.280 --> 00:07:43.110 align:start position:0%
+three people and averaged the height of
+each<00:07:40.440><c> of</c><00:07:40.639><c> those</c><00:07:40.960><c> samples</c><00:07:41.960><c> we</c><00:07:42.080><c> would</c><00:07:42.400><c> expect</c>
+
+00:07:43.110 --> 00:07:43.120 align:start position:0%
+each of those samples we would expect
+ 
+
+00:07:43.120 --> 00:07:46.950 align:start position:0%
+each of those samples we would expect
+most<00:07:43.360><c> of</c><00:07:43.560><c> those</c><00:07:43.840><c> averages</c><00:07:44.680><c> to</c><00:07:44.879><c> be</c><00:07:45.159><c> about</c><00:07:45.960><c> 170</c>
+
+00:07:46.950 --> 00:07:46.960 align:start position:0%
+most of those averages to be about 170
+ 
+
+00:07:46.960 --> 00:07:50.869 align:start position:0%
+most of those averages to be about 170
+the<00:07:47.159><c> standard</c><00:07:47.599><c> deviation</c><00:07:48.440><c> of</c><00:07:48.800><c> xar</c><00:07:49.319><c> n</c><00:07:50.280><c> is</c><00:07:50.599><c> equal</c>
+
+00:07:50.869 --> 00:07:50.879 align:start position:0%
+the standard deviation of xar n is equal
+ 
+
+00:07:50.879 --> 00:07:52.990 align:start position:0%
+the standard deviation of xar n is equal
+to<00:07:51.159><c> the</c><00:07:51.319><c> standard</c><00:07:51.720><c> deviation</c><00:07:52.479><c> of</c><00:07:52.639><c> the</c>
+
+00:07:52.990 --> 00:07:53.000 align:start position:0%
+to the standard deviation of the
+ 
+
+00:07:53.000 --> 00:07:57.110 align:start position:0%
+to the standard deviation of the
+population<00:07:54.240><c> /un</c><00:07:55.240><c> n</c><00:07:56.039><c> the</c><00:07:56.159><c> reason</c><00:07:56.599><c> why</c><00:07:56.759><c> it's</c>
+
+00:07:57.110 --> 00:07:57.120 align:start position:0%
+population /un n the reason why it's
+ 
+
+00:07:57.120 --> 00:07:59.670 align:start position:0%
+population /un n the reason why it's
+like<00:07:57.400><c> this</c><00:07:58.000><c> is</c><00:07:58.280><c> because</c><00:07:58.919><c> record</c><00:07:59.440><c> that</c><00:07:59.560><c> the</c>
+
+00:07:59.670 --> 00:07:59.680 align:start position:0%
+like this is because record that the
+ 
+
+00:07:59.680 --> 00:08:03.990 align:start position:0%
+like this is because record that the
+sample<00:08:00.039><c> mean</c><00:08:00.800><c> is</c><00:08:00.960><c> found</c><00:08:01.319><c> by</c><00:08:01.560><c> dividing</c><00:08:02.120><c> SN</c><00:08:03.000><c> by</c><00:08:03.199><c> n</c>
+
+00:08:03.990 --> 00:08:04.000 align:start position:0%
+sample mean is found by dividing SN by n
+ 
+
+00:08:04.000 --> 00:08:06.749 align:start position:0%
+sample mean is found by dividing SN by n
+so<00:08:04.520><c> if</c><00:08:04.759><c> we</c><00:08:05.000><c> took</c><00:08:05.479><c> this</c><00:08:05.680><c> standard</c><00:08:06.080><c> deviation</c>
+
+00:08:06.749 --> 00:08:06.759 align:start position:0%
+so if we took this standard deviation
+ 
+
+00:08:06.759 --> 00:08:09.950 align:start position:0%
+so if we took this standard deviation
+here<00:08:07.520><c> which</c><00:08:07.759><c> is</c><00:08:08.080><c> Sigma</c><00:08:08.440><c> root</c><00:08:08.680><c> n</c><00:08:09.479><c> that's</c><00:08:09.720><c> the</c>
+
+00:08:09.950 --> 00:08:09.960 align:start position:0%
+here which is Sigma root n that's the
+ 
+
+00:08:09.960 --> 00:08:12.749 align:start position:0%
+here which is Sigma root n that's the
+standard<00:08:10.360><c> deviation</c><00:08:10.919><c> of</c><00:08:11.080><c> the</c><00:08:11.240><c> sample</c><00:08:11.720><c> sum</c><00:08:12.599><c> and</c>
+
+00:08:12.749 --> 00:08:12.759 align:start position:0%
+standard deviation of the sample sum and
+ 
+
+00:08:12.759 --> 00:08:15.629 align:start position:0%
+standard deviation of the sample sum and
+we<00:08:12.960><c> divided</c><00:08:13.360><c> it</c><00:08:13.560><c> by</c><00:08:13.720><c> n</c><00:08:14.319><c> to</c><00:08:14.560><c> get</c><00:08:14.879><c> the</c><00:08:15.280><c> sample</c>
+
+00:08:15.629 --> 00:08:15.639 align:start position:0%
+we divided it by n to get the sample
+ 
+
+00:08:15.639 --> 00:08:18.950 align:start position:0%
+we divided it by n to get the sample
+mean<00:08:16.280><c> like</c><00:08:16.400><c> we</c><00:08:16.560><c> do</c><00:08:16.840><c> here</c><00:08:17.840><c> then</c><00:08:18.280><c> simplifying</c>
+
+00:08:18.950 --> 00:08:18.960 align:start position:0%
+mean like we do here then simplifying
+ 
+
+00:08:18.960 --> 00:08:22.189 align:start position:0%
+mean like we do here then simplifying
+this<00:08:19.319><c> gives</c><00:08:19.639><c> us</c><00:08:20.080><c> Sigma</c><00:08:20.599><c> over</c><00:08:20.879><c> root</c><00:08:21.120><c> n</c><00:08:22.080><c> if</c>
+
+00:08:22.189 --> 00:08:22.199 align:start position:0%
+this gives us Sigma over root n if
+ 
+
+00:08:22.199 --> 00:08:23.830 align:start position:0%
+this gives us Sigma over root n if
+you're<00:08:22.440><c> confused</c><00:08:22.840><c> at</c><00:08:23.000><c> this</c><00:08:23.080><c> one</c><00:08:23.599><c> just</c>
+
+00:08:23.830 --> 00:08:23.840 align:start position:0%
+you're confused at this one just
+ 
+
+00:08:23.840 --> 00:08:26.070 align:start position:0%
+you're confused at this one just
+remember<00:08:24.280><c> your</c><00:08:24.520><c> index</c><00:08:24.919><c> laws</c><00:08:25.360><c> for</c><00:08:25.599><c> these</c><00:08:25.800><c> n</c>
+
+00:08:26.070 --> 00:08:26.080 align:start position:0%
+remember your index laws for these n
+ 
+
+00:08:26.080 --> 00:08:28.790 align:start position:0%
+remember your index laws for these n
+values<00:08:27.000><c> I</c><00:08:27.120><c> know</c><00:08:27.400><c> this</c><00:08:27.599><c> may</c><00:08:27.879><c> seem</c><00:08:28.280><c> a</c><00:08:28.400><c> little</c><00:08:28.599><c> bit</c>
+
+00:08:28.790 --> 00:08:28.800 align:start position:0%
+values I know this may seem a little bit
+ 
+
+00:08:28.800 --> 00:08:29.869 align:start position:0%
+values I know this may seem a little bit
+confusing
+
+00:08:29.869 --> 00:08:29.879 align:start position:0%
+confusing
+ 
+
+00:08:29.879 --> 00:08:31.749 align:start position:0%
+confusing
+but<00:08:30.039><c> I</c><00:08:30.159><c> promise</c><00:08:30.520><c> the</c><00:08:30.639><c> questions</c><00:08:31.199><c> aren't</c><00:08:31.520><c> that</c>
+
+00:08:31.749 --> 00:08:31.759 align:start position:0%
+but I promise the questions aren't that
+ 
+
+00:08:31.759 --> 00:08:34.790 align:start position:0%
+but I promise the questions aren't that
+bad<00:08:32.399><c> to</c><00:08:32.599><c> explain</c><00:08:32.959><c> it</c><00:08:33.120><c> better</c><00:08:33.919><c> let</c><00:08:34.039><c> me</c><00:08:34.279><c> try</c><00:08:34.519><c> and</c>
+
+00:08:34.790 --> 00:08:34.800 align:start position:0%
+bad to explain it better let me try and
+ 
+
+00:08:34.800 --> 00:08:38.589 align:start position:0%
+bad to explain it better let me try and
+use<00:08:35.279><c> another</c><00:08:36.000><c> example</c><00:08:37.000><c> so</c><00:08:37.519><c> let's</c><00:08:37.719><c> say</c><00:08:37.919><c> that</c><00:08:38.080><c> X</c>
+
+00:08:38.589 --> 00:08:38.599 align:start position:0%
+use another example so let's say that X
+ 
+
+00:08:38.599 --> 00:08:41.949 align:start position:0%
+use another example so let's say that X
+represents<00:08:39.320><c> the</c><00:08:40.240><c> average</c><00:08:40.719><c> weight</c><00:08:41.360><c> of</c><00:08:41.599><c> a</c><00:08:41.760><c> can</c>
+
+00:08:41.949 --> 00:08:41.959 align:start position:0%
+represents the average weight of a can
+ 
+
+00:08:41.959 --> 00:08:45.230 align:start position:0%
+represents the average weight of a can
+of<00:08:42.159><c> Coke</c><00:08:42.560><c> produced</c><00:08:43.000><c> by</c><00:08:43.120><c> a</c><00:08:43.279><c> factory</c><00:08:44.200><c> where</c><00:08:44.480><c> X</c><00:08:44.920><c> is</c>
+
+00:08:45.230 --> 00:08:45.240 align:start position:0%
+of Coke produced by a factory where X is
+ 
+
+00:08:45.240 --> 00:08:49.470 align:start position:0%
+of Coke produced by a factory where X is
+normally<00:08:45.720><c> distributed</c><00:08:46.560><c> with</c><00:08:46.760><c> mean</c><00:08:47.279><c> 250</c><00:08:48.240><c> g</c><00:08:49.120><c> and</c>
+
+00:08:49.470 --> 00:08:49.480 align:start position:0%
+normally distributed with mean 250 g and
+ 
+
+00:08:49.480 --> 00:08:52.710 align:start position:0%
+normally distributed with mean 250 g and
+standard<00:08:49.880><c> deviation</c><00:08:50.640><c> 2</c><00:08:50.920><c> G</c><00:08:51.880><c> if</c><00:08:52.040><c> we</c><00:08:52.240><c> took</c><00:08:52.519><c> a</c>
+
+00:08:52.710 --> 00:08:52.720 align:start position:0%
+standard deviation 2 G if we took a
+ 
+
+00:08:52.720 --> 00:08:56.949 align:start position:0%
+standard deviation 2 G if we took a
+sample<00:08:53.240><c> of</c><00:08:53.640><c> 10</c><00:08:54.120><c> cans</c><00:08:55.120><c> this</c><00:08:55.360><c> sample</c><00:08:56.240><c> now</c><00:08:56.560><c> has</c>
+
+00:08:56.949 --> 00:08:56.959 align:start position:0%
+sample of 10 cans this sample now has
+ 
+
+00:08:56.959 --> 00:09:01.670 align:start position:0%
+sample of 10 cans this sample now has
+two<00:08:57.320><c> properties</c><00:08:58.320><c> it</c><00:08:58.560><c> has</c><00:08:58.800><c> its</c><00:08:59.200><c> sample</c><00:08:59.600><c> sum</c><00:09:00.680><c> S10</c>
+
+00:09:01.670 --> 00:09:01.680 align:start position:0%
+two properties it has its sample sum S10
+ 
+
+00:09:01.680 --> 00:09:05.389 align:start position:0%
+two properties it has its sample sum S10
+and<00:09:01.959><c> its</c><00:09:02.200><c> sample</c><00:09:02.560><c> mean</c><00:09:03.240><c> xar</c><00:09:03.800><c> 10</c><00:09:04.720><c> now</c><00:09:05.000><c> in</c><00:09:05.200><c> this</c>
+
+00:09:05.389 --> 00:09:05.399 align:start position:0%
+and its sample mean xar 10 now in this
+ 
+
+00:09:05.399 --> 00:09:08.790 align:start position:0%
+and its sample mean xar 10 now in this
+case<00:09:05.959><c> the</c><00:09:06.120><c> sample</c><00:09:06.560><c> sum</c><00:09:07.000><c> S10</c><00:09:08.000><c> is</c><00:09:08.200><c> found</c><00:09:08.600><c> by</c>
+
+00:09:08.790 --> 00:09:08.800 align:start position:0%
+case the sample sum S10 is found by
+ 
+
+00:09:08.800 --> 00:09:11.870 align:start position:0%
+case the sample sum S10 is found by
+adding<00:09:09.160><c> up</c><00:09:09.360><c> the</c><00:09:09.519><c> weights</c><00:09:09.800><c> of</c><00:09:09.959><c> the</c><00:09:10.120><c> cans</c><00:09:11.120><c> right</c>
+
+00:09:11.870 --> 00:09:11.880 align:start position:0%
+adding up the weights of the cans right
+ 
+
+00:09:11.880 --> 00:09:14.710 align:start position:0%
+adding up the weights of the cans right
+so<00:09:12.200><c> S10</c><00:09:12.880><c> actually</c><00:09:13.240><c> represents</c><00:09:13.959><c> the</c><00:09:14.279><c> total</c>
+
+00:09:14.710 --> 00:09:14.720 align:start position:0%
+so S10 actually represents the total
+ 
+
+00:09:14.720 --> 00:09:18.430 align:start position:0%
+so S10 actually represents the total
+weight<00:09:15.360><c> of</c><00:09:15.720><c> 10</c><00:09:16.120><c> cans</c><00:09:16.959><c> remember</c><00:09:17.399><c> that</c><00:09:17.880><c> the</c><00:09:18.200><c> key</c>
+
+00:09:18.430 --> 00:09:18.440 align:start position:0%
+weight of 10 cans remember that the key
+ 
+
+00:09:18.440 --> 00:09:21.790 align:start position:0%
+weight of 10 cans remember that the key
+word<00:09:18.760><c> for</c><00:09:19.160><c> sample</c><00:09:19.640><c> sum</c><00:09:20.160><c> is</c><00:09:20.399><c> total</c><00:09:21.160><c> the</c><00:09:21.360><c> sample</c>
+
+00:09:21.790 --> 00:09:21.800 align:start position:0%
+word for sample sum is total the sample
+ 
+
+00:09:21.800 --> 00:09:25.670 align:start position:0%
+word for sample sum is total the sample
+mean<00:09:22.360><c> xar</c><00:09:23.160><c> 10</c><00:09:24.000><c> represents</c><00:09:24.720><c> the</c><00:09:25.120><c> average</c>
+
+00:09:25.670 --> 00:09:25.680 align:start position:0%
+mean xar 10 represents the average
+ 
+
+00:09:25.680 --> 00:09:29.509 align:start position:0%
+mean xar 10 represents the average
+weight<00:09:26.560><c> of</c><00:09:26.880><c> a</c><00:09:27.120><c> can</c><00:09:27.640><c> in</c><00:09:27.800><c> a</c><00:09:27.959><c> sample</c><00:09:28.320><c> of</c><00:09:28.480><c> 10</c><00:09:29.320><c> so</c>
+
+00:09:29.509 --> 00:09:29.519 align:start position:0%
+weight of a can in a sample of 10 so
+ 
+
+00:09:29.519 --> 00:09:32.030 align:start position:0%
+weight of a can in a sample of 10 so
+that's<00:09:29.720><c> the</c><00:09:29.920><c> key</c><00:09:30.160><c> word</c><00:09:30.560><c> for</c><00:09:30.920><c> sample</c><00:09:31.320><c> mean</c>
+
+00:09:32.030 --> 00:09:32.040 align:start position:0%
+that's the key word for sample mean
+ 
+
+00:09:32.040 --> 00:09:35.750 align:start position:0%
+that's the key word for sample mean
+average<00:09:33.040><c> S10</c><00:09:33.640><c> and</c><00:09:34.000><c> X10</c><00:09:35.000><c> both</c><00:09:35.240><c> have</c><00:09:35.399><c> their</c><00:09:35.519><c> own</c>
+
+00:09:35.750 --> 00:09:35.760 align:start position:0%
+average S10 and X10 both have their own
+ 
+
+00:09:35.760 --> 00:09:37.310 align:start position:0%
+average S10 and X10 both have their own
+distribution<00:09:36.720><c> they're</c><00:09:36.920><c> normally</c>
+
+00:09:37.310 --> 00:09:37.320 align:start position:0%
+distribution they're normally
+ 
+
+00:09:37.320 --> 00:09:38.910 align:start position:0%
+distribution they're normally
+distributed<00:09:37.920><c> but</c><00:09:38.040><c> don't</c><00:09:38.200><c> worry</c><00:09:38.480><c> about</c><00:09:38.720><c> why</c>
+
+00:09:38.910 --> 00:09:38.920 align:start position:0%
+distributed but don't worry about why
+ 
+
+00:09:38.920 --> 00:09:41.350 align:start position:0%
+distributed but don't worry about why
+we'll<00:09:39.079><c> talk</c><00:09:39.279><c> about</c><00:09:39.519><c> that</c><00:09:39.680><c> later</c><00:09:40.440><c> for</c><00:09:40.680><c> now</c><00:09:41.200><c> we</c>
+
+00:09:41.350 --> 00:09:41.360 align:start position:0%
+we'll talk about that later for now we
+ 
+
+00:09:41.360 --> 00:09:43.350 align:start position:0%
+we'll talk about that later for now we
+just<00:09:41.519><c> need</c><00:09:41.680><c> to</c><00:09:41.839><c> be</c><00:09:42.000><c> able</c><00:09:42.240><c> to</c><00:09:42.519><c> use</c><00:09:43.120><c> these</c>
+
+00:09:43.350 --> 00:09:43.360 align:start position:0%
+just need to be able to use these
+ 
+
+00:09:43.360 --> 00:09:45.870 align:start position:0%
+just need to be able to use these
+formulas<00:09:44.279><c> to</c><00:09:44.480><c> find</c><00:09:44.760><c> the</c><00:09:44.880><c> mean</c><00:09:45.120><c> and</c><00:09:45.320><c> standard</c>
+
+00:09:45.870 --> 00:09:45.880 align:start position:0%
+formulas to find the mean and standard
+ 
+
+00:09:45.880 --> 00:09:48.350 align:start position:0%
+formulas to find the mean and standard
+deviation<00:09:46.880><c> of</c><00:09:47.120><c> the</c><00:09:47.240><c> sample</c><00:09:47.680><c> sum</c><00:09:48.120><c> and</c><00:09:48.240><c> the</c>
+
+00:09:48.350 --> 00:09:48.360 align:start position:0%
+deviation of the sample sum and the
+ 
+
+00:09:48.360 --> 00:09:51.790 align:start position:0%
+deviation of the sample sum and the
+sample<00:09:48.760><c> mean</c><00:09:49.760><c> so</c><00:09:50.000><c> for</c><00:09:50.399><c> S10</c><00:09:51.279><c> which</c><00:09:51.399><c> is</c><00:09:51.560><c> the</c>
+
+00:09:51.790 --> 00:09:51.800 align:start position:0%
+sample mean so for S10 which is the
+ 
+
+00:09:51.800 --> 00:09:54.110 align:start position:0%
+sample mean so for S10 which is the
+total<00:09:52.160><c> weight</c><00:09:52.360><c> of</c><00:09:52.519><c> 10</c><00:09:52.800><c> cans</c><00:09:53.680><c> that</c><00:09:53.800><c> would</c><00:09:53.959><c> just</c>
+
+00:09:54.110 --> 00:09:54.120 align:start position:0%
+total weight of 10 cans that would just
+ 
+
+00:09:54.120 --> 00:09:57.870 align:start position:0%
+total weight of 10 cans that would just
+be<00:09:54.440><c> 10</c><00:09:55.160><c> *</c><00:09:55.880><c> 250</c><00:09:56.800><c> which</c><00:09:56.920><c> is</c>
+
+00:09:57.870 --> 00:09:57.880 align:start position:0%
+be 10 * 250 which is
+ 
+
+00:09:57.880 --> 00:09:59.829 align:start position:0%
+be 10 * 250 which is
+2,500<00:09:58.880><c> and</c><00:09:59.000><c> then</c><00:09:59.160><c> then</c><00:09:59.320><c> the</c><00:09:59.480><c> standard</c>
+
+00:09:59.829 --> 00:09:59.839 align:start position:0%
+2,500 and then then the standard
+ 
+
+00:09:59.839 --> 00:10:02.550 align:start position:0%
+2,500 and then then the standard
+deviation<00:10:00.760><c> would</c><00:10:01.000><c> be</c><00:10:02.000><c> the</c><00:10:02.160><c> standard</c>
+
+00:10:02.550 --> 00:10:02.560 align:start position:0%
+deviation would be the standard
+ 
+
+00:10:02.560 --> 00:10:08.670 align:start position:0%
+deviation would be the standard
+deviation<00:10:03.200><c> *</c><00:10:03.760><c> root</c><00:10:04.000><c> n</c><00:10:04.800><c> so</c><00:10:05.040><c> 2</c><00:10:05.399><c> *</c><00:10:06.000><c> otk</c><00:10:06.360><c> 10</c><00:10:07.360><c> for</c><00:10:07.959><c> xar</c>
+
+00:10:08.670 --> 00:10:08.680 align:start position:0%
+deviation * root n so 2 * otk 10 for xar
+ 
+
+00:10:08.680 --> 00:10:12.310 align:start position:0%
+deviation * root n so 2 * otk 10 for xar
+10<00:10:09.399><c> we</c><00:10:09.519><c> can</c><00:10:09.720><c> use</c><00:10:10.120><c> these</c><00:10:10.279><c> two</c><00:10:10.800><c> formulas</c><00:10:11.800><c> so</c><00:10:12.079><c> the</c>
+
+00:10:12.310 --> 00:10:12.320 align:start position:0%
+10 we can use these two formulas so the
+ 
+
+00:10:12.320 --> 00:10:15.470 align:start position:0%
+10 we can use these two formulas so the
+mean<00:10:12.920><c> of</c><00:10:13.160><c> xar</c><00:10:13.680><c> n</c><00:10:14.240><c> is</c><00:10:14.480><c> just</c><00:10:14.760><c> the</c><00:10:14.959><c> population</c>
+
+00:10:15.470 --> 00:10:15.480 align:start position:0%
+mean of xar n is just the population
+ 
+
+00:10:15.480 --> 00:10:18.710 align:start position:0%
+mean of xar n is just the population
+mean<00:10:16.240><c> which</c><00:10:16.399><c> is</c><00:10:16.720><c> 250</c><00:10:17.720><c> and</c><00:10:17.880><c> then</c><00:10:18.160><c> the</c><00:10:18.320><c> standard</c>
+
+00:10:18.710 --> 00:10:18.720 align:start position:0%
+mean which is 250 and then the standard
+ 
+
+00:10:18.720 --> 00:10:22.750 align:start position:0%
+mean which is 250 and then the standard
+deviation<00:10:19.640><c> is</c><00:10:20.120><c> the</c><00:10:20.320><c> standard</c><00:10:20.680><c> deviation</c><00:10:21.680><c> idun</c>
+
+00:10:22.750 --> 00:10:22.760 align:start position:0%
+deviation is the standard deviation idun
+ 
+
+00:10:22.760 --> 00:10:26.750 align:start position:0%
+deviation is the standard deviation idun
+n<00:10:23.760><c> so</c><00:10:24.000><c> that</c><00:10:24.120><c> would</c><00:10:24.279><c> be</c><00:10:24.680><c> 2un</c><00:10:25.560><c> 10</c><00:10:26.160><c> just</c><00:10:26.320><c> a</c><00:10:26.519><c> quick</c>
+
+00:10:26.750 --> 00:10:26.760 align:start position:0%
+n so that would be 2un 10 just a quick
+ 
+
+00:10:26.760 --> 00:10:28.430 align:start position:0%
+n so that would be 2un 10 just a quick
+reminder<00:10:27.279><c> from</c><00:10:27.519><c> continuous</c><00:10:28.120><c> random</c>
+
+00:10:28.430 --> 00:10:28.440 align:start position:0%
+reminder from continuous random
+ 
+
+00:10:28.440 --> 00:10:30.990 align:start position:0%
+reminder from continuous random
+variables<00:10:28.920><c> that</c><00:10:29.320><c> this</c><00:10:29.640><c> squar</c><00:10:30.360><c> is</c><00:10:30.600><c> just</c><00:10:30.760><c> for</c>
+
+00:10:30.990 --> 00:10:31.000 align:start position:0%
+variables that this squar is just for
+ 
+
+00:10:31.000 --> 00:10:33.150 align:start position:0%
+variables that this squar is just for
+notation<00:10:31.720><c> so</c><00:10:31.920><c> the</c><00:10:32.120><c> standard</c><00:10:32.519><c> deviation</c><00:10:32.959><c> is</c>
+
+00:10:33.150 --> 00:10:33.160 align:start position:0%
+notation so the standard deviation is
+ 
+
+00:10:33.160 --> 00:10:35.870 align:start position:0%
+notation so the standard deviation is
+actually<00:10:33.519><c> this</c><00:10:33.680><c> number</c><00:10:34.160><c> in</c><00:10:34.279><c> the</c><00:10:34.880><c> brackets</c>
+
+00:10:35.870 --> 00:10:35.880 align:start position:0%
+actually this number in the brackets
+ 
+
+00:10:35.880 --> 00:10:38.829 align:start position:0%
+actually this number in the brackets
+okay<00:10:36.160><c> let's</c><00:10:36.480><c> do</c><00:10:36.800><c> some</c><00:10:37.240><c> questions</c><00:10:38.160><c> we</c><00:10:38.399><c> have</c><00:10:38.639><c> the</c>
+
+00:10:38.829 --> 00:10:38.839 align:start position:0%
+okay let's do some questions we have the
+ 
+
+00:10:38.839 --> 00:10:41.629 align:start position:0%
+okay let's do some questions we have the
+random<00:10:39.279><c> variable</c><00:10:39.800><c> X</c><00:10:40.480><c> which</c><00:10:40.639><c> is</c><00:10:40.839><c> the</c><00:10:41.040><c> duration</c>
+
+00:10:41.629 --> 00:10:41.639 align:start position:0%
+random variable X which is the duration
+ 
+
+00:10:41.639 --> 00:10:45.269 align:start position:0%
+random variable X which is the duration
+of<00:10:42.040><c> one</c><00:10:42.360><c> song</c><00:10:42.959><c> on</c><00:10:43.120><c> a</c><00:10:43.279><c> playlist</c><00:10:44.279><c> X</c><00:10:44.560><c> has</c><00:10:44.720><c> mean</c><00:10:45.079><c> 3</c>
+
+00:10:45.269 --> 00:10:45.279 align:start position:0%
+of one song on a playlist X has mean 3
+ 
+
+00:10:45.279 --> 00:10:48.110 align:start position:0%
+of one song on a playlist X has mean 3
+minutes<00:10:45.880><c> and</c><00:10:46.079><c> standard</c><00:10:46.480><c> deviation</c><00:10:47.200><c> 0.5</c>
+
+00:10:48.110 --> 00:10:48.120 align:start position:0%
+minutes and standard deviation 0.5
+ 
+
+00:10:48.120 --> 00:10:51.949 align:start position:0%
+minutes and standard deviation 0.5
+minutes<00:10:48.880><c> so</c><00:10:49.160><c> part</c><00:10:49.399><c> A</c><00:10:49.639><c> says</c><00:10:50.120><c> what</c><00:10:50.279><c> does</c><00:10:50.959><c> s16</c>
+
+00:10:51.949 --> 00:10:51.959 align:start position:0%
+minutes so part A says what does s16
+ 
+
+00:10:51.959 --> 00:10:55.430 align:start position:0%
+minutes so part A says what does s16
+represent<00:10:52.800><c> remember</c><00:10:53.279><c> that</c><00:10:53.440><c> the</c><00:10:53.680><c> key</c><00:10:53.920><c> word</c><00:10:54.680><c> for</c>
+
+00:10:55.430 --> 00:10:55.440 align:start position:0%
+represent remember that the key word for
+ 
+
+00:10:55.440 --> 00:11:00.430 align:start position:0%
+represent remember that the key word for
+s<00:10:55.880><c> or</c><00:10:56.000><c> the</c><00:10:56.160><c> sample</c><00:10:56.600><c> sum</c><00:10:57.240><c> was</c><00:10:57.720><c> total</c><00:10:58.720><c> so</c><00:10:59.440><c> s16</c>
+
+00:11:00.430 --> 00:11:00.440 align:start position:0%
+s or the sample sum was total so s16
+ 
+
+00:11:00.440 --> 00:11:04.670 align:start position:0%
+s or the sample sum was total so s16
+represents<00:11:01.120><c> the</c><00:11:01.560><c> total</c><00:11:02.320><c> length</c><00:11:02.920><c> of</c><00:11:03.240><c> 16</c><00:11:03.720><c> songs</c>
+
+00:11:04.670 --> 00:11:04.680 align:start position:0%
+represents the total length of 16 songs
+ 
+
+00:11:04.680 --> 00:11:06.750 align:start position:0%
+represents the total length of 16 songs
+in<00:11:04.839><c> other</c><00:11:05.000><c> words</c><00:11:05.600><c> how</c><00:11:05.760><c> long</c><00:11:05.959><c> would</c><00:11:06.120><c> it</c><00:11:06.279><c> take</c><00:11:06.560><c> to</c>
+
+00:11:06.750 --> 00:11:06.760 align:start position:0%
+in other words how long would it take to
+ 
+
+00:11:06.760 --> 00:11:10.230 align:start position:0%
+in other words how long would it take to
+play<00:11:07.240><c> 16</c><00:11:07.639><c> songs</c><00:11:08.279><c> back</c><00:11:08.519><c> to</c><00:11:08.720><c> back</c><00:11:09.320><c> part</c><00:11:09.600><c> B</c><00:11:09.880><c> says</c>
+
+00:11:10.230 --> 00:11:10.240 align:start position:0%
+play 16 songs back to back part B says
+ 
+
+00:11:10.240 --> 00:11:13.509 align:start position:0%
+play 16 songs back to back part B says
+find<00:11:10.519><c> the</c><00:11:10.680><c> mean</c><00:11:11.160><c> and</c><00:11:11.399><c> standard</c><00:11:11.800><c> deviation</c><00:11:12.720><c> of</c>
+
+00:11:13.509 --> 00:11:13.519 align:start position:0%
+find the mean and standard deviation of
+ 
+
+00:11:13.519 --> 00:11:17.110 align:start position:0%
+find the mean and standard deviation of
+s16<00:11:14.519><c> let's</c><00:11:14.760><c> first</c><00:11:15.000><c> find</c><00:11:15.200><c> the</c><00:11:15.360><c> mean</c><00:11:15.600><c> of</c><00:11:16.120><c> s16</c>
+
+00:11:17.110 --> 00:11:17.120 align:start position:0%
+s16 let's first find the mean of s16
+ 
+
+00:11:17.120 --> 00:11:20.269 align:start position:0%
+s16 let's first find the mean of s16
+this<00:11:17.279><c> is</c><00:11:17.560><c> equal</c><00:11:17.880><c> to</c><00:11:18.440><c> n</c><00:11:19.200><c> multiplied</c><00:11:19.880><c> by</c><00:11:20.079><c> the</c>
+
+00:11:20.269 --> 00:11:20.279 align:start position:0%
+this is equal to n multiplied by the
+ 
+
+00:11:20.279 --> 00:11:25.269 align:start position:0%
+this is equal to n multiplied by the
+population<00:11:20.880><c> mean</c><00:11:21.800><c> so</c><00:11:22.600><c> in</c><00:11:22.800><c> this</c><00:11:23.079><c> case</c><00:11:23.440><c> n</c><00:11:23.839><c> is</c><00:11:24.279><c> 16</c>
+
+00:11:25.269 --> 00:11:25.279 align:start position:0%
+population mean so in this case n is 16
+ 
+
+00:11:25.279 --> 00:11:28.190 align:start position:0%
+population mean so in this case n is 16
+because<00:11:25.519><c> we're</c><00:11:25.720><c> taking</c><00:11:25.959><c> a</c><00:11:26.200><c> sample</c><00:11:26.519><c> of</c><00:11:26.959><c> 16</c><00:11:27.959><c> and</c>
+
+00:11:28.190 --> 00:11:28.200 align:start position:0%
+because we're taking a sample of 16 and
+ 
+
+00:11:28.200 --> 00:11:31.750 align:start position:0%
+because we're taking a sample of 16 and
+the<00:11:28.399><c> population</c><00:11:29.079><c> mean</c><00:11:29.440><c> is</c><00:11:29.880><c> 3</c><00:11:30.160><c> minutes</c><00:11:30.639><c> so</c><00:11:30.839><c> 16</c><00:11:31.320><c> *</c>
+
+00:11:31.750 --> 00:11:31.760 align:start position:0%
+the population mean is 3 minutes so 16 *
+ 
+
+00:11:31.760 --> 00:11:35.790 align:start position:0%
+the population mean is 3 minutes so 16 *
+3<00:11:32.680><c> which</c><00:11:32.880><c> is</c><00:11:33.279><c> 48</c><00:11:33.959><c> minutes</c><00:11:34.920><c> the</c><00:11:35.279><c> standard</c>
+
+00:11:35.790 --> 00:11:35.800 align:start position:0%
+3 which is 48 minutes the standard
+ 
+
+00:11:35.800 --> 00:11:37.829 align:start position:0%
+3 which is 48 minutes the standard
+deviation<00:11:36.800><c> of</c>
+
+00:11:37.829 --> 00:11:37.839 align:start position:0%
+deviation of
+ 
+
+00:11:37.839 --> 00:11:41.389 align:start position:0%
+deviation of
+s16<00:11:38.839><c> is</c><00:11:39.440><c> the</c><00:11:39.639><c> square</c><00:11:39.959><c> root</c><00:11:40.240><c> of</c><00:11:40.399><c> n</c><00:11:40.680><c> *</c><00:11:41.160><c> the</c>
+
+00:11:41.389 --> 00:11:41.399 align:start position:0%
+s16 is the square root of n * the
+ 
+
+00:11:41.399 --> 00:11:44.509 align:start position:0%
+s16 is the square root of n * the
+population<00:11:41.959><c> standard</c><00:11:42.360><c> deviation</c><00:11:43.320><c> which</c><00:11:43.519><c> isun</c>
+
+00:11:44.509 --> 00:11:44.519 align:start position:0%
+population standard deviation which isun
+ 
+
+00:11:44.519 --> 00:11:49.829 align:start position:0%
+population standard deviation which isun
+16<00:11:45.480><c> multiplied</c><00:11:46.920><c> 0.5</c><00:11:47.920><c> which</c><00:11:48.120><c> is</c><00:11:48.320><c> 2</c><00:11:48.839><c> minutes</c>
+
+00:11:49.829 --> 00:11:49.839 align:start position:0%
+16 multiplied 0.5 which is 2 minutes
+ 
+
+00:11:49.839 --> 00:11:53.590 align:start position:0%
+16 multiplied 0.5 which is 2 minutes
+part<00:11:50.120><c> C</c><00:11:50.399><c> says</c><00:11:50.920><c> what</c><00:11:51.079><c> does</c><00:11:51.399><c> xar</c><00:11:52.200><c> 16</c><00:11:52.720><c> represent</c>
+
+00:11:53.590 --> 00:11:53.600 align:start position:0%
+part C says what does xar 16 represent
+ 
+
+00:11:53.600 --> 00:11:58.030 align:start position:0%
+part C says what does xar 16 represent
+so<00:11:53.920><c> xar</c><00:11:54.839><c> 16</c><00:11:55.839><c> is</c><00:11:56.200><c> the</c><00:11:56.399><c> sample</c><00:11:56.839><c> mean</c><00:11:57.519><c> for</c><00:11:57.839><c> a</c>
+
+00:11:58.030 --> 00:11:58.040 align:start position:0%
+so xar 16 is the sample mean for a
+ 
+
+00:11:58.040 --> 00:12:00.990 align:start position:0%
+so xar 16 is the sample mean for a
+sample<00:11:58.519><c> of</c><00:11:58.720><c> 16</c><00:11:59.000><c> 16</c><00:11:59.360><c> songs</c><00:12:00.240><c> remember</c><00:12:00.600><c> that</c><00:12:00.760><c> the</c>
+
+00:12:00.990 --> 00:12:01.000 align:start position:0%
+sample of 16 16 songs remember that the
+ 
+
+00:12:01.000 --> 00:12:04.550 align:start position:0%
+sample of 16 16 songs remember that the
+key<00:12:01.240><c> word</c><00:12:01.560><c> for</c><00:12:01.760><c> sample</c><00:12:02.160><c> mean</c><00:12:02.720><c> was</c><00:12:03.200><c> average</c><00:12:04.200><c> so</c>
+
+00:12:04.550 --> 00:12:04.560 align:start position:0%
+key word for sample mean was average so
+ 
+
+00:12:04.560 --> 00:12:08.069 align:start position:0%
+key word for sample mean was average so
+xar<00:12:05.240><c> 16</c><00:12:06.160><c> represents</c><00:12:06.720><c> the</c><00:12:07.120><c> average</c><00:12:07.519><c> length</c><00:12:07.959><c> of</c>
+
+00:12:08.069 --> 00:12:08.079 align:start position:0%
+xar 16 represents the average length of
+ 
+
+00:12:08.079 --> 00:12:11.629 align:start position:0%
+xar 16 represents the average length of
+a<00:12:08.240><c> song</c><00:12:08.760><c> in</c><00:12:08.880><c> a</c><00:12:09.040><c> sample</c><00:12:09.399><c> of</c><00:12:09.680><c> 16</c><00:12:10.680><c> Part</c><00:12:10.920><c> D</c><00:12:11.240><c> says</c>
+
+00:12:11.629 --> 00:12:11.639 align:start position:0%
+a song in a sample of 16 Part D says
+ 
+
+00:12:11.639 --> 00:12:13.990 align:start position:0%
+a song in a sample of 16 Part D says
+find<00:12:11.880><c> the</c><00:12:12.000><c> mean</c><00:12:12.279><c> and</c><00:12:12.519><c> standard</c><00:12:13.000><c> deviation</c><00:12:13.639><c> for</c>
+
+00:12:13.990 --> 00:12:14.000 align:start position:0%
+find the mean and standard deviation for
+ 
+
+00:12:14.000 --> 00:12:18.670 align:start position:0%
+find the mean and standard deviation for
+xar<00:12:14.639><c> 16</c><00:12:15.360><c> so</c><00:12:15.560><c> the</c><00:12:15.680><c> mean</c><00:12:16.120><c> of</c><00:12:16.360><c> xar</c><00:12:17.120><c> 16</c><00:12:18.120><c> is</c><00:12:18.480><c> just</c>
+
+00:12:18.670 --> 00:12:18.680 align:start position:0%
+xar 16 so the mean of xar 16 is just
+ 
+
+00:12:18.680 --> 00:12:21.590 align:start position:0%
+xar 16 so the mean of xar 16 is just
+equal<00:12:19.000><c> to</c><00:12:19.120><c> the</c><00:12:19.240><c> mean</c><00:12:19.480><c> of</c><00:12:19.680><c> X</c><00:12:20.440><c> which</c><00:12:20.760><c> is</c><00:12:21.240><c> 3</c>
+
+00:12:21.590 --> 00:12:21.600 align:start position:0%
+equal to the mean of X which is 3
+ 
+
+00:12:21.600 --> 00:12:24.350 align:start position:0%
+equal to the mean of X which is 3
+minutes<00:12:22.600><c> and</c><00:12:23.000><c> the</c><00:12:23.160><c> standard</c><00:12:23.600><c> deviation</c><00:12:24.160><c> for</c>
+
+00:12:24.350 --> 00:12:24.360 align:start position:0%
+minutes and the standard deviation for
+ 
+
+00:12:24.360 --> 00:12:28.350 align:start position:0%
+minutes and the standard deviation for
+xar<00:12:24.959><c> 16</c><00:12:25.839><c> is</c><00:12:26.120><c> the</c><00:12:26.320><c> standard</c><00:12:26.720><c> deviation</c><00:12:27.199><c> of</c><00:12:27.399><c> X</c>
+
+00:12:28.350 --> 00:12:28.360 align:start position:0%
+xar 16 is the standard deviation of X
+ 
+
+00:12:28.360 --> 00:12:34.389 align:start position:0%
+xar 16 is the standard deviation of X
+over<00:12:28.720><c> The</c><00:12:29.240><c> &lt;</c><00:12:29.360><c> TK</c><00:12:29.480><c> of</c><00:12:29.600><c> n</c><00:12:30.320><c> so</c><00:12:30.560><c> that</c><00:12:30.720><c> is</c><00:12:31.519><c> 0.5</c><00:12:32.519><c> /un</c><00:12:33.519><c> 16</c>
+
+00:12:34.389 --> 00:12:34.399 align:start position:0%
+over The &lt; TK of n so that is 0.5 /un 16
+ 
+
+00:12:34.399 --> 00:12:35.870 align:start position:0%
+over The &lt; TK of n so that is 0.5 /un 16
+which<00:12:34.600><c> is</c>
+
+00:12:35.870 --> 00:12:35.880 align:start position:0%
+which is
+ 
+
+00:12:35.880 --> 00:12:38.030 align:start position:0%
+which is
+0.125
+
+00:12:38.030 --> 00:12:38.040 align:start position:0%
+0.125
+ 
+
+00:12:38.040 --> 00:12:40.790 align:start position:0%
+0.125
+minutes<00:12:39.040><c> all</c><00:12:39.199><c> right</c><00:12:39.519><c> let's</c><00:12:39.839><c> do</c><00:12:40.360><c> another</c>
+
+00:12:40.790 --> 00:12:40.800 align:start position:0%
+minutes all right let's do another
+ 
+
+00:12:40.800 --> 00:12:44.069 align:start position:0%
+minutes all right let's do another
+question<00:12:41.680><c> in</c><00:12:41.920><c> this</c><00:12:42.079><c> one</c><00:12:42.839><c> we</c><00:12:43.079><c> have</c><00:12:43.399><c> the</c><00:12:43.600><c> random</c>
+
+00:12:44.069 --> 00:12:44.079 align:start position:0%
+question in this one we have the random
+ 
+
+00:12:44.079 --> 00:12:47.870 align:start position:0%
+question in this one we have the random
+variable<00:12:44.800><c> X</c><00:12:45.800><c> which</c><00:12:46.040><c> represents</c><00:12:46.800><c> the</c><00:12:47.079><c> weight</c>
+
+00:12:47.870 --> 00:12:47.880 align:start position:0%
+variable X which represents the weight
+ 
+
+00:12:47.880 --> 00:12:50.430 align:start position:0%
+variable X which represents the weight
+of<00:12:48.120><c> a</c><00:12:48.279><c> tulip</c><00:12:48.639><c> in</c><00:12:48.720><c> a</c><00:12:48.839><c> flower</c><00:12:49.160><c> shop</c><00:12:49.959><c> X</c><00:12:50.240><c> is</c>
+
+00:12:50.430 --> 00:12:50.440 align:start position:0%
+of a tulip in a flower shop X is
+ 
+
+00:12:50.440 --> 00:12:53.150 align:start position:0%
+of a tulip in a flower shop X is
+normally<00:12:50.880><c> distributed</c><00:12:51.519><c> with</c><00:12:51.720><c> mean</c><00:12:52.079><c> 20</c><00:12:52.959><c> and</c>
+
+00:12:53.150 --> 00:12:53.160 align:start position:0%
+normally distributed with mean 20 and
+ 
+
+00:12:53.160 --> 00:12:56.230 align:start position:0%
+normally distributed with mean 20 and
+standard<00:12:53.560><c> deviation</c><00:12:54.199><c> 2</c><00:12:54.920><c> part</c><00:12:55.199><c> A</c><00:12:55.440><c> says</c><00:12:56.040><c> what</c>
+
+00:12:56.230 --> 00:12:56.240 align:start position:0%
+standard deviation 2 part A says what
+ 
+
+00:12:56.240 --> 00:13:00.990 align:start position:0%
+standard deviation 2 part A says what
+does<00:12:56.560><c> xar</c><00:12:57.199><c> 25</c><00:12:58.199><c> and</c><00:12:58.519><c> S</c><00:12:58.920><c> 25</c><00:12:59.560><c> represent</c><00:13:00.560><c> remember</c>
+
+00:13:00.990 --> 00:13:01.000 align:start position:0%
+does xar 25 and S 25 represent remember
+ 
+
+00:13:01.000 --> 00:13:05.990 align:start position:0%
+does xar 25 and S 25 represent remember
+that<00:13:01.199><c> the</c><00:13:01.440><c> key</c><00:13:01.720><c> word</c><00:13:02.120><c> for</c><00:13:03.079><c> xar</c><00:13:04.079><c> was</c><00:13:04.680><c> average</c><00:13:05.680><c> so</c>
+
+00:13:05.990 --> 00:13:06.000 align:start position:0%
+that the key word for xar was average so
+ 
+
+00:13:06.000 --> 00:13:09.430 align:start position:0%
+that the key word for xar was average so
+xar<00:13:06.519><c> 25</c><00:13:07.519><c> would</c><00:13:07.720><c> be</c><00:13:07.920><c> the</c><00:13:08.279><c> average</c><00:13:08.839><c> weight</c><00:13:09.120><c> of</c><00:13:09.240><c> a</c>
+
+00:13:09.430 --> 00:13:09.440 align:start position:0%
+xar 25 would be the average weight of a
+ 
+
+00:13:09.440 --> 00:13:11.110 align:start position:0%
+xar 25 would be the average weight of a
+tulip<00:13:09.920><c> in</c><00:13:10.040><c> a</c><00:13:10.160><c> bunch</c><00:13:10.399><c> of</c>
+
+00:13:11.110 --> 00:13:11.120 align:start position:0%
+tulip in a bunch of
+ 
+
+00:13:11.120 --> 00:13:17.949 align:start position:0%
+tulip in a bunch of
+25<00:13:12.120><c> and</c><00:13:12.519><c> the</c><00:13:12.760><c> keyw</c><00:13:13.320><c> for</c><00:13:14.000><c> SN</c><00:13:15.000><c> was</c><00:13:15.399><c> total</c><00:13:16.199><c> so</c><00:13:16.959><c> s25</c>
+
+00:13:17.949 --> 00:13:17.959 align:start position:0%
+25 and the keyw for SN was total so s25
+ 
+
+00:13:17.959 --> 00:13:20.470 align:start position:0%
+25 and the keyw for SN was total so s25
+represents<00:13:18.639><c> the</c><00:13:19.040><c> total</c><00:13:19.480><c> weight</c><00:13:19.959><c> of</c><00:13:20.079><c> a</c><00:13:20.240><c> bunch</c>
+
+00:13:20.470 --> 00:13:20.480 align:start position:0%
+represents the total weight of a bunch
+ 
+
+00:13:20.480 --> 00:13:24.230 align:start position:0%
+represents the total weight of a bunch
+of<00:13:20.680><c> 25</c><00:13:21.560><c> tulips</c><00:13:22.560><c> Part</c><00:13:22.880><c> B</c><00:13:23.120><c> says</c><00:13:23.639><c> find</c><00:13:23.880><c> the</c><00:13:24.000><c> mean</c>
+
+00:13:24.230 --> 00:13:24.240 align:start position:0%
+of 25 tulips Part B says find the mean
+ 
+
+00:13:24.240 --> 00:13:27.990 align:start position:0%
+of 25 tulips Part B says find the mean
+and<00:13:24.480><c> standard</c><00:13:24.880><c> deviation</c><00:13:25.680><c> for</c><00:13:26.560><c> s25</c><00:13:27.560><c> we</c><00:13:27.680><c> can</c><00:13:27.839><c> do</c>
+
+00:13:27.990 --> 00:13:28.000 align:start position:0%
+and standard deviation for s25 we can do
+ 
+
+00:13:28.000 --> 00:13:30.069 align:start position:0%
+and standard deviation for s25 we can do
+this<00:13:28.160><c> using</c><00:13:28.399><c> the</c><00:13:28.480><c> form</c><00:13:28.800><c> formulas</c><00:13:29.560><c> the</c><00:13:29.720><c> mean</c>
+
+00:13:30.069 --> 00:13:30.079 align:start position:0%
+this using the form formulas the mean
+ 
+
+00:13:30.079 --> 00:13:35.430 align:start position:0%
+this using the form formulas the mean
+for<00:13:30.600><c> s25</c><00:13:31.600><c> is</c><00:13:32.079><c> equal</c><00:13:32.920><c> n</c><00:13:33.320><c> *</c><00:13:33.800><c> the</c><00:13:33.920><c> mean</c><00:13:34.199><c> of</c><00:13:34.440><c> X</c><00:13:35.160><c> which</c>
+
+00:13:35.430 --> 00:13:35.440 align:start position:0%
+for s25 is equal n * the mean of X which
+ 
+
+00:13:35.440 --> 00:13:39.350 align:start position:0%
+for s25 is equal n * the mean of X which
+is<00:13:36.120><c> 25</c><00:13:37.120><c> multiplied</c><00:13:37.880><c> the</c><00:13:37.959><c> mean</c><00:13:38.199><c> of</c><00:13:38.360><c> X</c><00:13:39.040><c> which</c><00:13:39.160><c> is</c>
+
+00:13:39.350 --> 00:13:39.360 align:start position:0%
+is 25 multiplied the mean of X which is
+ 
+
+00:13:39.360 --> 00:13:43.629 align:start position:0%
+is 25 multiplied the mean of X which is
+20<00:13:40.160><c> which</c><00:13:40.360><c> is</c><00:13:40.880><c> 500</c><00:13:41.880><c> the</c><00:13:42.199><c> standard</c><00:13:42.680><c> deviation</c>
+
+00:13:43.629 --> 00:13:43.639 align:start position:0%
+20 which is 500 the standard deviation
+ 
+
+00:13:43.639 --> 00:13:48.590 align:start position:0%
+20 which is 500 the standard deviation
+of<00:13:44.480><c> s25</c><00:13:45.480><c> isun</c><00:13:46.360><c> n</c><00:13:47.079><c> multiplied</c><00:13:48.000><c> the</c><00:13:48.160><c> standard</c>
+
+00:13:48.590 --> 00:13:48.600 align:start position:0%
+of s25 isun n multiplied the standard
+ 
+
+00:13:48.600 --> 00:13:54.030 align:start position:0%
+of s25 isun n multiplied the standard
+deviation<00:13:49.079><c> of</c><00:13:49.320><c> X</c><00:13:50.320><c> so</c><00:13:50.600><c> this</c><00:13:50.800><c> is</c><00:13:51.199><c> 2</c><00:13:51.839><c> *</c><00:13:52.519><c> by</c><00:13:53.000><c> &lt;</c><00:13:53.160><c> TK</c>
+
+00:13:54.030 --> 00:13:54.040 align:start position:0%
+deviation of X so this is 2 * by &lt; TK
+ 
+
+00:13:54.040 --> 00:13:58.470 align:start position:0%
+deviation of X so this is 2 * by &lt; TK
+25<00:13:55.040><c> which</c><00:13:55.240><c> is</c><00:13:55.519><c> 2</c><00:13:55.720><c> *</c><00:13:56.120><c> 5</c><00:13:56.519><c> which</c><00:13:56.639><c> is</c><00:13:56.839><c> 10</c><00:13:57.800><c> part</c><00:13:58.079><c> C</c>
+
+00:13:58.470 --> 00:13:58.480 align:start position:0%
+25 which is 2 * 5 which is 10 part C
+ 
+
+00:13:58.480 --> 00:14:01.069 align:start position:0%
+25 which is 2 * 5 which is 10 part C
+says<00:13:58.800><c> says</c><00:13:59.440><c> find</c><00:13:59.720><c> the</c><00:13:59.959><c> standard</c><00:14:00.399><c> deviation</c>
+
+00:14:01.069 --> 00:14:01.079 align:start position:0%
+says says find the standard deviation
+ 
+
+00:14:01.079 --> 00:14:03.550 align:start position:0%
+says says find the standard deviation
+and<00:14:01.320><c> mean</c><00:14:01.920><c> of</c><00:14:02.240><c> xar</c>
+
+00:14:03.550 --> 00:14:03.560 align:start position:0%
+and mean of xar
+ 
+
+00:14:03.560 --> 00:14:07.150 align:start position:0%
+and mean of xar
+25<00:14:04.560><c> again</c><00:14:04.920><c> we</c><00:14:05.040><c> can</c><00:14:05.320><c> use</c><00:14:05.680><c> the</c><00:14:06.000><c> formulas</c><00:14:07.000><c> the</c>
+
+00:14:07.150 --> 00:14:07.160 align:start position:0%
+25 again we can use the formulas the
+ 
+
+00:14:07.160 --> 00:14:12.150 align:start position:0%
+25 again we can use the formulas the
+mean<00:14:07.759><c> of</c><00:14:08.199><c> xar</c><00:14:08.839><c> 25</c><00:14:09.639><c> is</c><00:14:09.880><c> just</c><00:14:10.040><c> the</c><00:14:10.160><c> mean</c><00:14:10.399><c> of</c><00:14:10.639><c> X</c><00:14:11.639><c> so</c>
+
+00:14:12.150 --> 00:14:12.160 align:start position:0%
+mean of xar 25 is just the mean of X so
+ 
+
+00:14:12.160 --> 00:14:15.230 align:start position:0%
+mean of xar 25 is just the mean of X so
+this<00:14:12.320><c> is</c><00:14:12.519><c> equal</c><00:14:12.800><c> to</c><00:14:13.079><c> 20</c><00:14:14.040><c> and</c><00:14:14.399><c> the</c><00:14:14.720><c> standard</c>
+
+00:14:15.230 --> 00:14:15.240 align:start position:0%
+this is equal to 20 and the standard
+ 
+
+00:14:15.240 --> 00:14:19.150 align:start position:0%
+this is equal to 20 and the standard
+deviation<00:14:16.240><c> of</c><00:14:16.519><c> xar</c><00:14:17.360><c> 25</c><00:14:18.360><c> is</c><00:14:18.560><c> the</c><00:14:18.759><c> standard</c>
+
+00:14:19.150 --> 00:14:19.160 align:start position:0%
+deviation of xar 25 is the standard
+ 
+
+00:14:19.160 --> 00:14:26.230 align:start position:0%
+deviation of xar 25 is the standard
+deviation<00:14:19.720><c> of</c><00:14:20.079><c> x</c><00:14:21.519><c> /un</c><00:14:22.519><c> n</c><00:14:23.399><c> so</c><00:14:23.680><c> this</c><00:14:23.880><c> is</c><00:14:24.240><c> 2</c><00:14:24.920><c> over</c><00:14:25.480><c> &lt;</c>
+
+00:14:26.230 --> 00:14:26.240 align:start position:0%
+deviation of x /un n so this is 2 over &lt;
+ 
+
+00:14:26.240 --> 00:14:32.150 align:start position:0%
+deviation of x /un n so this is 2 over &lt;
+tk25<00:14:27.240><c> which</c><00:14:27.560><c> is</c><00:14:28.000><c> equal</c><00:14:28.320><c> to</c><00:14:28.959><c> 2</c><00:14:29.240><c> on</c><00:14:29.639><c> 5</c><00:14:30.360><c> or</c><00:14:31.160><c> 0.4</c>
+
+00:14:32.150 --> 00:14:32.160 align:start position:0%
+tk25 which is equal to 2 on 5 or 0.4
+ 
+
+00:14:32.160 --> 00:14:35.269 align:start position:0%
+tk25 which is equal to 2 on 5 or 0.4
+finally<00:14:32.680><c> in</c><00:14:32.920><c> part</c><00:14:33.199><c> D</c><00:14:33.720><c> it</c><00:14:33.920><c> says</c><00:14:34.639><c> what</c><00:14:34.839><c> happens</c>
+
+00:14:35.269 --> 00:14:35.279 align:start position:0%
+finally in part D it says what happens
+ 
+
+00:14:35.279 --> 00:14:40.269 align:start position:0%
+finally in part D it says what happens
+to<00:14:35.680><c> the</c><00:14:35.959><c> standard</c><00:14:36.800><c> deviation</c><00:14:37.800><c> of</c><00:14:38.079><c> xar</c><00:14:38.639><c> n</c><00:14:39.560><c> as</c><00:14:39.759><c> n</c>
+
+00:14:40.269 --> 00:14:40.279 align:start position:0%
+to the standard deviation of xar n as n
+ 
+
+00:14:40.279 --> 00:14:43.069 align:start position:0%
+to the standard deviation of xar n as n
+increases<00:14:41.279><c> to</c><00:14:41.519><c> answer</c><00:14:41.959><c> this</c><00:14:42.600><c> let's</c><00:14:42.880><c> write</c>
+
+00:14:43.069 --> 00:14:43.079 align:start position:0%
+increases to answer this let's write
+ 
+
+00:14:43.079 --> 00:14:45.189 align:start position:0%
+increases to answer this let's write
+down<00:14:43.279><c> the</c><00:14:43.440><c> formula</c><00:14:44.079><c> for</c><00:14:44.560><c> the</c><00:14:44.800><c> standard</c>
+
+00:14:45.189 --> 00:14:45.199 align:start position:0%
+down the formula for the standard
+ 
+
+00:14:45.199 --> 00:14:48.350 align:start position:0%
+down the formula for the standard
+deviation<00:14:45.720><c> of</c><00:14:45.920><c> x</c><00:14:46.440><c> n</c><00:14:47.279><c> this</c><00:14:47.440><c> is</c><00:14:47.600><c> equal</c><00:14:47.880><c> to</c><00:14:48.160><c> the</c>
+
+00:14:48.350 --> 00:14:48.360 align:start position:0%
+deviation of x n this is equal to the
+ 
+
+00:14:48.360 --> 00:14:52.470 align:start position:0%
+deviation of x n this is equal to the
+standard<00:14:48.800><c> deviation</c><00:14:49.360><c> of</c><00:14:49.600><c> x</c><00:14:50.480><c> overun</c><00:14:51.240><c> n</c><00:14:52.000><c> so</c><00:14:52.360><c> we</c>
+
+00:14:52.470 --> 00:14:52.480 align:start position:0%
+standard deviation of x overun n so we
+ 
+
+00:14:52.480 --> 00:14:55.790 align:start position:0%
+standard deviation of x overun n so we
+can<00:14:52.759><c> see</c><00:14:53.120><c> that</c><00:14:53.320><c> as</c><00:14:53.519><c> n</c><00:14:54.199><c> increases</c><00:14:55.199><c> since</c><00:14:55.480><c> n</c><00:14:55.720><c> is</c>
+
+00:14:55.790 --> 00:14:55.800 align:start position:0%
+can see that as n increases since n is
+ 
+
+00:14:55.800 --> 00:14:58.030 align:start position:0%
+can see that as n increases since n is
+on<00:14:55.959><c> the</c><00:14:56.160><c> bottom</c><00:14:56.480><c> of</c><00:14:56.600><c> the</c><00:14:56.800><c> fraction</c><00:14:57.800><c> this</c>
+
+00:14:58.030 --> 00:14:58.040 align:start position:0%
+on the bottom of the fraction this
+ 
+
+00:14:58.040 --> 00:15:00.110 align:start position:0%
+on the bottom of the fraction this
+number<00:14:58.399><c> should</c><00:14:58.680><c> should</c><00:14:58.959><c> decrease</c><00:14:59.839><c> because</c>
+
+00:15:00.110 --> 00:15:00.120 align:start position:0%
+number should should decrease because
+ 
+
+00:15:00.120 --> 00:15:02.350 align:start position:0%
+number should should decrease because
+we're<00:15:00.399><c> dividing</c><00:15:00.959><c> by</c><00:15:01.160><c> a</c><00:15:01.320><c> bigger</c><00:15:01.839><c> and</c><00:15:02.000><c> bigger</c>
+
+00:15:02.350 --> 00:15:02.360 align:start position:0%
+we're dividing by a bigger and bigger
+ 
+
+00:15:02.360 --> 00:15:05.470 align:start position:0%
+we're dividing by a bigger and bigger
+number<00:15:03.279><c> this</c><00:15:03.480><c> property</c><00:15:04.440><c> is</c><00:15:04.680><c> in</c><00:15:04.880><c> general</c><00:15:05.360><c> by</c>
+
+00:15:05.470 --> 00:15:05.480 align:start position:0%
+number this property is in general by
+ 
+
+00:15:05.480 --> 00:15:08.110 align:start position:0%
+number this property is in general by
+the<00:15:05.600><c> way</c><00:15:05.839><c> for</c><00:15:06.199><c> All</c><00:15:06.839><c> sample</c><00:15:07.240><c> means</c><00:15:07.759><c> and</c><00:15:07.920><c> not</c>
+
+00:15:08.110 --> 00:15:08.120 align:start position:0%
+the way for All sample means and not
+ 
+
+00:15:08.120 --> 00:15:10.629 align:start position:0%
+the way for All sample means and not
+just<00:15:08.360><c> this</c><00:15:08.800><c> particular</c><00:15:09.320><c> question</c><00:15:10.120><c> but</c><00:15:10.360><c> let's</c>
+
+00:15:10.629 --> 00:15:10.639 align:start position:0%
+just this particular question but let's
+ 
+
+00:15:10.639 --> 00:15:13.150 align:start position:0%
+just this particular question but let's
+explain<00:15:11.240><c> why</c><00:15:11.480><c> this</c><00:15:11.680><c> makes</c><00:15:11.959><c> sense</c><00:15:12.519><c> using</c><00:15:12.959><c> this</c>
+
+00:15:13.150 --> 00:15:13.160 align:start position:0%
+explain why this makes sense using this
+ 
+
+00:15:13.160 --> 00:15:16.829 align:start position:0%
+explain why this makes sense using this
+example<00:15:14.040><c> in</c><00:15:14.240><c> this</c><00:15:14.399><c> case</c><00:15:15.399><c> X</c><00:15:15.880><c> represents</c><00:15:16.560><c> the</c>
+
+00:15:16.829 --> 00:15:16.839 align:start position:0%
+example in this case X represents the
+ 
+
+00:15:16.839 --> 00:15:18.990 align:start position:0%
+example in this case X represents the
+weight<00:15:17.120><c> of</c><00:15:17.360><c> one</c><00:15:17.639><c> tulip</c><00:15:18.160><c> which</c><00:15:18.279><c> is</c><00:15:18.399><c> sold</c><00:15:18.800><c> by</c><00:15:18.920><c> a</c>
+
+00:15:18.990 --> 00:15:19.000 align:start position:0%
+weight of one tulip which is sold by a
+ 
+
+00:15:19.000 --> 00:15:22.030 align:start position:0%
+weight of one tulip which is sold by a
+flower<00:15:19.399><c> shop</c><00:15:20.240><c> so</c><00:15:20.720><c> X</c><00:15:20.959><c> is</c><00:15:21.120><c> normally</c><00:15:21.480><c> distributed</c>
+
+00:15:22.030 --> 00:15:22.040 align:start position:0%
+flower shop so X is normally distributed
+ 
+
+00:15:22.040 --> 00:15:25.550 align:start position:0%
+flower shop so X is normally distributed
+with<00:15:22.199><c> mean</c><00:15:22.639><c> 20</c><00:15:23.480><c> and</c><00:15:23.680><c> therefore</c><00:15:24.519><c> the</c><00:15:25.279><c> weights</c>
+
+00:15:25.550 --> 00:15:25.560 align:start position:0%
+with mean 20 and therefore the weights
+ 
+
+00:15:25.560 --> 00:15:27.749 align:start position:0%
+with mean 20 and therefore the weights
+of<00:15:25.680><c> some</c><00:15:25.839><c> of</c><00:15:25.959><c> the</c><00:15:26.040><c> Tulips</c><00:15:26.560><c> could</c><00:15:26.720><c> be</c><00:15:26.959><c> like</c><00:15:27.199><c> 20</c>
+
+00:15:27.749 --> 00:15:27.759 align:start position:0%
+of some of the Tulips could be like 20
+ 
+
+00:15:27.759 --> 00:15:31.949 align:start position:0%
+of some of the Tulips could be like 20
+22<00:15:28.639><c> 23</c><00:15:29.079><c> 24</c><00:15:29.959><c> if</c><00:15:30.240><c> I</c><00:15:30.440><c> found</c><00:15:30.839><c> a</c><00:15:31.000><c> tulet</c><00:15:31.519><c> which</c><00:15:31.720><c> had</c>
+
+00:15:31.949 --> 00:15:31.959 align:start position:0%
+22 23 24 if I found a tulet which had
+ 
+
+00:15:31.959 --> 00:15:35.110 align:start position:0%
+22 23 24 if I found a tulet which had
+weight<00:15:32.560><c> 24</c><00:15:33.560><c> that's</c><00:15:33.839><c> two</c><00:15:34.120><c> standard</c><00:15:34.519><c> deviations</c>
+
+00:15:35.110 --> 00:15:35.120 align:start position:0%
+weight 24 that's two standard deviations
+ 
+
+00:15:35.120 --> 00:15:37.230 align:start position:0%
+weight 24 that's two standard deviations
+above<00:15:35.360><c> the</c><00:15:35.480><c> mean</c><00:15:36.160><c> so</c><00:15:36.360><c> while</c><00:15:36.560><c> it's</c><00:15:36.839><c> not</c><00:15:37.040><c> that</c>
+
+00:15:37.230 --> 00:15:37.240 align:start position:0%
+above the mean so while it's not that
+ 
+
+00:15:37.240 --> 00:15:40.670 align:start position:0%
+above the mean so while it's not that
+likely<00:15:37.920><c> I</c><00:15:38.040><c> wouldn't</c><00:15:38.360><c> be</c><00:15:38.639><c> too</c><00:15:38.959><c> surprised</c><00:15:39.839><c> right</c>
+
+00:15:40.670 --> 00:15:40.680 align:start position:0%
+likely I wouldn't be too surprised right
+ 
+
+00:15:40.680 --> 00:15:44.350 align:start position:0%
+likely I wouldn't be too surprised right
+now<00:15:41.040><c> consider</c><00:15:41.800><c> xar</c><00:15:42.600><c> 25</c><00:15:43.600><c> like</c><00:15:43.759><c> we</c><00:15:43.920><c> have</c><00:15:44.040><c> in</c><00:15:44.199><c> this</c>
+
+00:15:44.350 --> 00:15:44.360 align:start position:0%
+now consider xar 25 like we have in this
+ 
+
+00:15:44.360 --> 00:15:46.910 align:start position:0%
+now consider xar 25 like we have in this
+question<00:15:45.279><c> this</c><00:15:45.480><c> represents</c><00:15:46.040><c> the</c><00:15:46.440><c> average</c>
+
+00:15:46.910 --> 00:15:46.920 align:start position:0%
+question this represents the average
+ 
+
+00:15:46.920 --> 00:15:50.430 align:start position:0%
+question this represents the average
+weight<00:15:47.240><c> of</c><00:15:47.360><c> a</c><00:15:47.519><c> tulip</c><00:15:48.279><c> in</c><00:15:48.399><c> a</c><00:15:48.600><c> sample</c><00:15:48.959><c> of</c><00:15:49.120><c> 25</c><00:15:49.959><c> so</c>
+
+00:15:50.430 --> 00:15:50.440 align:start position:0%
+weight of a tulip in a sample of 25 so
+ 
+
+00:15:50.440 --> 00:15:54.110 align:start position:0%
+weight of a tulip in a sample of 25 so
+for<00:15:50.839><c> this</c><00:15:51.000><c> to</c><00:15:51.240><c> take</c><00:15:51.440><c> a</c><00:15:51.680><c> value</c><00:15:52.160><c> of</c><00:15:52.759><c> 24</c><00:15:53.759><c> we'd</c><00:15:54.040><c> have</c>
+
+00:15:54.110 --> 00:15:54.120 align:start position:0%
+for this to take a value of 24 we'd have
+ 
+
+00:15:54.120 --> 00:15:57.230 align:start position:0%
+for this to take a value of 24 we'd have
+to<00:15:54.360><c> pick</c><00:15:54.759><c> 25</c><00:15:55.360><c> tulips</c><00:15:56.279><c> and</c><00:15:56.519><c> all</c><00:15:56.680><c> of</c><00:15:56.839><c> them</c><00:15:57.040><c> would</c>
+
+00:15:57.230 --> 00:15:57.240 align:start position:0%
+to pick 25 tulips and all of them would
+ 
+
+00:15:57.240 --> 00:16:00.509 align:start position:0%
+to pick 25 tulips and all of them would
+have<00:15:57.360><c> to</c><00:15:57.680><c> average</c><00:15:58.279><c> to</c><00:15:58.680><c> a</c><00:15:58.800><c> weight</c><00:15:59.160><c> of</c><00:15:59.399><c> 24</c><00:16:00.360><c> in</c>
+
+00:16:00.509 --> 00:16:00.519 align:start position:0%
+have to average to a weight of 24 in
+ 
+
+00:16:00.519 --> 00:16:02.590 align:start position:0%
+have to average to a weight of 24 in
+other<00:16:00.720><c> words</c><00:16:01.279><c> pretty</c><00:16:01.519><c> much</c><00:16:01.880><c> all</c><00:16:02.040><c> of</c><00:16:02.199><c> them</c>
+
+00:16:02.590 --> 00:16:02.600 align:start position:0%
+other words pretty much all of them
+ 
+
+00:16:02.600 --> 00:16:05.470 align:start position:0%
+other words pretty much all of them
+would<00:16:02.800><c> have</c><00:16:02.920><c> to</c><00:16:03.120><c> have</c><00:16:03.240><c> a</c><00:16:03.440><c> weight</c><00:16:04.279><c> which</c><00:16:04.600><c> is</c><00:16:05.160><c> two</c>
+
+00:16:05.470 --> 00:16:05.480 align:start position:0%
+would have to have a weight which is two
+ 
+
+00:16:05.480 --> 00:16:07.749 align:start position:0%
+would have to have a weight which is two
+standard<00:16:05.800><c> deviations</c><00:16:06.360><c> above</c><00:16:06.600><c> the</c><00:16:06.720><c> mean</c><00:16:07.560><c> now</c>
+
+00:16:07.749 --> 00:16:07.759 align:start position:0%
+standard deviations above the mean now
+ 
+
+00:16:07.759 --> 00:16:11.710 align:start position:0%
+standard deviations above the mean now
+for<00:16:08.079><c> one</c><00:16:08.360><c> tulip</c><00:16:08.839><c> to</c><00:16:09.000><c> sit</c><00:16:09.560><c> in</c><00:16:09.759><c> this</c><00:16:10.000><c> value</c><00:16:11.000><c> it's</c>
+
+00:16:11.710 --> 00:16:11.720 align:start position:0%
+for one tulip to sit in this value it's
+ 
+
+00:16:11.720 --> 00:16:15.749 align:start position:0%
+for one tulip to sit in this value it's
+reasonably<00:16:12.839><c> likely</c><00:16:13.839><c> however</c><00:16:14.319><c> for</c><00:16:14.800><c> all</c><00:16:15.120><c> 25</c>
+
+00:16:15.749 --> 00:16:15.759 align:start position:0%
+reasonably likely however for all 25
+ 
+
+00:16:15.759 --> 00:16:17.670 align:start position:0%
+reasonably likely however for all 25
+tulips<00:16:16.279><c> to</c><00:16:16.480><c> have</c><00:16:16.600><c> an</c><00:16:16.839><c> average</c><00:16:17.199><c> around</c><00:16:17.480><c> this</c>
+
+00:16:17.670 --> 00:16:17.680 align:start position:0%
+tulips to have an average around this
+ 
+
+00:16:17.680 --> 00:16:20.710 align:start position:0%
+tulips to have an average around this
+value<00:16:18.319><c> it's</c><00:16:18.600><c> very</c><00:16:18.920><c> very</c><00:16:19.199><c> very</c><00:16:19.480><c> unlikely</c><00:16:20.480><c> so</c>
+
+00:16:20.710 --> 00:16:20.720 align:start position:0%
+value it's very very very unlikely so
+ 
+
+00:16:20.720 --> 00:16:23.710 align:start position:0%
+value it's very very very unlikely so
+what<00:16:20.880><c> this</c><00:16:21.040><c> means</c><00:16:21.399><c> is</c><00:16:21.920><c> as</c><00:16:22.120><c> we</c><00:16:22.360><c> increase</c><00:16:23.000><c> n</c><00:16:23.560><c> or</c>
+
+00:16:23.710 --> 00:16:23.720 align:start position:0%
+what this means is as we increase n or
+ 
+
+00:16:23.720 --> 00:16:26.749 align:start position:0%
+what this means is as we increase n or
+we<00:16:23.920><c> increase</c><00:16:24.319><c> the</c><00:16:24.519><c> sample</c><00:16:25.040><c> size</c><00:16:25.839><c> the</c><00:16:26.079><c> values</c>
+
+00:16:26.749 --> 00:16:26.759 align:start position:0%
+we increase the sample size the values
+ 
+
+00:16:26.759 --> 00:16:29.910 align:start position:0%
+we increase the sample size the values
+of<00:16:27.079><c> xar</c><00:16:27.680><c> n</c><00:16:28.240><c> become</c><00:16:28.560><c> come</c><00:16:28.839><c> closer</c><00:16:29.199><c> and</c><00:16:29.399><c> closer</c>
+
+00:16:29.910 --> 00:16:29.920 align:start position:0%
+of xar n become come closer and closer
+ 
+
+00:16:29.920 --> 00:16:32.790 align:start position:0%
+of xar n become come closer and closer
+distributed<00:16:30.720><c> around</c><00:16:31.240><c> the</c><00:16:31.399><c> mean</c><00:16:32.240><c> or</c><00:16:32.480><c> in</c><00:16:32.639><c> other</c>
+
+00:16:32.790 --> 00:16:32.800 align:start position:0%
+distributed around the mean or in other
+ 
+
+00:16:32.800 --> 00:16:35.949 align:start position:0%
+distributed around the mean or in other
+words<00:16:33.240><c> the</c><00:16:33.440><c> standard</c><00:16:33.880><c> deviation</c><00:16:34.959><c> decreases</c>
+
+00:16:35.949 --> 00:16:35.959 align:start position:0%
+words the standard deviation decreases
+ 
+
+00:16:35.959 --> 00:16:38.470 align:start position:0%
+words the standard deviation decreases
+so<00:16:36.199><c> if</c><00:16:36.279><c> I</c><00:16:36.440><c> had</c><00:16:36.600><c> to</c><00:16:36.720><c> draw</c><00:16:36.959><c> a</c><00:16:37.120><c> distribution</c><00:16:37.680><c> of</c><00:16:37.920><c> X</c>
+
+00:16:38.470 --> 00:16:38.480 align:start position:0%
+so if I had to draw a distribution of X
+ 
+
+00:16:38.480 --> 00:16:40.590 align:start position:0%
+so if I had to draw a distribution of X
+it<00:16:38.600><c> may</c><00:16:38.800><c> look</c><00:16:39.000><c> something</c><00:16:39.360><c> like</c><00:16:39.600><c> this</c><00:16:40.319><c> but</c><00:16:40.480><c> then</c>
+
+00:16:40.590 --> 00:16:40.600 align:start position:0%
+it may look something like this but then
+ 
+
+00:16:40.600 --> 00:16:43.350 align:start position:0%
+it may look something like this but then
+if<00:16:40.720><c> I</c><00:16:40.839><c> drew</c><00:16:41.199><c> xar</c><00:16:41.720><c> 25</c><00:16:42.560><c> it</c><00:16:42.680><c> may</c><00:16:42.880><c> look</c><00:16:43.040><c> something</c>
+
+00:16:43.350 --> 00:16:43.360 align:start position:0%
+if I drew xar 25 it may look something
+ 
+
+00:16:43.360 --> 00:16:45.829 align:start position:0%
+if I drew xar 25 it may look something
+like<00:16:43.600><c> this</c><00:16:44.319><c> notice</c><00:16:44.759><c> how</c><00:16:44.959><c> they</c><00:16:45.079><c> have</c><00:16:45.240><c> the</c><00:16:45.399><c> same</c>
+
+00:16:45.829 --> 00:16:45.839 align:start position:0%
+like this notice how they have the same
+ 
+
+00:16:45.839 --> 00:16:49.269 align:start position:0%
+like this notice how they have the same
+mean<00:16:46.839><c> but</c><00:16:47.120><c> the</c><00:16:47.360><c> standard</c><00:16:47.839><c> deviation</c><00:16:48.560><c> of</c><00:16:48.759><c> xar</c>
+
+00:16:49.269 --> 00:16:49.279 align:start position:0%
+mean but the standard deviation of xar
+ 
+
+00:16:49.279 --> 00:16:53.470 align:start position:0%
+mean but the standard deviation of xar
+25<00:16:50.079><c> has</c><00:16:50.279><c> been</c><00:16:50.920><c> reduced</c><00:16:51.920><c> okay</c><00:16:52.279><c> next</c><00:16:52.639><c> question</c>
+
+00:16:53.470 --> 00:16:53.480 align:start position:0%
+25 has been reduced okay next question
+ 
+
+00:16:53.480 --> 00:16:56.030 align:start position:0%
+25 has been reduced okay next question
+in<00:16:53.880><c> this</c><00:16:54.079><c> one</c><00:16:54.680><c> we're</c><00:16:55.040><c> given</c><00:16:55.519><c> a</c><00:16:55.680><c> random</c>
+
+00:16:56.030 --> 00:16:56.040 align:start position:0%
+in this one we're given a random
+ 
+
+00:16:56.040 --> 00:16:59.150 align:start position:0%
+in this one we're given a random
+variable<00:16:56.480><c> X</c><00:16:57.480><c> which</c><00:16:57.880><c> has</c><00:16:58.199><c> a</c><00:16:58.600><c> probability</c>
+
+00:16:59.150 --> 00:16:59.160 align:start position:0%
+variable X which has a probability
+ 
+
+00:16:59.160 --> 00:17:02.269 align:start position:0%
+variable X which has a probability
+distribution<00:16:59.920><c> here</c><00:17:00.920><c> recall</c><00:17:01.319><c> that</c><00:17:01.519><c> this</c><00:17:02.120><c> kind</c>
+
+00:17:02.269 --> 00:17:02.279 align:start position:0%
+distribution here recall that this kind
+ 
+
+00:17:02.279 --> 00:17:04.189 align:start position:0%
+distribution here recall that this kind
+of<00:17:02.480><c> looks</c><00:17:02.880><c> like</c><00:17:03.199><c> the</c><00:17:03.519><c> probability</c>
+
+00:17:04.189 --> 00:17:04.199 align:start position:0%
+of looks like the probability
+ 
+
+00:17:04.199 --> 00:17:06.549 align:start position:0%
+of looks like the probability
+distributions<00:17:04.959><c> we</c><00:17:05.079><c> were</c><00:17:05.319><c> dealing</c><00:17:05.760><c> with</c><00:17:06.319><c> when</c>
+
+00:17:06.549 --> 00:17:06.559 align:start position:0%
+distributions we were dealing with when
+ 
+
+00:17:06.559 --> 00:17:09.270 align:start position:0%
+distributions we were dealing with when
+we<00:17:06.640><c> were</c><00:17:06.839><c> doing</c><00:17:07.319><c> discrete</c><00:17:07.799><c> random</c><00:17:08.280><c> variables</c>
+
+00:17:09.270 --> 00:17:09.280 align:start position:0%
+we were doing discrete random variables
+ 
+
+00:17:09.280 --> 00:17:11.909 align:start position:0%
+we were doing discrete random variables
+part<00:17:09.600><c> A</c><00:17:10.039><c> says</c><00:17:10.640><c> find</c><00:17:10.919><c> the</c><00:17:11.160><c> probability</c>
+
+00:17:11.909 --> 00:17:11.919 align:start position:0%
+part A says find the probability
+ 
+
+00:17:11.919 --> 00:17:17.350 align:start position:0%
+part A says find the probability
+distribution<00:17:12.640><c> for</c><00:17:13.760><c> S2</c><00:17:14.760><c> so</c><00:17:15.319><c> remember</c><00:17:15.760><c> that</c><00:17:16.360><c> S2</c>
+
+00:17:17.350 --> 00:17:17.360 align:start position:0%
+distribution for S2 so remember that S2
+ 
+
+00:17:17.360 --> 00:17:20.990 align:start position:0%
+distribution for S2 so remember that S2
+represents<00:17:18.039><c> the</c><00:17:18.480><c> sum</c><00:17:19.480><c> when</c><00:17:19.799><c> we</c><00:17:20.199><c> take</c><00:17:20.760><c> this</c>
+
+00:17:20.990 --> 00:17:21.000 align:start position:0%
+represents the sum when we take this
+ 
+
+00:17:21.000 --> 00:17:24.150 align:start position:0%
+represents the sum when we take this
+random<00:17:21.439><c> variable</c><00:17:22.120><c> twice</c><00:17:23.120><c> we</c><00:17:23.240><c> can</c><00:17:23.480><c> read</c><00:17:23.880><c> this</c>
+
+00:17:24.150 --> 00:17:24.160 align:start position:0%
+random variable twice we can read this
+ 
+
+00:17:24.160 --> 00:17:27.510 align:start position:0%
+random variable twice we can read this
+probability<00:17:24.839><c> distribution</c><00:17:25.600><c> table</c><00:17:26.559><c> to</c><00:17:26.839><c> see</c>
+
+00:17:27.510 --> 00:17:27.520 align:start position:0%
+probability distribution table to see
+ 
+
+00:17:27.520 --> 00:17:29.310 align:start position:0%
+probability distribution table to see
+what<00:17:27.720><c> it</c><00:17:27.839><c> would</c><00:17:28.039><c> be</c><00:17:28.240><c> if</c><00:17:28.480><c> if</c><00:17:28.640><c> we</c><00:17:28.799><c> took</c><00:17:29.080><c> this</c>
+
+00:17:29.310 --> 00:17:29.320 align:start position:0%
+what it would be if if we took this
+ 
+
+00:17:29.320 --> 00:17:31.870 align:start position:0%
+what it would be if if we took this
+variable<00:17:29.799><c> once</c><00:17:30.480><c> if</c><00:17:30.600><c> we</c><00:17:30.760><c> took</c><00:17:30.919><c> it</c><00:17:31.120><c> once</c><00:17:31.600><c> there's</c>
+
+00:17:31.870 --> 00:17:31.880 align:start position:0%
+variable once if we took it once there's
+ 
+
+00:17:31.880 --> 00:17:35.070 align:start position:0%
+variable once if we took it once there's
+two<00:17:32.120><c> values</c><00:17:32.840><c> 1</c><00:17:33.400><c> and</c><00:17:33.640><c> three</c><00:17:34.400><c> and</c><00:17:34.679><c> here</c><00:17:34.880><c> are</c>
+
+00:17:35.070 --> 00:17:35.080 align:start position:0%
+two values 1 and three and here are
+ 
+
+00:17:35.080 --> 00:17:37.830 align:start position:0%
+two values 1 and three and here are
+their<00:17:35.360><c> corresponding</c><00:17:36.520><c> probabilities</c><00:17:37.520><c> if</c><00:17:37.679><c> we</c>
+
+00:17:37.830 --> 00:17:37.840 align:start position:0%
+their corresponding probabilities if we
+ 
+
+00:17:37.840 --> 00:17:40.950 align:start position:0%
+their corresponding probabilities if we
+took<00:17:38.039><c> it</c><00:17:38.360><c> twice</c><00:17:39.000><c> and</c><00:17:39.200><c> added</c><00:17:39.520><c> them</c><00:17:39.919><c> together</c><00:17:40.760><c> we</c>
+
+00:17:40.950 --> 00:17:40.960 align:start position:0%
+took it twice and added them together we
+ 
+
+00:17:40.960 --> 00:17:43.430 align:start position:0%
+took it twice and added them together we
+could<00:17:41.200><c> get</c><00:17:41.679><c> a</c><00:17:41.880><c> one</c><00:17:42.200><c> and</c><00:17:42.320><c> a</c><00:17:42.480><c> one</c><00:17:43.080><c> which</c><00:17:43.240><c> would</c>
+
+00:17:43.430 --> 00:17:43.440 align:start position:0%
+could get a one and a one which would
+ 
+
+00:17:43.440 --> 00:17:46.750 align:start position:0%
+could get a one and a one which would
+make<00:17:43.760><c> two</c><00:17:44.600><c> we</c><00:17:44.720><c> could</c><00:17:44.919><c> get</c><00:17:45.039><c> a</c><00:17:45.240><c> one</c><00:17:45.600><c> and</c><00:17:45.720><c> a</c><00:17:45.960><c> three</c>
+
+00:17:46.750 --> 00:17:46.760 align:start position:0%
+make two we could get a one and a three
+ 
+
+00:17:46.760 --> 00:17:48.830 align:start position:0%
+make two we could get a one and a three
+which<00:17:46.880><c> would</c><00:17:47.080><c> make</c><00:17:47.400><c> four</c><00:17:48.160><c> we</c><00:17:48.280><c> could</c><00:17:48.480><c> get</c><00:17:48.600><c> a</c>
+
+00:17:48.830 --> 00:17:48.840 align:start position:0%
+which would make four we could get a
+ 
+
+00:17:48.840 --> 00:17:50.950 align:start position:0%
+which would make four we could get a
+three<00:17:49.280><c> and</c><00:17:49.440><c> then</c><00:17:49.559><c> a</c><00:17:49.720><c> one</c><00:17:50.280><c> which</c><00:17:50.400><c> would</c><00:17:50.679><c> also</c>
+
+00:17:50.950 --> 00:17:50.960 align:start position:0%
+three and then a one which would also
+ 
+
+00:17:50.960 --> 00:17:53.390 align:start position:0%
+three and then a one which would also
+make<00:17:51.200><c> four</c><00:17:51.960><c> and</c><00:17:52.080><c> then</c><00:17:52.240><c> we</c><00:17:52.440><c> could</c><00:17:52.640><c> get</c><00:17:52.840><c> a</c><00:17:53.039><c> three</c>
+
+00:17:53.390 --> 00:17:53.400 align:start position:0%
+make four and then we could get a three
+ 
+
+00:17:53.400 --> 00:17:56.470 align:start position:0%
+make four and then we could get a three
+and<00:17:53.559><c> a</c><00:17:53.760><c> three</c><00:17:54.559><c> which</c><00:17:54.720><c> would</c><00:17:54.960><c> make</c><00:17:55.240><c> six</c><00:17:56.120><c> so</c>
+
+00:17:56.470 --> 00:17:56.480 align:start position:0%
+and a three which would make six so
+ 
+
+00:17:56.480 --> 00:17:58.870 align:start position:0%
+and a three which would make six so
+therefore<00:17:57.480><c> there</c><00:17:57.640><c> are</c><00:17:57.960><c> three</c><00:17:58.480><c> possible</c>
+
+00:17:58.870 --> 00:17:58.880 align:start position:0%
+therefore there are three possible
+ 
+
+00:17:58.880 --> 00:18:05.270 align:start position:0%
+therefore there are three possible
+values<00:17:59.320><c> for</c><00:18:00.039><c> S2</c><00:18:01.039><c> those</c><00:18:01.280><c> are</c><00:18:01.919><c> 2</c><00:18:02.880><c> 4</c><00:18:03.799><c> and</c><00:18:04.200><c> 6</c><00:18:05.080><c> now</c>
+
+00:18:05.270 --> 00:18:05.280 align:start position:0%
+values for S2 those are 2 4 and 6 now
+ 
+
+00:18:05.280 --> 00:18:08.909 align:start position:0%
+values for S2 those are 2 4 and 6 now
+let's<00:18:05.640><c> calculate</c><00:18:06.240><c> the</c><00:18:06.600><c> probabilities</c><00:18:07.320><c> for</c><00:18:07.919><c> S2</c>
+
+00:18:08.909 --> 00:18:08.919 align:start position:0%
+let's calculate the probabilities for S2
+ 
+
+00:18:08.919 --> 00:18:12.590 align:start position:0%
+let's calculate the probabilities for S2
+for<00:18:09.320><c> S2</c><00:18:10.120><c> to</c><00:18:10.360><c> have</c><00:18:10.480><c> a</c><00:18:10.640><c> value</c><00:18:11.039><c> of</c><00:18:11.240><c> two</c><00:18:12.200><c> we'd</c><00:18:12.480><c> have</c>
+
+00:18:12.590 --> 00:18:12.600 align:start position:0%
+for S2 to have a value of two we'd have
+ 
+
+00:18:12.600 --> 00:18:16.630 align:start position:0%
+for S2 to have a value of two we'd have
+to<00:18:12.760><c> get</c><00:18:13.039><c> 1</c><00:18:13.760><c> and</c><00:18:13.919><c> then</c><00:18:14.200><c> 1</c><00:18:14.600><c> again</c><00:18:15.440><c> so</c><00:18:15.880><c> we</c><00:18:16.039><c> can</c><00:18:16.280><c> find</c>
+
+00:18:16.630 --> 00:18:16.640 align:start position:0%
+to get 1 and then 1 again so we can find
+ 
+
+00:18:16.640 --> 00:18:21.789 align:start position:0%
+to get 1 and then 1 again so we can find
+this<00:18:17.280><c> probability</c><00:18:18.280><c> by</c><00:18:18.799><c> 2</c><00:18:19.080><c> on</c><00:18:19.400><c> 5</c><00:18:19.760><c> *</c><00:18:20.360><c> 2</c><00:18:20.600><c> on</c><00:18:20.880><c> 5</c><00:18:21.600><c> to</c>
+
+00:18:21.789 --> 00:18:21.799 align:start position:0%
+this probability by 2 on 5 * 2 on 5 to
+ 
+
+00:18:21.799 --> 00:18:25.390 align:start position:0%
+this probability by 2 on 5 * 2 on 5 to
+get<00:18:21.960><c> a</c><00:18:22.159><c> four</c><00:18:23.159><c> we</c><00:18:23.520><c> either</c><00:18:23.880><c> get</c><00:18:24.080><c> a</c><00:18:24.280><c> 1</c><00:18:24.760><c> and</c><00:18:24.880><c> then</c><00:18:25.039><c> a</c>
+
+00:18:25.390 --> 00:18:25.400 align:start position:0%
+get a four we either get a 1 and then a
+ 
+
+00:18:25.400 --> 00:18:29.590 align:start position:0%
+get a four we either get a 1 and then a
+three<00:18:26.400><c> or</c><00:18:26.919><c> a</c><00:18:27.159><c> three</c><00:18:27.720><c> and</c><00:18:27.880><c> then</c><00:18:28.000><c> a</c><00:18:28.120><c> 1</c>
+
+00:18:29.590 --> 00:18:29.600 align:start position:0%
+three or a three and then a 1
+ 
+
+00:18:29.600 --> 00:18:32.830 align:start position:0%
+three or a three and then a 1
+so<00:18:30.480><c> to</c><00:18:30.679><c> get</c><00:18:30.840><c> a</c><00:18:31.000><c> 1</c><00:18:31.280><c> and</c><00:18:31.400><c> then</c><00:18:31.520><c> a</c><00:18:31.720><c> three</c><00:18:32.720><c> that</c>
+
+00:18:32.830 --> 00:18:32.840 align:start position:0%
+so to get a 1 and then a three that
+ 
+
+00:18:32.840 --> 00:18:37.510 align:start position:0%
+so to get a 1 and then a three that
+would<00:18:33.080><c> be</c><00:18:33.520><c> 2</c><00:18:34.120><c> 5</c><00:18:34.440><c> *</c><00:18:35.039><c> 3</c><00:18:35.600><c> 5</c><00:18:36.600><c> and</c><00:18:36.760><c> then</c><00:18:36.919><c> to</c><00:18:37.120><c> get</c><00:18:37.280><c> a</c>
+
+00:18:37.510 --> 00:18:37.520 align:start position:0%
+would be 2 5 * 3 5 and then to get a
+ 
+
+00:18:37.520 --> 00:18:40.350 align:start position:0%
+would be 2 5 * 3 5 and then to get a
+three<00:18:38.080><c> and</c><00:18:38.200><c> then</c><00:18:38.320><c> a</c><00:18:38.480><c> 1</c><00:18:38.919><c> that</c><00:18:39.039><c> would</c><00:18:39.200><c> be</c><00:18:39.440><c> 3</c><00:18:39.679><c> on</c><00:18:39.960><c> 5</c>
+
+00:18:40.350 --> 00:18:40.360 align:start position:0%
+three and then a 1 that would be 3 on 5
+ 
+
+00:18:40.360 --> 00:18:43.590 align:start position:0%
+three and then a 1 that would be 3 on 5
+*<00:18:40.960><c> 2</c><00:18:41.200><c> on</c><00:18:41.480><c> 5</c><00:18:42.240><c> which</c><00:18:42.400><c> is</c><00:18:42.520><c> the</c><00:18:42.640><c> same</c><00:18:42.840><c> as</c><00:18:43.039><c> this</c><00:18:43.400><c> so</c>
+
+00:18:43.590 --> 00:18:43.600 align:start position:0%
+* 2 on 5 which is the same as this so
+ 
+
+00:18:43.600 --> 00:18:46.470 align:start position:0%
+* 2 on 5 which is the same as this so
+essentially<00:18:43.960><c> it's</c><00:18:44.159><c> this</c><00:18:44.360><c> *</c><00:18:44.760><c> 2</c><00:18:45.480><c> right</c><00:18:45.919><c> to</c><00:18:46.080><c> get</c><00:18:46.240><c> a</c>
+
+00:18:46.470 --> 00:18:46.480 align:start position:0%
+essentially it's this * 2 right to get a
+ 
+
+00:18:46.480 --> 00:18:49.510 align:start position:0%
+essentially it's this * 2 right to get a
+six<00:18:47.440><c> we</c><00:18:47.600><c> would</c><00:18:47.840><c> have</c><00:18:47.960><c> to</c><00:18:48.200><c> get</c><00:18:48.559><c> three</c><00:18:49.080><c> and</c><00:18:49.240><c> then</c>
+
+00:18:49.510 --> 00:18:49.520 align:start position:0%
+six we would have to get three and then
+ 
+
+00:18:49.520 --> 00:18:54.149 align:start position:0%
+six we would have to get three and then
+three<00:18:50.520><c> so</c><00:18:50.720><c> that's</c><00:18:51.159><c> 3</c><00:18:51.400><c> on</c><00:18:51.679><c> 5</c><00:18:52.120><c> *</c><00:18:52.840><c> 3</c><00:18:53.080><c> on</c><00:18:53.360><c> 5</c><00:18:53.919><c> I'm</c><00:18:54.039><c> just</c>
+
+00:18:54.149 --> 00:18:54.159 align:start position:0%
+three so that's 3 on 5 * 3 on 5 I'm just
+ 
+
+00:18:54.159 --> 00:18:56.190 align:start position:0%
+three so that's 3 on 5 * 3 on 5 I'm just
+going<00:18:54.280><c> to</c><00:18:54.440><c> put</c><00:18:54.760><c> each</c><00:18:54.919><c> of</c><00:18:55.159><c> these</c><00:18:55.400><c> values</c><00:18:55.880><c> here</c>
+
+00:18:56.190 --> 00:18:56.200 align:start position:0%
+going to put each of these values here
+ 
+
+00:18:56.200 --> 00:18:58.430 align:start position:0%
+going to put each of these values here
+into<00:18:56.440><c> my</c><00:18:56.640><c> calculator</c><00:18:57.600><c> and</c><00:18:57.919><c> see</c><00:18:58.080><c> what</c><00:18:58.360><c> they</c>
+
+00:18:58.430 --> 00:18:58.440 align:start position:0%
+into my calculator and see what they
+ 
+
+00:18:58.440 --> 00:19:03.870 align:start position:0%
+into my calculator and see what they
+come<00:18:58.600><c> out</c><00:18:58.760><c> at</c><00:18:59.760><c> so</c><00:19:00.039><c> 2</c><00:19:00.280><c> on</c><00:19:00.559><c> 5^</c><00:19:01.039><c> 2</c><00:19:01.600><c> is</c><00:19:01.799><c> 4</c><00:19:02.159><c> on</c><00:19:02.480><c> 25</c><00:19:03.440><c> 2</c><00:19:03.640><c> on</c>
+
+00:19:03.870 --> 00:19:03.880 align:start position:0%
+come out at so 2 on 5^ 2 is 4 on 25 2 on
+ 
+
+00:19:03.880 --> 00:19:10.950 align:start position:0%
+come out at so 2 on 5^ 2 is 4 on 25 2 on
+5<00:19:04.159><c> *</c><00:19:04.760><c> 3</c><00:19:05.000><c> on</c><00:19:05.240><c> 5</c><00:19:05.520><c> *</c><00:19:05.960><c> 2</c><00:19:06.600><c> is</c><00:19:06.919><c> 12</c><00:19:07.480><c> on</c><00:19:08.280><c> 25</c><00:19:09.280><c> and</c><00:19:09.520><c> 3</c><00:19:09.760><c> on</c><00:19:10.000><c> 5^</c><00:19:10.280><c> 2</c>
+
+00:19:10.950 --> 00:19:10.960 align:start position:0%
+5 * 3 on 5 * 2 is 12 on 25 and 3 on 5^ 2
+ 
+
+00:19:10.960 --> 00:19:15.750 align:start position:0%
+5 * 3 on 5 * 2 is 12 on 25 and 3 on 5^ 2
+is<00:19:11.360><c> 9</c><00:19:11.799><c> on</c><00:19:12.360><c> 25</c><00:19:13.360><c> part</c><00:19:13.640><c> B</c><00:19:14.080><c> says</c><00:19:14.679><c> find</c><00:19:14.919><c> the</c><00:19:15.080><c> mean</c><00:19:15.520><c> and</c>
+
+00:19:15.750 --> 00:19:15.760 align:start position:0%
+is 9 on 25 part B says find the mean and
+ 
+
+00:19:15.760 --> 00:19:19.590 align:start position:0%
+is 9 on 25 part B says find the mean and
+standard<00:19:16.400><c> deviation</c><00:19:17.400><c> for</c><00:19:18.000><c> S2</c><00:19:19.000><c> there</c><00:19:19.120><c> are</c><00:19:19.360><c> two</c>
+
+00:19:19.590 --> 00:19:19.600 align:start position:0%
+standard deviation for S2 there are two
+ 
+
+00:19:19.600 --> 00:19:22.110 align:start position:0%
+standard deviation for S2 there are two
+ways<00:19:19.880><c> we</c><00:19:20.000><c> could</c><00:19:20.200><c> go</c><00:19:20.360><c> about</c><00:19:20.640><c> doing</c><00:19:21.000><c> this</c><00:19:21.720><c> notice</c>
+
+00:19:22.110 --> 00:19:22.120 align:start position:0%
+ways we could go about doing this notice
+ 
+
+00:19:22.120 --> 00:19:24.590 align:start position:0%
+ways we could go about doing this notice
+that<00:19:22.440><c> we</c><00:19:22.799><c> have</c><00:19:23.039><c> a</c><00:19:23.280><c> distribution</c><00:19:24.000><c> table</c><00:19:24.400><c> here</c>
+
+00:19:24.590 --> 00:19:24.600 align:start position:0%
+that we have a distribution table here
+ 
+
+00:19:24.600 --> 00:19:28.950 align:start position:0%
+that we have a distribution table here
+for<00:19:25.039><c> S2</c><00:19:26.039><c> and</c><00:19:26.600><c> we</c><00:19:26.720><c> can</c><00:19:27.000><c> use</c><00:19:27.440><c> the</c><00:19:27.720><c> formulas</c><00:19:28.720><c> to</c>
+
+00:19:28.950 --> 00:19:28.960 align:start position:0%
+for S2 and we can use the formulas to
+ 
+
+00:19:28.960 --> 00:19:32.190 align:start position:0%
+for S2 and we can use the formulas to
+find<00:19:29.440><c> the</c><00:19:29.600><c> mean</c><00:19:30.280><c> and</c><00:19:30.480><c> the</c><00:19:30.640><c> standard</c><00:19:31.200><c> deviation</c>
+
+00:19:32.190 --> 00:19:32.200 align:start position:0%
+find the mean and the standard deviation
+ 
+
+00:19:32.200 --> 00:19:34.390 align:start position:0%
+find the mean and the standard deviation
+of<00:19:32.440><c> this</c><00:19:32.640><c> random</c><00:19:33.039><c> variable</c><00:19:33.799><c> remember</c><00:19:34.159><c> that</c>
+
+00:19:34.390 --> 00:19:34.400 align:start position:0%
+of this random variable remember that
+ 
+
+00:19:34.400 --> 00:19:35.909 align:start position:0%
+of this random variable remember that
+these<00:19:34.600><c> were</c><00:19:34.799><c> from</c><00:19:35.120><c> discrete</c><00:19:35.600><c> random</c>
+
+00:19:35.909 --> 00:19:35.919 align:start position:0%
+these were from discrete random
+ 
+
+00:19:35.919 --> 00:19:38.350 align:start position:0%
+these were from discrete random
+variables<00:19:36.919><c> another</c><00:19:37.280><c> way</c><00:19:37.440><c> of</c><00:19:37.600><c> doing</c><00:19:38.000><c> this</c>
+
+00:19:38.350 --> 00:19:38.360 align:start position:0%
+variables another way of doing this
+ 
+
+00:19:38.360 --> 00:19:40.350 align:start position:0%
+variables another way of doing this
+would<00:19:38.520><c> be</c><00:19:38.679><c> to</c><00:19:38.919><c> use</c><00:19:39.240><c> those</c><00:19:39.480><c> formulas</c><00:19:39.960><c> to</c><00:19:40.159><c> find</c>
+
+00:19:40.350 --> 00:19:40.360 align:start position:0%
+would be to use those formulas to find
+ 
+
+00:19:40.360 --> 00:19:43.710 align:start position:0%
+would be to use those formulas to find
+the<00:19:40.480><c> mean</c><00:19:40.720><c> and</c><00:19:40.960><c> standard</c><00:19:41.400><c> deviation</c><00:19:42.200><c> of</c><00:19:42.520><c> X</c><00:19:43.480><c> and</c>
+
+00:19:43.710 --> 00:19:43.720 align:start position:0%
+the mean and standard deviation of X and
+ 
+
+00:19:43.720 --> 00:19:46.710 align:start position:0%
+the mean and standard deviation of X and
+then<00:19:44.520><c> use</c><00:19:44.840><c> the</c><00:19:45.000><c> sampling</c><00:19:45.480><c> formulas</c><00:19:45.960><c> to</c><00:19:46.159><c> find</c>
+
+00:19:46.710 --> 00:19:46.720 align:start position:0%
+then use the sampling formulas to find
+ 
+
+00:19:46.720 --> 00:19:48.669 align:start position:0%
+then use the sampling formulas to find
+these<00:19:47.000><c> values</c><00:19:48.000><c> because</c><00:19:48.240><c> we're</c><00:19:48.400><c> doing</c>
+
+00:19:48.669 --> 00:19:48.679 align:start position:0%
+these values because we're doing
+ 
+
+00:19:48.679 --> 00:19:51.029 align:start position:0%
+these values because we're doing
+sampling<00:19:49.320><c> let's</c><00:19:49.559><c> do</c><00:19:49.679><c> it</c><00:19:49.880><c> that</c><00:19:50.039><c> way</c><00:19:50.640><c> so</c><00:19:50.840><c> the</c>
+
+00:19:51.029 --> 00:19:51.039 align:start position:0%
+sampling let's do it that way so the
+ 
+
+00:19:51.039 --> 00:19:52.950 align:start position:0%
+sampling let's do it that way so the
+first<00:19:51.240><c> thing</c><00:19:51.400><c> we</c><00:19:51.520><c> want</c><00:19:51.640><c> to</c><00:19:51.840><c> do</c><00:19:52.280><c> is</c><00:19:52.520><c> find</c><00:19:52.760><c> the</c>
+
+00:19:52.950 --> 00:19:52.960 align:start position:0%
+first thing we want to do is find the
+ 
+
+00:19:52.960 --> 00:19:57.029 align:start position:0%
+first thing we want to do is find the
+mean<00:19:53.559><c> of</c><00:19:53.880><c> X</c><00:19:54.840><c> that's</c><00:19:55.240><c> this</c><00:19:55.760><c> variable</c><00:19:56.280><c> here</c>
+
+00:19:57.029 --> 00:19:57.039 align:start position:0%
+mean of X that's this variable here
+ 
+
+00:19:57.039 --> 00:19:59.029 align:start position:0%
+mean of X that's this variable here
+remember<00:19:57.480><c> that</c><00:19:57.760><c> the</c><00:19:57.919><c> form</c><00:19:58.240><c> formula</c><00:19:58.559><c> to</c><00:19:58.760><c> do</c>
+
+00:19:59.029 --> 00:19:59.039 align:start position:0%
+remember that the form formula to do
+ 
+
+00:19:59.039 --> 00:20:01.310 align:start position:0%
+remember that the form formula to do
+this<00:19:59.400><c> for</c><00:19:59.559><c> a</c><00:19:59.880><c> probability</c><00:20:00.520><c> distribution</c>
+
+00:20:01.310 --> 00:20:01.320 align:start position:0%
+this for a probability distribution
+ 
+
+00:20:01.320 --> 00:20:05.909 align:start position:0%
+this for a probability distribution
+table<00:20:02.240><c> was</c><00:20:02.559><c> the</c><00:20:02.760><c> sum</c><00:20:03.320><c> of</c><00:20:03.640><c> x</c><00:20:03.919><c> i</c><00:20:04.240><c> p</c><00:20:04.480><c> i</c><00:20:05.080><c> which</c><00:20:05.280><c> is</c><00:20:05.640><c> 1</c>
+
+00:20:05.909 --> 00:20:05.919 align:start position:0%
+table was the sum of x i p i which is 1
+ 
+
+00:20:05.919 --> 00:20:12.350 align:start position:0%
+table was the sum of x i p i which is 1
+*<00:20:06.440><c> 2</c><00:20:06.679><c> on</c><00:20:06.960><c> 5</c><00:20:07.640><c> +</c><00:20:08.200><c> 3</c><00:20:08.640><c> *</c><00:20:09.120><c> 3</c><00:20:09.320><c> on</c><00:20:09.559><c> 5</c><00:20:10.400><c> which</c><00:20:10.640><c> is</c><00:20:10.919><c> 11</c><00:20:11.360><c> on</c><00:20:11.720><c> 5</c>
+
+00:20:12.350 --> 00:20:12.360 align:start position:0%
+* 2 on 5 + 3 * 3 on 5 which is 11 on 5
+ 
+
+00:20:12.360 --> 00:20:15.789 align:start position:0%
+* 2 on 5 + 3 * 3 on 5 which is 11 on 5
+the<00:20:12.600><c> standard</c><00:20:13.080><c> deviation</c><00:20:13.760><c> of</c><00:20:14.039><c> X</c><00:20:15.039><c> is</c><00:20:15.559><c> Big</c>
+
+00:20:15.789 --> 00:20:15.799 align:start position:0%
+the standard deviation of X is Big
+ 
+
+00:20:15.799 --> 00:20:20.470 align:start position:0%
+the standard deviation of X is Big
+Square<00:20:16.240><c> t</c><00:20:16.720><c> and</c><00:20:16.880><c> then</c><00:20:17.039><c> the</c><00:20:17.280><c> sum</c><00:20:17.799><c> of</c><00:20:18.200><c> x</c><00:20:18.559><c> i^</c><00:20:18.919><c> 2</c><00:20:19.400><c> p</c><00:20:19.600><c> i</c>
+
+00:20:20.470 --> 00:20:20.480 align:start position:0%
+Square t and then the sum of x i^ 2 p i
+ 
+
+00:20:20.480 --> 00:20:24.310 align:start position:0%
+Square t and then the sum of x i^ 2 p i
+minus<00:20:21.039><c> the</c><00:20:21.200><c> mean</c><00:20:21.440><c> s</c><00:20:22.320><c> subbing</c><00:20:22.799><c> this</c><00:20:23.039><c> in</c><00:20:23.679><c> we</c><00:20:24.000><c> have</c>
+
+00:20:24.310 --> 00:20:24.320 align:start position:0%
+minus the mean s subbing this in we have
+ 
+
+00:20:24.320 --> 00:20:31.390 align:start position:0%
+minus the mean s subbing this in we have
+the<00:20:24.840><c> &lt;</c><00:20:24.960><c> TK</c><00:20:25.400><c> of</c><00:20:25.720><c> 1^</c><00:20:26.000><c> 2</c><00:20:26.400><c> *</c><00:20:26.799><c> 2</c><00:20:27.320><c> 5</c><00:20:28.200><c> +</c><00:20:28.600><c> 3^</c><00:20:28.919><c> 2</c><00:20:29.400><c> *</c><00:20:29.919><c> 3</c><00:20:30.480><c> 5</c><00:20:31.320><c> and</c>
+
+00:20:31.390 --> 00:20:31.400 align:start position:0%
+the &lt; TK of 1^ 2 * 2 5 + 3^ 2 * 3 5 and
+ 
+
+00:20:31.400 --> 00:20:34.630 align:start position:0%
+the &lt; TK of 1^ 2 * 2 5 + 3^ 2 * 3 5 and
+then<00:20:31.559><c> we're</c><00:20:31.760><c> subtracting</c><00:20:32.360><c> the</c><00:20:32.480><c> mean</c><00:20:32.840><c> squ</c><00:20:33.600><c> so</c><00:20:33.919><c> -</c>
+
+00:20:34.630 --> 00:20:34.640 align:start position:0%
+then we're subtracting the mean squ so -
+ 
+
+00:20:34.640 --> 00:20:38.390 align:start position:0%
+then we're subtracting the mean squ so -
+11<00:20:35.159><c> on</c><00:20:35.520><c> 5</c><00:20:35.880><c> all</c><00:20:36.280><c> 2</c><00:20:36.960><c> putting</c><00:20:37.360><c> this</c><00:20:37.720><c> into</c><00:20:38.200><c> the</c>
+
+00:20:38.390 --> 00:20:38.400 align:start position:0%
+11 on 5 all 2 putting this into the
+ 
+
+00:20:38.400 --> 00:20:42.390 align:start position:0%
+11 on 5 all 2 putting this into the
+calculator<00:20:39.240><c> gives</c><00:20:39.480><c> us</c><00:20:39.640><c> a</c><00:20:39.840><c> value</c><00:20:40.360><c> of</c><00:20:40.799><c> &lt;</c><00:20:40.960><c> TK4</c><00:20:41.799><c> on</c>
+
+00:20:42.390 --> 00:20:42.400 align:start position:0%
+calculator gives us a value of &lt; TK4 on
+ 
+
+00:20:42.400 --> 00:20:46.630 align:start position:0%
+calculator gives us a value of &lt; TK4 on
+5<00:20:43.400><c> so</c><00:20:43.679><c> now</c><00:20:43.960><c> we</c><00:20:44.280><c> found</c><00:20:45.120><c> the</c><00:20:45.720><c> mean</c><00:20:46.320><c> and</c><00:20:46.480><c> the</c>
+
+00:20:46.630 --> 00:20:46.640 align:start position:0%
+5 so now we found the mean and the
+ 
+
+00:20:46.640 --> 00:20:49.750 align:start position:0%
+5 so now we found the mean and the
+standard<00:20:47.480><c> deviation</c><00:20:48.480><c> of</c><00:20:49.000><c> this</c><00:20:49.240><c> random</c>
+
+00:20:49.750 --> 00:20:49.760 align:start position:0%
+standard deviation of this random
+ 
+
+00:20:49.760 --> 00:20:53.270 align:start position:0%
+standard deviation of this random
+variable<00:20:50.760><c> we</c><00:20:50.880><c> can</c><00:20:51.200><c> use</c><00:20:51.559><c> the</c><00:20:51.799><c> formulas</c><00:20:52.799><c> to</c><00:20:53.039><c> find</c>
+
+00:20:53.270 --> 00:20:53.280 align:start position:0%
+variable we can use the formulas to find
+ 
+
+00:20:53.280 --> 00:20:56.710 align:start position:0%
+variable we can use the formulas to find
+the<00:20:53.440><c> mean</c><00:20:53.679><c> and</c><00:20:53.919><c> standard</c><00:20:54.400><c> deviation</c><00:20:55.159><c> for</c><00:20:55.720><c> S2</c>
+
+00:20:56.710 --> 00:20:56.720 align:start position:0%
+the mean and standard deviation for S2
+ 
+
+00:20:56.720 --> 00:20:58.669 align:start position:0%
+the mean and standard deviation for S2
+the<00:20:57.000><c> mean</c><00:20:57.640><c> of</c><00:20:57.880><c> s</c>
+
+00:20:58.669 --> 00:20:58.679 align:start position:0%
+the mean of s
+ 
+
+00:20:58.679 --> 00:21:05.070 align:start position:0%
+the mean of s
+S2<00:20:59.679><c> is</c><00:21:00.080><c> n</c><00:21:00.480><c> *</c><00:21:00.840><c> the</c><00:21:00.960><c> mean</c><00:21:01.159><c> of</c><00:21:01.360><c> X</c><00:21:02.159><c> which</c><00:21:02.360><c> is</c><00:21:02.760><c> 2</c><00:21:03.600><c> *</c><00:21:04.159><c> 11</c>
+
+00:21:05.070 --> 00:21:05.080 align:start position:0%
+S2 is n * the mean of X which is 2 * 11
+ 
+
+00:21:05.080 --> 00:21:08.830 align:start position:0%
+S2 is n * the mean of X which is 2 * 11
+5<00:21:05.919><c> which</c><00:21:06.080><c> is</c><00:21:06.280><c> 22</c><00:21:06.880><c> on</c><00:21:07.280><c> 5</c><00:21:08.159><c> the</c><00:21:08.400><c> standard</c>
+
+00:21:08.830 --> 00:21:08.840 align:start position:0%
+5 which is 22 on 5 the standard
+ 
+
+00:21:08.840 --> 00:21:14.549 align:start position:0%
+5 which is 22 on 5 the standard
+deviation<00:21:09.360><c> of</c><00:21:09.960><c> S2</c><00:21:10.960><c> is</c><00:21:11.559><c> square</c><00:21:12.000><c> &lt;</c><00:21:12.120><c> TK</c><00:21:12.520><c> n</c><00:21:13.559><c> multili</c>
+
+00:21:14.549 --> 00:21:14.559 align:start position:0%
+deviation of S2 is square &lt; TK n multili
+ 
+
+00:21:14.559 --> 00:21:17.669 align:start position:0%
+deviation of S2 is square &lt; TK n multili
+the<00:21:14.760><c> standard</c><00:21:15.159><c> deviation</c><00:21:15.640><c> of</c><00:21:15.880><c> X</c><00:21:16.880><c> so</c><00:21:17.120><c> that's</c><00:21:17.520><c> &lt;</c>
+
+00:21:17.669 --> 00:21:17.679 align:start position:0%
+the standard deviation of X so that's &lt;
+ 
+
+00:21:17.679 --> 00:21:23.310 align:start position:0%
+the standard deviation of X so that's &lt;
+tk2<00:21:18.520><c> *</c><00:21:19.080><c> by</c><00:21:19.640><c> &lt;</c><00:21:19.799><c> TK4</c><00:21:20.600><c> on</c><00:21:21.000><c> 5</c><00:21:22.000><c> and</c><00:21:22.200><c> that</c><00:21:22.400><c> gives</c><00:21:22.640><c> us</c><00:21:23.159><c> &lt;</c>
+
+00:21:23.310 --> 00:21:23.320 align:start position:0%
+tk2 * by &lt; TK4 on 5 and that gives us &lt;
+ 
+
+00:21:23.320 --> 00:21:28.470 align:start position:0%
+tk2 * by &lt; TK4 on 5 and that gives us &lt;
+TK<00:21:23.720><c> 48</c><00:21:24.720><c> on</c><00:21:25.120><c> 5</c><00:21:26.039><c> part</c><00:21:26.360><c> C</c><00:21:27.159><c> says</c><00:21:27.559><c> find</c><00:21:27.799><c> the</c><00:21:28.120><c> standard</c>
+
+00:21:28.470 --> 00:21:28.480 align:start position:0%
+TK 48 on 5 part C says find the standard
+ 
+
+00:21:28.480 --> 00:21:32.149 align:start position:0%
+TK 48 on 5 part C says find the standard
+deviation<00:21:29.120><c> and</c><00:21:29.279><c> mean</c><00:21:29.640><c> for</c><00:21:30.279><c> s50</c><00:21:31.279><c> so</c><00:21:31.440><c> to</c><00:21:31.640><c> do</c><00:21:31.919><c> this</c>
+
+00:21:32.149 --> 00:21:32.159 align:start position:0%
+deviation and mean for s50 so to do this
+ 
+
+00:21:32.159 --> 00:21:35.990 align:start position:0%
+deviation and mean for s50 so to do this
+we<00:21:32.279><c> can</c><00:21:32.520><c> use</c><00:21:32.799><c> the</c><00:21:32.960><c> same</c><00:21:33.320><c> formulas</c><00:21:34.320><c> the</c><00:21:34.520><c> mean</c><00:21:35.320><c> of</c>
+
+00:21:35.990 --> 00:21:36.000 align:start position:0%
+we can use the same formulas the mean of
+ 
+
+00:21:36.000 --> 00:21:40.630 align:start position:0%
+we can use the same formulas the mean of
+s50<00:21:37.000><c> is</c><00:21:37.159><c> equal</c><00:21:37.440><c> to</c><00:21:37.799><c> 50</c><00:21:38.320><c> *</c><00:21:38.799><c> the</c><00:21:38.919><c> mean</c><00:21:39.159><c> of</c><00:21:39.400><c> X</c><00:21:40.400><c> which</c>
+
+00:21:40.630 --> 00:21:40.640 align:start position:0%
+s50 is equal to 50 * the mean of X which
+ 
+
+00:21:40.640 --> 00:21:44.470 align:start position:0%
+s50 is equal to 50 * the mean of X which
+we<00:21:40.799><c> said</c><00:21:41.200><c> before</c><00:21:42.000><c> was</c><00:21:42.400><c> 11</c><00:21:42.799><c> on</c><00:21:43.120><c> 5</c><00:21:43.880><c> that's</c><00:21:44.200><c> equal</c>
+
+00:21:44.470 --> 00:21:44.480 align:start position:0%
+we said before was 11 on 5 that's equal
+ 
+
+00:21:44.480 --> 00:21:48.750 align:start position:0%
+we said before was 11 on 5 that's equal
+to<00:21:45.080><c> 110</c><00:21:46.080><c> and</c><00:21:46.240><c> the</c><00:21:46.400><c> standard</c><00:21:46.799><c> deviation</c><00:21:47.760><c> of</c>
+
+00:21:48.750 --> 00:21:48.760 align:start position:0%
+to 110 and the standard deviation of
+ 
+
+00:21:48.760 --> 00:21:53.430 align:start position:0%
+to 110 and the standard deviation of
+s50<00:21:49.760><c> isun</c><00:21:50.640><c> 50</c><00:21:51.640><c> *</c><00:21:52.159><c> by</c><00:21:52.360><c> the</c><00:21:52.520><c> standard</c><00:21:52.919><c> deviation</c>
+
+00:21:53.430 --> 00:21:53.440 align:start position:0%
+s50 isun 50 * by the standard deviation
+ 
+
+00:21:53.440 --> 00:21:58.350 align:start position:0%
+s50 isun 50 * by the standard deviation
+of<00:21:53.679><c> X</c><00:21:54.640><c> which</c><00:21:54.760><c> is</c><00:21:54.960><c> &lt;</c><00:21:55.120><c> TK4</c><00:21:55.960><c> on</c><00:21:56.520><c> 5</c><00:21:57.520><c> which</c><00:21:57.799><c> is</c><00:21:58.080><c> is</c>
+
+00:21:58.350 --> 00:21:58.360 align:start position:0%
+of X which is &lt; TK4 on 5 which is is
+ 
+
+00:21:58.360 --> 00:22:00.950 align:start position:0%
+of X which is &lt; TK4 on 5 which is is
+using<00:21:58.679><c> my</c><00:21:58.880><c> calculator</c><00:21:59.880><c> approximately</c><00:22:00.640><c> equal</c>
+
+00:22:00.950 --> 00:22:00.960 align:start position:0%
+using my calculator approximately equal
+ 
+
+00:22:00.960 --> 00:22:02.310 align:start position:0%
+using my calculator approximately equal
+to
+
+00:22:02.310 --> 00:22:02.320 align:start position:0%
+to
+ 
+
+00:22:02.320 --> 00:22:04.830 align:start position:0%
+to
+6.93<00:22:03.320><c> finally</c><00:22:03.760><c> we</c><00:22:03.880><c> need</c><00:22:04.039><c> to</c><00:22:04.240><c> find</c><00:22:04.440><c> the</c><00:22:04.559><c> mean</c>
+
+00:22:04.830 --> 00:22:04.840 align:start position:0%
+6.93 finally we need to find the mean
+ 
+
+00:22:04.840 --> 00:22:07.990 align:start position:0%
+6.93 finally we need to find the mean
+and<00:22:05.039><c> standard</c><00:22:05.480><c> deviation</c><00:22:06.000><c> of</c><00:22:06.320><c> xar</c><00:22:07.080><c> 50</c><00:22:07.840><c> the</c>
+
+00:22:07.990 --> 00:22:08.000 align:start position:0%
+and standard deviation of xar 50 the
+ 
+
+00:22:08.000 --> 00:22:11.909 align:start position:0%
+and standard deviation of xar 50 the
+mean<00:22:08.640><c> of</c><00:22:09.120><c> xar</c><00:22:09.720><c> 50</c><00:22:10.559><c> is</c><00:22:10.760><c> just</c><00:22:11.000><c> equal</c><00:22:11.320><c> to</c><00:22:11.559><c> the</c><00:22:11.679><c> mean</c>
+
+00:22:11.909 --> 00:22:11.919 align:start position:0%
+mean of xar 50 is just equal to the mean
+ 
+
+00:22:11.919 --> 00:22:15.710 align:start position:0%
+mean of xar 50 is just equal to the mean
+of<00:22:12.080><c> X</c><00:22:13.039><c> which</c><00:22:13.200><c> is</c><00:22:13.480><c> 11</c><00:22:13.799><c> on</c><00:22:14.080><c> 5</c><00:22:14.919><c> and</c><00:22:15.120><c> the</c><00:22:15.279><c> standard</c>
+
+00:22:15.710 --> 00:22:15.720 align:start position:0%
+of X which is 11 on 5 and the standard
+ 
+
+00:22:15.720 --> 00:22:19.310 align:start position:0%
+of X which is 11 on 5 and the standard
+deviation<00:22:16.679><c> of</c><00:22:17.039><c> xar</c><00:22:17.600><c> 50</c><00:22:18.360><c> is</c><00:22:18.720><c> the</c><00:22:18.880><c> standard</c>
+
+00:22:19.310 --> 00:22:19.320 align:start position:0%
+deviation of xar 50 is the standard
+ 
+
+00:22:19.320 --> 00:22:23.950 align:start position:0%
+deviation of xar 50 is the standard
+deviation<00:22:20.120><c> of</c><00:22:20.400><c> X</c><00:22:21.240><c> over</c><00:22:21.640><c> &lt;</c><00:22:21.760><c> tk50</c><00:22:22.760><c> so</c><00:22:23.039><c> that</c><00:22:23.200><c> is</c><00:22:23.679><c> &lt;</c>
+
+00:22:23.950 --> 00:22:23.960 align:start position:0%
+deviation of X over &lt; tk50 so that is &lt;
+ 
+
+00:22:23.960 --> 00:22:28.789 align:start position:0%
+deviation of X over &lt; tk50 so that is &lt;
+TK4<00:22:24.960><c> 5</c><00:22:25.840><c> overun</c><00:22:26.760><c> 50</c><00:22:27.559><c> and</c><00:22:28.080><c> again</c><00:22:28.320><c> using</c><00:22:28.600><c> the</c>
+
+00:22:28.789 --> 00:22:28.799 align:start position:0%
+TK4 5 overun 50 and again using the
+ 
+
+00:22:28.799 --> 00:22:31.269 align:start position:0%
+TK4 5 overun 50 and again using the
+calculator<00:22:29.720><c> this</c><00:22:29.880><c> is</c><00:22:30.200><c> approximately</c><00:22:30.960><c> equal</c>
+
+00:22:31.269 --> 00:22:31.279 align:start position:0%
+calculator this is approximately equal
+ 
+
+00:22:31.279 --> 00:22:33.350 align:start position:0%
+calculator this is approximately equal
+to
+
+00:22:33.350 --> 00:22:33.360 align:start position:0%
+to
+ 
+
+00:22:33.360 --> 00:22:36.190 align:start position:0%
+to
+0.139<00:22:34.360><c> okay</c><00:22:34.640><c> that's</c><00:22:34.840><c> the</c><00:22:35.000><c> end</c><00:22:35.200><c> of</c><00:22:35.400><c> this</c><00:22:35.559><c> video</c>
+
+00:22:36.190 --> 00:22:36.200 align:start position:0%
+0.139 okay that's the end of this video
+ 
+
+00:22:36.200 --> 00:22:38.149 align:start position:0%
+0.139 okay that's the end of this video
+after<00:22:36.440><c> watching</c><00:22:36.840><c> this</c><00:22:36.960><c> one</c><00:22:37.600><c> you</c><00:22:37.720><c> should</c><00:22:38.000><c> be</c>
+
+00:22:38.149 --> 00:22:38.159 align:start position:0%
+after watching this one you should be
+ 
+
+00:22:38.159 --> 00:22:40.630 align:start position:0%
+after watching this one you should be
+able<00:22:38.400><c> to</c><00:22:38.559><c> do</c><00:22:38.840><c> these</c><00:22:39.039><c> things</c><00:22:39.960><c> interpret</c><00:22:40.520><c> the</c>
+
+00:22:40.630 --> 00:22:40.640 align:start position:0%
+able to do these things interpret the
+ 
+
+00:22:40.640 --> 00:22:45.149 align:start position:0%
+able to do these things interpret the
+sample<00:22:41.000><c> sum</c><00:22:41.360><c> SN</c><00:22:42.279><c> and</c><00:22:42.600><c> Sample</c><00:22:42.960><c> mean</c><00:22:43.480><c> xar</c><00:22:44.159><c> n</c>
+
+00:22:45.149 --> 00:22:45.159 align:start position:0%
+sample sum SN and Sample mean xar n
+ 
+
+00:22:45.159 --> 00:22:48.870 align:start position:0%
+sample sum SN and Sample mean xar n
+remember<00:22:45.559><c> that</c><00:22:45.720><c> the</c><00:22:45.919><c> keyw</c><00:22:46.440><c> for</c><00:22:46.720><c> SN</c><00:22:47.520><c> was</c><00:22:48.000><c> total</c>
+
+00:22:48.870 --> 00:22:48.880 align:start position:0%
+remember that the keyw for SN was total
+ 
+
+00:22:48.880 --> 00:22:52.510 align:start position:0%
+remember that the keyw for SN was total
+and<00:22:49.039><c> the</c><00:22:49.200><c> keyw</c><00:22:49.679><c> for</c><00:22:50.000><c> xar</c><00:22:50.600><c> n</c><00:22:51.200><c> was</c><00:22:51.559><c> average</c>
+
+00:22:52.510 --> 00:22:52.520 align:start position:0%
+and the keyw for xar n was average
+ 
+
+00:22:52.520 --> 00:22:54.789 align:start position:0%
+and the keyw for xar n was average
+secondly<00:22:53.159><c> we</c><00:22:53.320><c> need</c><00:22:53.480><c> to</c><00:22:53.640><c> be</c><00:22:53.799><c> able</c><00:22:54.039><c> to</c><00:22:54.279><c> use</c><00:22:54.600><c> the</c>
+
+00:22:54.789 --> 00:22:54.799 align:start position:0%
+secondly we need to be able to use the
+ 
+
+00:22:54.799 --> 00:22:57.430 align:start position:0%
+secondly we need to be able to use the
+formulas<00:22:55.720><c> to</c><00:22:55.960><c> find</c><00:22:56.159><c> the</c><00:22:56.360><c> mean</c><00:22:56.840><c> and</c><00:22:57.039><c> standard</c>
+
+00:22:57.430 --> 00:22:57.440 align:start position:0%
+formulas to find the mean and standard
+ 
+
+00:22:57.440 --> 00:22:58.470 align:start position:0%
+formulas to find the mean and standard
+deviation
+
+00:22:58.470 --> 00:22:58.480 align:start position:0%
+deviation
+ 
+
+00:22:58.480 --> 00:23:01.190 align:start position:0%
+deviation
+for<00:22:58.720><c> each</c><00:22:58.880><c> of</c><00:22:59.120><c> these</c><00:22:59.720><c> and</c><00:22:59.960><c> finally</c><00:23:00.760><c> this</c><00:23:00.960><c> was</c>
+
+00:23:01.190 --> 00:23:01.200 align:start position:0%
+for each of these and finally this was
+ 
+
+00:23:01.200 --> 00:23:03.510 align:start position:0%
+for each of these and finally this was
+that<00:23:01.480><c> last</c><00:23:01.760><c> question</c><00:23:02.159><c> which</c><00:23:02.320><c> was</c><00:23:02.440><c> a</c><00:23:02.520><c> bit</c><00:23:02.720><c> weird</c>
+
+00:23:03.510 --> 00:23:03.520 align:start position:0%
+that last question which was a bit weird
+ 
+
+00:23:03.520 --> 00:23:05.310 align:start position:0%
+that last question which was a bit weird
+we<00:23:03.679><c> need</c><00:23:03.840><c> to</c><00:23:04.039><c> be</c><00:23:04.200><c> able</c><00:23:04.480><c> to</c><00:23:04.720><c> find</c><00:23:05.000><c> the</c>
+
+00:23:05.310 --> 00:23:05.320 align:start position:0%
+we need to be able to find the
+ 
+
+00:23:05.320 --> 00:23:08.909 align:start position:0%
+we need to be able to find the
+probability<00:23:06.200><c> distribution</c><00:23:07.200><c> for</c><00:23:07.559><c> SN</c><00:23:08.520><c> if</c><00:23:08.720><c> we're</c>
+
+00:23:08.909 --> 00:23:08.919 align:start position:0%
+probability distribution for SN if we're
+ 
+
+00:23:08.919 --> 00:23:12.350 align:start position:0%
+probability distribution for SN if we're
+given<00:23:09.200><c> the</c><00:23:09.400><c> probability</c><00:23:10.080><c> distribution</c><00:23:10.960><c> of</c><00:23:11.360><c> X</c>
+
+00:23:12.350 --> 00:23:12.360 align:start position:0%
+given the probability distribution of X
+ 
+
+00:23:12.360 --> 00:23:14.470 align:start position:0%
+given the probability distribution of X
+these<00:23:12.679><c> last</c><00:23:13.000><c> questions</c><00:23:13.559><c> don't</c><00:23:13.840><c> come</c><00:23:14.080><c> up</c><00:23:14.320><c> as</c>
+
+00:23:14.470 --> 00:23:14.480 align:start position:0%
+these last questions don't come up as
+ 
+
+00:23:14.480 --> 00:23:16.909 align:start position:0%
+these last questions don't come up as
+much<00:23:14.679><c> in</c><00:23:14.960><c> tests</c><00:23:15.960><c> but</c><00:23:16.159><c> we</c><00:23:16.279><c> still</c><00:23:16.480><c> need</c><00:23:16.640><c> to</c><00:23:16.760><c> be</c>
+
+00:23:16.909 --> 00:23:16.919 align:start position:0%
+much in tests but we still need to be
+ 
+
+00:23:16.919 --> 00:23:19.960 align:start position:0%
+much in tests but we still need to be
+able<00:23:17.159><c> to</c><00:23:17.320><c> do</c><00:23:17.520><c> them</c>
+
