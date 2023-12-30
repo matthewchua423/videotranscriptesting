@@ -1,0 +1,1316 @@
+WEBVTT
+
+00:00:00.919 --> 00:00:05.040
+okay this is the last topic for safe
+
+00:00:05.040 --> 00:00:08.320
+stage 2 methods it's called sampling and
+
+00:00:08.320 --> 00:00:09.440
+confidence
+
+00:00:09.440 --> 00:00:12.480
+intervals and as we do more and more of
+
+00:00:12.480 --> 00:00:14.759
+this topic you'll see that it's
+
+00:00:14.759 --> 00:00:17.240
+basically a combination of the last two
+
+00:00:17.240 --> 00:00:20.519
+topics we did which are discrete random
+
+00:00:20.519 --> 00:00:23.119
+variables and continuous random
+
+00:00:23.119 --> 00:00:25.920
+variables we can divide this topic up
+
+00:00:25.920 --> 00:00:28.800
+into two parts which I want you to keep
+
+00:00:28.800 --> 00:00:31.399
+in mind as we go through this series of
+
+00:00:31.399 --> 00:00:34.000
+videos the first part is called sample
+
+00:00:34.000 --> 00:00:36.559
+means and the second part is called
+
+00:00:36.559 --> 00:00:39.559
+sample proportions in this video we're
+
+00:00:39.559 --> 00:00:41.760
+going to go through an introduction to
+
+00:00:41.760 --> 00:00:45.440
+sampling and specifically sample means
+
+00:00:45.440 --> 00:00:48.600
+so first let's talk about what sampling
+
+00:00:48.600 --> 00:00:51.480
+actually is let's say that we wanted to
+
+00:00:51.480 --> 00:00:54.719
+find the average height of every human
+
+00:00:54.719 --> 00:00:57.120
+being in the world practically this
+
+00:00:57.120 --> 00:00:59.480
+would be impossible because we'd have to
+
+00:00:59.480 --> 00:01:03.079
+measure every single person right so
+
+00:01:03.079 --> 00:01:06.080
+instead what we can do is we can take a
+
+00:01:06.080 --> 00:01:08.799
+smaller sample of the world population
+
+00:01:08.799 --> 00:01:11.799
+let's say of 100 people and we could
+
+00:01:11.799 --> 00:01:14.880
+average the height of this sample of 100
+
+00:01:14.880 --> 00:01:18.360
+and use that sample mean to average the
+
+00:01:18.360 --> 00:01:22.400
+true population mean height so that's
+
+00:01:22.400 --> 00:01:25.240
+what sampling is used for we take a
+
+00:01:25.240 --> 00:01:27.479
+sample which is meant to be
+
+00:01:27.479 --> 00:01:30.600
+representative of the whole population
+
+00:01:30.600 --> 00:01:33.799
+when we take a sample of a population
+
+00:01:33.799 --> 00:01:36.240
+there are two types of variables that we
+
+00:01:36.240 --> 00:01:37.000
+can
+
+00:01:37.000 --> 00:01:40.280
+analyze sample means and Sample
+
+00:01:40.280 --> 00:01:44.000
+proportions a sample mean is the average
+
+00:01:44.000 --> 00:01:47.119
+data value of a population so for
+
+00:01:47.119 --> 00:01:50.000
+example the average height or the
+
+00:01:50.000 --> 00:01:53.799
+average duration of a song a sample
+
+00:01:53.799 --> 00:01:57.240
+proportion is the percentage of data
+
+00:01:57.240 --> 00:02:00.079
+values which fall into a particular
+
+00:02:00.079 --> 00:02:03.520
+category so for example the percentage
+
+00:02:03.520 --> 00:02:07.320
+of people who are above 6t tall or the
+
+00:02:07.320 --> 00:02:09.878
+percentage of songs which are between 2
+
+00:02:09.878 --> 00:02:13.200
+and 3 minutes long so because of this
+
+00:02:13.200 --> 00:02:15.599
+notice that sample proportions always
+
+00:02:15.599 --> 00:02:19.400
+have to take a value between 0 and 1
+
+00:02:19.400 --> 00:02:22.000
+where zero means none of the population
+
+00:02:22.000 --> 00:02:25.120
+falls into that category and one means
+
+00:02:25.120 --> 00:02:27.840
+100% of the population falls into that
+
+00:02:27.840 --> 00:02:30.599
+category on the other hand sample means
+
+00:02:30.599 --> 00:02:33.360
+can take any value because they just
+
+00:02:33.360 --> 00:02:36.280
+represent the average data value of a
+
+00:02:36.280 --> 00:02:39.360
+population keep this table in mind as we
+
+00:02:39.360 --> 00:02:42.280
+work through the next few videos the
+
+00:02:42.280 --> 00:02:43.800
+first few will'll be talking about
+
+00:02:43.800 --> 00:02:46.319
+sample means and then we'll go on to
+
+00:02:46.319 --> 00:02:49.239
+sample proportions let's talk about
+
+00:02:49.239 --> 00:02:52.959
+sample means first the sample mean is
+
+00:02:52.959 --> 00:02:56.519
+just the mean of a sample right so to
+
+00:02:56.519 --> 00:02:58.720
+talk about sample means we have to
+
+00:02:58.720 --> 00:03:01.360
+Define form formulas on how to calculate
+
+00:03:01.360 --> 00:03:03.480
+the sample mean and actually these
+
+00:03:03.480 --> 00:03:05.040
+formulas are things we've already
+
+00:03:05.040 --> 00:03:06.920
+learned about in statistics in Middle
+
+00:03:06.920 --> 00:03:09.560
+School let's say we had a sample of
+
+00:03:09.560 --> 00:03:12.640
+three people and their heights were 160
+
+00:03:12.640 --> 00:03:16.760
+170 and 180 cm well how would we
+
+00:03:16.760 --> 00:03:18.920
+calculate the mean of this sample we
+
+00:03:18.920 --> 00:03:20.440
+would just add these three Heights
+
+00:03:20.440 --> 00:03:23.040
+together and divide by three because
+
+00:03:23.040 --> 00:03:25.920
+three is the sample size right so when
+
+00:03:25.920 --> 00:03:28.360
+we're talking about sample means the
+
+00:03:28.360 --> 00:03:30.879
+first thing that we do is Define the
+
+00:03:30.879 --> 00:03:34.760
+sample sum we write this down as SN
+
+00:03:34.760 --> 00:03:38.360
+where n is the sample size so in this
+
+00:03:38.360 --> 00:03:40.840
+example that I did over here this would
+
+00:03:40.840 --> 00:03:45.720
+be S3 adding up the three Heights SN is
+
+00:03:45.720 --> 00:03:48.720
+the sample sum or just the sum of all of
+
+00:03:48.720 --> 00:03:51.080
+the things in the sample so the formula
+
+00:03:51.080 --> 00:03:53.280
+for this is we just add them up we can
+
+00:03:53.280 --> 00:03:57.239
+denote this with X1 + X2 plus all the
+
+00:03:57.239 --> 00:04:00.239
+way to xn again this just means means we
+
+00:04:00.239 --> 00:04:03.040
+add the things in the sample like this
+
+00:04:03.040 --> 00:04:06.200
+once we add the things in the sample up
+
+00:04:06.200 --> 00:04:08.360
+to find the sample mean we have to
+
+00:04:08.360 --> 00:04:11.040
+divide by the sample size so the sample
+
+00:04:11.040 --> 00:04:14.920
+mean we write as xar n and this is found
+
+00:04:14.920 --> 00:04:18.160
+by dividing SN by n hopefully that makes
+
+00:04:18.160 --> 00:04:20.519
+sense look at this formula here we have
+
+00:04:20.519 --> 00:04:22.960
+the sample sum on top which is the sum
+
+00:04:22.960 --> 00:04:25.440
+of the three Heights and then we divide
+
+00:04:25.440 --> 00:04:27.919
+by three because that's how many people
+
+00:04:27.919 --> 00:04:30.360
+we have in our sample so we could also
+
+00:04:30.360 --> 00:04:34.840
+write this as X1 + X2 all the way to xn/
+
+00:04:34.840 --> 00:04:38.919
+n let's talk about the properties of SN
+
+00:04:38.919 --> 00:04:44.199
+and xrn SN and xrn are actually random
+
+00:04:44.199 --> 00:04:47.039
+variables themselves the reason for this
+
+00:04:47.039 --> 00:04:49.600
+is because we could take lots of
+
+00:04:49.600 --> 00:04:52.320
+different samples and every time we
+
+00:04:52.320 --> 00:04:54.199
+would have a slightly different sample
+
+00:04:54.199 --> 00:04:58.120
+sum and Sample mean for example this is
+
+00:04:58.120 --> 00:05:00.320
+my sample of three people
+
+00:05:00.320 --> 00:05:02.840
+but I could then go and Sample a
+
+00:05:02.840 --> 00:05:05.520
+different set of five people and measure
+
+00:05:05.520 --> 00:05:10.960
+their heights as 171 172 and 173 we
+
+00:05:10.960 --> 00:05:13.560
+divide by three to find the sample mean
+
+00:05:13.560 --> 00:05:16.720
+so we could see that these two represent
+
+00:05:16.720 --> 00:05:18.840
+different samples from the same
+
+00:05:18.840 --> 00:05:21.199
+population we just happen to pick
+
+00:05:21.199 --> 00:05:24.080
+different people they also have slightly
+
+00:05:24.080 --> 00:05:26.720
+different sample means this sample mean
+
+00:05:26.720 --> 00:05:30.960
+is 170 whereas this sample mean is 172
+
+00:05:30.960 --> 00:05:33.319
+so if we kept doing this and took lots
+
+00:05:33.319 --> 00:05:36.039
+and lots of samples of three people each
+
+00:05:36.039 --> 00:05:38.360
+of these samples would have a slightly
+
+00:05:38.360 --> 00:05:41.840
+different sample mean and therefore both
+
+00:05:41.840 --> 00:05:45.280
+the sample mean and the sample sum are
+
+00:05:45.280 --> 00:05:48.000
+continuous random variables meaning that
+
+00:05:48.000 --> 00:05:51.000
+they each have a mean and a standard
+
+00:05:51.000 --> 00:05:53.800
+deviation which depend on the true
+
+00:05:53.800 --> 00:05:57.360
+population mean so if we say that mu is
+
+00:05:57.360 --> 00:06:00.360
+the true population mean and and sigma
+
+00:06:00.360 --> 00:06:02.639
+is the true population standard
+
+00:06:02.639 --> 00:06:05.360
+deviation then there are formulas we can
+
+00:06:05.360 --> 00:06:08.240
+use to calculate the mean and the
+
+00:06:08.240 --> 00:06:10.919
+standard deviation of these two random
+
+00:06:10.919 --> 00:06:14.039
+variables the mean of the sample sum is
+
+00:06:14.039 --> 00:06:18.960
+written as Mu SN and this is found by
+
+00:06:18.960 --> 00:06:21.520
+multiplying n by the true population
+
+00:06:21.520 --> 00:06:24.319
+mean this should make sense because
+
+00:06:24.319 --> 00:06:26.440
+let's say that the true population mean
+
+00:06:26.440 --> 00:06:29.160
+height was 170 cm so that would be this
+
+00:06:29.160 --> 00:06:32.919
+value here right well if we kept taking
+
+00:06:32.919 --> 00:06:36.360
+samples of three people we would expect
+
+00:06:36.360 --> 00:06:38.400
+that those samples would have a sample
+
+00:06:38.400 --> 00:06:43.479
+sum which is approximately 3 * 170 n *
+
+00:06:43.479 --> 00:06:46.400
+mu the standard deviation of the sample
+
+00:06:46.400 --> 00:06:50.599
+sum is written as Sigma SN and this is
+
+00:06:50.599 --> 00:06:53.720
+equal to the standard deviation of the
+
+00:06:53.720 --> 00:06:56.160
+population multiplied by the square root
+
+00:06:56.160 --> 00:06:58.440
+of n the reason why there's a square
+
+00:06:58.440 --> 00:07:01.520
+root here and it's it's not just n Sigma
+
+00:07:01.520 --> 00:07:04.479
+is because the variance if you recall is
+
+00:07:04.479 --> 00:07:07.560
+the square of the standard deviation so
+
+00:07:07.560 --> 00:07:10.479
+the variance would be n * the variance
+
+00:07:10.479 --> 00:07:12.720
+of the population and then when we
+
+00:07:12.720 --> 00:07:14.720
+square root it to get the standard
+
+00:07:14.720 --> 00:07:16.639
+deviation that's where this square root
+
+00:07:16.639 --> 00:07:19.720
+comes from okay the mean of the sample
+
+00:07:19.720 --> 00:07:24.680
+mean is written as Mu xn and this is
+
+00:07:24.680 --> 00:07:27.560
+just equal to the population mean so to
+
+00:07:27.560 --> 00:07:29.879
+give a real life interpretation
+
+00:07:29.879 --> 00:07:34.720
+if the true average height was 170 cm if
+
+00:07:34.720 --> 00:07:37.520
+we took lots and lots of samples of
+
+00:07:37.520 --> 00:07:40.280
+three people and averaged the height of
+
+00:07:40.280 --> 00:07:43.120
+each of those samples we would expect
+
+00:07:43.120 --> 00:07:46.960
+most of those averages to be about 170
+
+00:07:46.960 --> 00:07:50.879
+the standard deviation of xar n is equal
+
+00:07:50.879 --> 00:07:53.000
+to the standard deviation of the
+
+00:07:53.000 --> 00:07:57.120
+population /un n the reason why it's
+
+00:07:57.120 --> 00:07:59.680
+like this is because record that the
+
+00:07:59.680 --> 00:08:04.000
+sample mean is found by dividing SN by n
+
+00:08:04.000 --> 00:08:06.759
+so if we took this standard deviation
+
+00:08:06.759 --> 00:08:09.960
+here which is Sigma root n that's the
+
+00:08:09.960 --> 00:08:12.759
+standard deviation of the sample sum and
+
+00:08:12.759 --> 00:08:15.639
+we divided it by n to get the sample
+
+00:08:15.639 --> 00:08:18.960
+mean like we do here then simplifying
+
+00:08:18.960 --> 00:08:22.199
+this gives us Sigma over root n if
+
+00:08:22.199 --> 00:08:23.840
+you're confused at this one just
+
+00:08:23.840 --> 00:08:26.080
+remember your index laws for these n
+
+00:08:26.080 --> 00:08:28.800
+values I know this may seem a little bit
+
+00:08:28.800 --> 00:08:29.879
+confusing
+
+00:08:29.879 --> 00:08:31.759
+but I promise the questions aren't that
+
+00:08:31.759 --> 00:08:34.799
+bad to explain it better let me try and
+
+00:08:34.799 --> 00:08:38.599
+use another example so let's say that X
+
+00:08:38.599 --> 00:08:41.958
+represents the average weight of a can
+
+00:08:41.958 --> 00:08:45.240
+of Coke produced by a factory where X is
+
+00:08:45.240 --> 00:08:49.480
+normally distributed with mean 250 g and
+
+00:08:49.480 --> 00:08:52.720
+standard deviation 2 G if we took a
+
+00:08:52.720 --> 00:08:56.959
+sample of 10 cans this sample now has
+
+00:08:56.959 --> 00:09:01.680
+two properties it has its sample sum S10
+
+00:09:01.680 --> 00:09:05.399
+and its sample mean xar 10 now in this
+
+00:09:05.399 --> 00:09:08.800
+case the sample sum S10 is found by
+
+00:09:08.800 --> 00:09:11.880
+adding up the weights of the cans right
+
+00:09:11.880 --> 00:09:14.720
+so S10 actually represents the total
+
+00:09:14.720 --> 00:09:18.440
+weight of 10 cans remember that the key
+
+00:09:18.440 --> 00:09:21.800
+word for sample sum is total the sample
+
+00:09:21.800 --> 00:09:25.680
+mean xar 10 represents the average
+
+00:09:25.680 --> 00:09:29.519
+weight of a can in a sample of 10 so
+
+00:09:29.519 --> 00:09:32.040
+that's the key word for sample mean
+
+00:09:32.040 --> 00:09:35.760
+average S10 and X10 both have their own
+
+00:09:35.760 --> 00:09:37.320
+distribution they're normally
+
+00:09:37.320 --> 00:09:38.920
+distributed but don't worry about why
+
+00:09:38.920 --> 00:09:41.360
+we'll talk about that later for now we
+
+00:09:41.360 --> 00:09:43.360
+just need to be able to use these
+
+00:09:43.360 --> 00:09:45.880
+formulas to find the mean and standard
+
+00:09:45.880 --> 00:09:48.360
+deviation of the sample sum and the
+
+00:09:48.360 --> 00:09:51.800
+sample mean so for S10 which is the
+
+00:09:51.800 --> 00:09:54.120
+total weight of 10 cans that would just
+
+00:09:54.120 --> 00:09:57.880
+be 10 * 250 which is
+
+00:09:57.880 --> 00:09:59.839
+2,500 and then then the standard
+
+00:09:59.839 --> 00:10:02.560
+deviation would be the standard
+
+00:10:02.560 --> 00:10:08.680
+deviation * root n so 2 * otk 10 for xar
+
+00:10:08.680 --> 00:10:12.320
+10 we can use these two formulas so the
+
+00:10:12.320 --> 00:10:15.480
+mean of xar n is just the population
+
+00:10:15.480 --> 00:10:18.720
+mean which is 250 and then the standard
+
+00:10:18.720 --> 00:10:22.760
+deviation is the standard deviation idun
+
+00:10:22.760 --> 00:10:26.760
+n so that would be 2un 10 just a quick
+
+00:10:26.760 --> 00:10:28.440
+reminder from continuous random
+
+00:10:28.440 --> 00:10:31.000
+variables that this squar is just for
+
+00:10:31.000 --> 00:10:33.160
+notation so the standard deviation is
+
+00:10:33.160 --> 00:10:35.880
+actually this number in the brackets
+
+00:10:35.880 --> 00:10:38.839
+okay let's do some questions we have the
+
+00:10:38.839 --> 00:10:41.639
+random variable X which is the duration
+
+00:10:41.639 --> 00:10:45.279
+of one song on a playlist X has mean 3
+
+00:10:45.279 --> 00:10:48.120
+minutes and standard deviation 0.5
+
+00:10:48.120 --> 00:10:51.959
+minutes so part A says what does s16
+
+00:10:51.959 --> 00:10:55.440
+represent remember that the key word for
+
+00:10:55.440 --> 00:11:00.440
+s or the sample sum was total so s16
+
+00:11:00.440 --> 00:11:04.680
+represents the total length of 16 songs
+
+00:11:04.680 --> 00:11:06.760
+in other words how long would it take to
+
+00:11:06.760 --> 00:11:10.240
+play 16 songs back to back part B says
+
+00:11:10.240 --> 00:11:13.519
+find the mean and standard deviation of
+
+00:11:13.519 --> 00:11:17.120
+s16 let's first find the mean of s16
+
+00:11:17.120 --> 00:11:20.279
+this is equal to n multiplied by the
+
+00:11:20.279 --> 00:11:25.279
+population mean so in this case n is 16
+
+00:11:25.279 --> 00:11:28.200
+because we're taking a sample of 16 and
+
+00:11:28.200 --> 00:11:31.760
+the population mean is 3 minutes so 16 *
+
+00:11:31.760 --> 00:11:35.800
+3 which is 48 minutes the standard
+
+00:11:35.800 --> 00:11:37.839
+deviation of
+
+00:11:37.839 --> 00:11:41.399
+s16 is the square root of n * the
+
+00:11:41.399 --> 00:11:44.519
+population standard deviation which isun
+
+00:11:44.519 --> 00:11:49.839
+16 multiplied 0.5 which is 2 minutes
+
+00:11:49.839 --> 00:11:53.600
+part C says what does xar 16 represent
+
+00:11:53.600 --> 00:11:58.040
+so xar 16 is the sample mean for a
+
+00:11:58.040 --> 00:12:01.000
+sample of 16 16 songs remember that the
+
+00:12:01.000 --> 00:12:04.560
+key word for sample mean was average so
+
+00:12:04.560 --> 00:12:08.079
+xar 16 represents the average length of
+
+00:12:08.079 --> 00:12:11.639
+a song in a sample of 16 Part D says
+
+00:12:11.639 --> 00:12:14.000
+find the mean and standard deviation for
+
+00:12:14.000 --> 00:12:18.680
+xar 16 so the mean of xar 16 is just
+
+00:12:18.680 --> 00:12:21.600
+equal to the mean of X which is 3
+
+00:12:21.600 --> 00:12:24.360
+minutes and the standard deviation for
+
+00:12:24.360 --> 00:12:28.360
+xar 16 is the standard deviation of X
+
+00:12:28.360 --> 00:12:34.399
+over The < TK of n so that is 0.5 /un 16
+
+00:12:34.399 --> 00:12:35.880
+which is
+
+00:12:35.880 --> 00:12:38.040
+0.125
+
+00:12:38.040 --> 00:12:40.800
+minutes all right let's do another
+
+00:12:40.800 --> 00:12:44.079
+question in this one we have the random
+
+00:12:44.079 --> 00:12:47.880
+variable X which represents the weight
+
+00:12:47.880 --> 00:12:50.440
+of a tulip in a flower shop X is
+
+00:12:50.440 --> 00:12:53.160
+normally distributed with mean 20 and
+
+00:12:53.160 --> 00:12:56.240
+standard deviation 2 part A says what
+
+00:12:56.240 --> 00:13:01.000
+does xar 25 and S 25 represent remember
+
+00:13:01.000 --> 00:13:06.000
+that the key word for xar was average so
+
+00:13:06.000 --> 00:13:09.440
+xar 25 would be the average weight of a
+
+00:13:09.440 --> 00:13:11.120
+tulip in a bunch of
+
+00:13:11.120 --> 00:13:17.959
+25 and the keyw for SN was total so s25
+
+00:13:17.959 --> 00:13:20.480
+represents the total weight of a bunch
+
+00:13:20.480 --> 00:13:24.240
+of 25 tulips Part B says find the mean
+
+00:13:24.240 --> 00:13:28.000
+and standard deviation for s25 we can do
+
+00:13:28.000 --> 00:13:30.079
+this using the form formulas the mean
+
+00:13:30.079 --> 00:13:35.440
+for s25 is equal n * the mean of X which
+
+00:13:35.440 --> 00:13:39.360
+is 25 multiplied the mean of X which is
+
+00:13:39.360 --> 00:13:43.639
+20 which is 500 the standard deviation
+
+00:13:43.639 --> 00:13:48.600
+of s25 isun n multiplied the standard
+
+00:13:48.600 --> 00:13:54.040
+deviation of X so this is 2 * by < TK
+
+00:13:54.040 --> 00:13:58.480
+25 which is 2 * 5 which is 10 part C
+
+00:13:58.480 --> 00:14:01.079
+says says find the standard deviation
+
+00:14:01.079 --> 00:14:03.560
+and mean of xar
+
+00:14:03.560 --> 00:14:07.160
+25 again we can use the formulas the
+
+00:14:07.160 --> 00:14:12.160
+mean of xar 25 is just the mean of X so
+
+00:14:12.160 --> 00:14:15.240
+this is equal to 20 and the standard
+
+00:14:15.240 --> 00:14:19.160
+deviation of xar 25 is the standard
+
+00:14:19.160 --> 00:14:26.240
+deviation of x /un n so this is 2 over <
+
+00:14:26.240 --> 00:14:32.160
+tk25 which is equal to 2 on 5 or 0.4
+
+00:14:32.160 --> 00:14:35.279
+finally in part D it says what happens
+
+00:14:35.279 --> 00:14:40.279
+to the standard deviation of xar n as n
+
+00:14:40.279 --> 00:14:43.079
+increases to answer this let's write
+
+00:14:43.079 --> 00:14:45.199
+down the formula for the standard
+
+00:14:45.199 --> 00:14:48.360
+deviation of x n this is equal to the
+
+00:14:48.360 --> 00:14:52.480
+standard deviation of x overun n so we
+
+00:14:52.480 --> 00:14:55.800
+can see that as n increases since n is
+
+00:14:55.800 --> 00:14:58.040
+on the bottom of the fraction this
+
+00:14:58.040 --> 00:15:00.120
+number should should decrease because
+
+00:15:00.120 --> 00:15:02.360
+we're dividing by a bigger and bigger
+
+00:15:02.360 --> 00:15:05.480
+number this property is in general by
+
+00:15:05.480 --> 00:15:08.120
+the way for All sample means and not
+
+00:15:08.120 --> 00:15:10.639
+just this particular question but let's
+
+00:15:10.639 --> 00:15:13.160
+explain why this makes sense using this
+
+00:15:13.160 --> 00:15:16.839
+example in this case X represents the
+
+00:15:16.839 --> 00:15:19.000
+weight of one tulip which is sold by a
+
+00:15:19.000 --> 00:15:22.040
+flower shop so X is normally distributed
+
+00:15:22.040 --> 00:15:25.560
+with mean 20 and therefore the weights
+
+00:15:25.560 --> 00:15:27.759
+of some of the Tulips could be like 20
+
+00:15:27.759 --> 00:15:31.959
+22 23 24 if I found a tulet which had
+
+00:15:31.959 --> 00:15:35.120
+weight 24 that's two standard deviations
+
+00:15:35.120 --> 00:15:37.240
+above the mean so while it's not that
+
+00:15:37.240 --> 00:15:40.680
+likely I wouldn't be too surprised right
+
+00:15:40.680 --> 00:15:44.360
+now consider xar 25 like we have in this
+
+00:15:44.360 --> 00:15:46.920
+question this represents the average
+
+00:15:46.920 --> 00:15:50.440
+weight of a tulip in a sample of 25 so
+
+00:15:50.440 --> 00:15:54.120
+for this to take a value of 24 we'd have
+
+00:15:54.120 --> 00:15:57.240
+to pick 25 tulips and all of them would
+
+00:15:57.240 --> 00:16:00.519
+have to average to a weight of 24 in
+
+00:16:00.519 --> 00:16:02.600
+other words pretty much all of them
+
+00:16:02.600 --> 00:16:05.480
+would have to have a weight which is two
+
+00:16:05.480 --> 00:16:07.759
+standard deviations above the mean now
+
+00:16:07.759 --> 00:16:11.720
+for one tulip to sit in this value it's
+
+00:16:11.720 --> 00:16:15.759
+reasonably likely however for all 25
+
+00:16:15.759 --> 00:16:17.680
+tulips to have an average around this
+
+00:16:17.680 --> 00:16:20.720
+value it's very very very unlikely so
+
+00:16:20.720 --> 00:16:23.720
+what this means is as we increase n or
+
+00:16:23.720 --> 00:16:26.759
+we increase the sample size the values
+
+00:16:26.759 --> 00:16:29.920
+of xar n become come closer and closer
+
+00:16:29.920 --> 00:16:32.800
+distributed around the mean or in other
+
+00:16:32.800 --> 00:16:35.959
+words the standard deviation decreases
+
+00:16:35.959 --> 00:16:38.480
+so if I had to draw a distribution of X
+
+00:16:38.480 --> 00:16:40.600
+it may look something like this but then
+
+00:16:40.600 --> 00:16:43.360
+if I drew xar 25 it may look something
+
+00:16:43.360 --> 00:16:45.839
+like this notice how they have the same
+
+00:16:45.839 --> 00:16:49.279
+mean but the standard deviation of xar
+
+00:16:49.279 --> 00:16:53.480
+25 has been reduced okay next question
+
+00:16:53.480 --> 00:16:56.040
+in this one we're given a random
+
+00:16:56.040 --> 00:16:59.160
+variable X which has a probability
+
+00:16:59.160 --> 00:17:02.279
+distribution here recall that this kind
+
+00:17:02.279 --> 00:17:04.199
+of looks like the probability
+
+00:17:04.199 --> 00:17:06.559
+distributions we were dealing with when
+
+00:17:06.559 --> 00:17:09.280
+we were doing discrete random variables
+
+00:17:09.280 --> 00:17:11.919
+part A says find the probability
+
+00:17:11.919 --> 00:17:17.359
+distribution for S2 so remember that S2
+
+00:17:17.359 --> 00:17:21.000
+represents the sum when we take this
+
+00:17:21.000 --> 00:17:24.160
+random variable twice we can read this
+
+00:17:24.160 --> 00:17:27.520
+probability distribution table to see
+
+00:17:27.520 --> 00:17:29.320
+what it would be if if we took this
+
+00:17:29.320 --> 00:17:31.880
+variable once if we took it once there's
+
+00:17:31.880 --> 00:17:35.080
+two values 1 and three and here are
+
+00:17:35.080 --> 00:17:37.840
+their corresponding probabilities if we
+
+00:17:37.840 --> 00:17:40.960
+took it twice and added them together we
+
+00:17:40.960 --> 00:17:43.440
+could get a one and a one which would
+
+00:17:43.440 --> 00:17:46.760
+make two we could get a one and a three
+
+00:17:46.760 --> 00:17:48.840
+which would make four we could get a
+
+00:17:48.840 --> 00:17:50.960
+three and then a one which would also
+
+00:17:50.960 --> 00:17:53.400
+make four and then we could get a three
+
+00:17:53.400 --> 00:17:56.480
+and a three which would make six so
+
+00:17:56.480 --> 00:17:58.880
+therefore there are three possible
+
+00:17:58.880 --> 00:18:05.280
+values for S2 those are 2 4 and 6 now
+
+00:18:05.280 --> 00:18:08.919
+let's calculate the probabilities for S2
+
+00:18:08.919 --> 00:18:12.600
+for S2 to have a value of two we'd have
+
+00:18:12.600 --> 00:18:16.640
+to get 1 and then 1 again so we can find
+
+00:18:16.640 --> 00:18:21.799
+this probability by 2 on 5 * 2 on 5 to
+
+00:18:21.799 --> 00:18:25.400
+get a four we either get a 1 and then a
+
+00:18:25.400 --> 00:18:29.600
+three or a three and then a 1
+
+00:18:29.600 --> 00:18:32.840
+so to get a 1 and then a three that
+
+00:18:32.840 --> 00:18:37.520
+would be 2 5 * 3 5 and then to get a
+
+00:18:37.520 --> 00:18:40.360
+three and then a 1 that would be 3 on 5
+
+00:18:40.360 --> 00:18:43.600
+* 2 on 5 which is the same as this so
+
+00:18:43.600 --> 00:18:46.480
+essentially it's this * 2 right to get a
+
+00:18:46.480 --> 00:18:49.520
+six we would have to get three and then
+
+00:18:49.520 --> 00:18:54.159
+three so that's 3 on 5 * 3 on 5 I'm just
+
+00:18:54.159 --> 00:18:56.200
+going to put each of these values here
+
+00:18:56.200 --> 00:18:58.440
+into my calculator and see what they
+
+00:18:58.440 --> 00:19:03.880
+come out at so 2 on 5^ 2 is 4 on 25 2 on
+
+00:19:03.880 --> 00:19:10.960
+5 * 3 on 5 * 2 is 12 on 25 and 3 on 5^ 2
+
+00:19:10.960 --> 00:19:15.760
+is 9 on 25 part B says find the mean and
+
+00:19:15.760 --> 00:19:19.600
+standard deviation for S2 there are two
+
+00:19:19.600 --> 00:19:22.120
+ways we could go about doing this notice
+
+00:19:22.120 --> 00:19:24.600
+that we have a distribution table here
+
+00:19:24.600 --> 00:19:28.960
+for S2 and we can use the formulas to
+
+00:19:28.960 --> 00:19:32.200
+find the mean and the standard deviation
+
+00:19:32.200 --> 00:19:34.400
+of this random variable remember that
+
+00:19:34.400 --> 00:19:35.919
+these were from discrete random
+
+00:19:35.919 --> 00:19:38.360
+variables another way of doing this
+
+00:19:38.360 --> 00:19:40.360
+would be to use those formulas to find
+
+00:19:40.360 --> 00:19:43.720
+the mean and standard deviation of X and
+
+00:19:43.720 --> 00:19:46.720
+then use the sampling formulas to find
+
+00:19:46.720 --> 00:19:48.679
+these values because we're doing
+
+00:19:48.679 --> 00:19:51.039
+sampling let's do it that way so the
+
+00:19:51.039 --> 00:19:52.960
+first thing we want to do is find the
+
+00:19:52.960 --> 00:19:57.039
+mean of X that's this variable here
+
+00:19:57.039 --> 00:19:59.039
+remember that the form formula to do
+
+00:19:59.039 --> 00:20:01.320
+this for a probability distribution
+
+00:20:01.320 --> 00:20:05.919
+table was the sum of x i p i which is 1
+
+00:20:05.919 --> 00:20:12.360
+* 2 on 5 + 3 * 3 on 5 which is 11 on 5
+
+00:20:12.360 --> 00:20:15.799
+the standard deviation of X is Big
+
+00:20:15.799 --> 00:20:20.480
+Square t and then the sum of x i^ 2 p i
+
+00:20:20.480 --> 00:20:24.320
+minus the mean s subbing this in we have
+
+00:20:24.320 --> 00:20:31.400
+the < TK of 1^ 2 * 2 5 + 3^ 2 * 3 5 and
+
+00:20:31.400 --> 00:20:34.640
+then we're subtracting the mean squ so -
+
+00:20:34.640 --> 00:20:38.400
+11 on 5 all 2 putting this into the
+
+00:20:38.400 --> 00:20:42.400
+calculator gives us a value of < TK4 on
+
+00:20:42.400 --> 00:20:46.640
+5 so now we found the mean and the
+
+00:20:46.640 --> 00:20:49.760
+standard deviation of this random
+
+00:20:49.760 --> 00:20:53.280
+variable we can use the formulas to find
+
+00:20:53.280 --> 00:20:56.720
+the mean and standard deviation for S2
+
+00:20:56.720 --> 00:20:58.679
+the mean of s
+
+00:20:58.679 --> 00:21:05.080
+S2 is n * the mean of X which is 2 * 11
+
+00:21:05.080 --> 00:21:08.840
+5 which is 22 on 5 the standard
+
+00:21:08.840 --> 00:21:14.559
+deviation of S2 is square < TK n multili
+
+00:21:14.559 --> 00:21:17.679
+the standard deviation of X so that's <
+
+00:21:17.679 --> 00:21:23.320
+tk2 * by < TK4 on 5 and that gives us <
+
+00:21:23.320 --> 00:21:28.480
+TK 48 on 5 part C says find the standard
+
+00:21:28.480 --> 00:21:32.159
+deviation and mean for s50 so to do this
+
+00:21:32.159 --> 00:21:36.000
+we can use the same formulas the mean of
+
+00:21:36.000 --> 00:21:40.640
+s50 is equal to 50 * the mean of X which
+
+00:21:40.640 --> 00:21:44.480
+we said before was 11 on 5 that's equal
+
+00:21:44.480 --> 00:21:48.760
+to 110 and the standard deviation of
+
+00:21:48.760 --> 00:21:53.440
+s50 isun 50 * by the standard deviation
+
+00:21:53.440 --> 00:21:58.360
+of X which is < TK4 on 5 which is is
+
+00:21:58.360 --> 00:22:00.960
+using my calculator approximately equal
+
+00:22:00.960 --> 00:22:02.320
+to
+
+00:22:02.320 --> 00:22:04.840
+6.93 finally we need to find the mean
+
+00:22:04.840 --> 00:22:08.000
+and standard deviation of xar 50 the
+
+00:22:08.000 --> 00:22:11.919
+mean of xar 50 is just equal to the mean
+
+00:22:11.919 --> 00:22:15.720
+of X which is 11 on 5 and the standard
+
+00:22:15.720 --> 00:22:19.320
+deviation of xar 50 is the standard
+
+00:22:19.320 --> 00:22:23.960
+deviation of X over < tk50 so that is <
+
+00:22:23.960 --> 00:22:28.799
+TK4 5 overun 50 and again using the
+
+00:22:28.799 --> 00:22:31.279
+calculator this is approximately equal
+
+00:22:31.279 --> 00:22:33.360
+to
+
+00:22:33.360 --> 00:22:36.200
+0.139 okay that's the end of this video
+
+00:22:36.200 --> 00:22:38.159
+after watching this one you should be
+
+00:22:38.159 --> 00:22:40.640
+able to do these things interpret the
+
+00:22:40.640 --> 00:22:45.159
+sample sum SN and Sample mean xar n
+
+00:22:45.159 --> 00:22:48.880
+remember that the keyw for SN was total
+
+00:22:48.880 --> 00:22:52.520
+and the keyw for xar n was average
+
+00:22:52.520 --> 00:22:54.799
+secondly we need to be able to use the
+
+00:22:54.799 --> 00:22:57.440
+formulas to find the mean and standard
+
+00:22:57.440 --> 00:22:58.480
+deviation
+
+00:22:58.480 --> 00:23:01.200
+for each of these and finally this was
+
+00:23:01.200 --> 00:23:03.520
+that last question which was a bit weird
+
+00:23:03.520 --> 00:23:05.320
+we need to be able to find the
+
+00:23:05.320 --> 00:23:08.919
+probability distribution for SN if we're
+
+00:23:08.919 --> 00:23:12.360
+given the probability distribution of X
+
+00:23:12.360 --> 00:23:14.480
+these last questions don't come up as
+
+00:23:14.480 --> 00:23:16.919
+much in tests but we still need to be
+
+00:23:16.919 --> 00:23:19.960
+able to do them
+
