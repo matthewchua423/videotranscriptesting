@@ -4,7 +4,7 @@ WEBVTT
 okay this is the last topic for SACE
 
 00:00:05.040 --> 00:00:08.320
-stage 2 methods it's called sampling and
+stage 2 methods, it's called sampling and
 
 00:00:08.320 --> 00:00:09.440
 confidence
@@ -25,7 +25,7 @@ topics we did which are discrete random
 variables and continuous random
 
 00:00:23.119 --> 00:00:25.920
-variables we can divide this topic up
+variables. We can divide this topic up
 
 00:00:25.920 --> 00:00:28.800
 into two parts which I want you to keep
@@ -34,46 +34,46 @@ into two parts which I want you to keep
 in mind as we go through this series of
 
 00:00:31.399 --> 00:00:34.000
-videos the first part is called sample
+videos. The first part is called sample
 
 00:00:34.000 --> 00:00:36.559
 means and the second part is called
 
 00:00:36.559 --> 00:00:39.559
-sample proportions in this video we're
+sample proportions. In this video we're
 
 00:00:39.559 --> 00:00:41.760
 going to go through an introduction to
 
 00:00:41.760 --> 00:00:45.440
-sampling and specifically sample means
+sampling and specifically sample means.
 
 00:00:45.440 --> 00:00:48.600
-so first let's talk about what sampling
+So first let's talk about what sampling
 
 00:00:48.600 --> 00:00:51.480
-actually is let's say that we wanted to
+actually is. Let's say that we wanted to
 
 00:00:51.480 --> 00:00:54.719
 find the average height of every human
 
 00:00:54.719 --> 00:00:57.120
-being in the world practically this
+being in the world. Practically, this
 
 00:00:57.120 --> 00:00:59.480
 would be impossible because we'd have to
 
 00:00:59.480 --> 00:01:03.079
-measure every single person right so
+measure every single person right? So
 
 00:01:03.079 --> 00:01:06.080
 instead what we can do is we can take a
 
 00:01:06.080 --> 00:01:08.799
-smaller sample of the world population
+smaller sample of the world population,
 
 00:01:08.799 --> 00:01:11.799
-let's say of 100 people and we could
+let's say of 100 people, and we could
 
 00:01:11.799 --> 00:01:14.880
 average the height of this sample of 100
@@ -82,19 +82,19 @@ average the height of this sample of 100
 and use that sample mean to average the
 
 00:01:18.360 --> 00:01:22.400
-true population mean height so that's
+true population mean height. So that's
 
 00:01:22.400 --> 00:01:25.240
-what sampling is used for we take a
+what sampling is used for - we take a
 
 00:01:25.240 --> 00:01:27.479
 sample which is meant to be
 
 00:01:27.479 --> 00:01:30.600
-representative of the whole population
+representative of the whole population.
 
 00:01:30.600 --> 00:01:33.799
-when we take a sample of a population
+When we take a sample of a population
 
 00:01:33.799 --> 00:01:36.240
 there are two types of variables that we
@@ -103,10 +103,10 @@ there are two types of variables that we
 can
 
 00:01:37.000 --> 00:01:40.280
-analyze sample means and Sample
+analyze: sample means and sample
 
 00:01:40.280 --> 00:01:44.000
-proportions a sample mean is the average
+proportions. A sample mean is the average
 
 00:01:44.000 --> 00:01:47.119
 data value of a population so for
@@ -115,7 +115,7 @@ data value of a population so for
 example the average height or the
 
 00:01:50.000 --> 00:01:53.799
-average duration of a song a sample
+average duration of a song. A sample
 
 00:01:53.799 --> 00:01:57.240
 proportion is the percentage of data
@@ -124,16 +124,16 @@ proportion is the percentage of data
 values which fall into a particular
 
 00:02:00.079 --> 00:02:03.520
-category so for example the percentage
+category. So for example the percentage
 
 00:02:03.520 --> 00:02:07.320
-of people who are above 6t tall or the
+of people who are above 6ft tall or the
 
 00:02:07.320 --> 00:02:09.878
 percentage of songs which are between 2
 
 00:02:09.878 --> 00:02:13.200
-and 3 minutes long so because of this
+and 3 minutes long. So because of this,
 
 00:02:13.200 --> 00:02:15.599
 notice that sample proportions always
@@ -151,7 +151,7 @@ falls into that category and one means
 100% of the population falls into that
 
 00:02:27.840 --> 00:02:30.599
-category on the other hand sample means
+category. On the other hand sample means
 
 00:02:30.599 --> 00:02:33.360
 can take any value because they just
@@ -160,19 +160,22 @@ can take any value because they just
 represent the average data value of a
 
 00:02:36.280 --> 00:02:39.360
-population keep this table in mind as we
+population. Keep this table in mind as we
 
 00:02:39.360 --> 00:02:42.280
-work through the next few videos the
+work through the next few videos. The
 
 00:02:42.280 --> 00:02:43.800
-first few will'll be talking about
+first few, we will be talking about
 
 00:02:43.800 --> 00:02:46.319
 sample means and then we'll go on to
 
-00:02:46.319 --> 00:02:49.239
-sample proportions let's talk about
+00:02:46.319 --> 00:02:47.000
+sample proportions. 
+
+00:02:47.000 --> 00:02:49.239
+Let's talk about
 
 00:02:49.239 --> 00:02:52.959
 sample means first the sample mean is
